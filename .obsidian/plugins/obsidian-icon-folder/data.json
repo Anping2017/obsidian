@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPyramid",
+      "LiAlignHorizontalJustifyStart",
+      "LiBatteryCharging",
+      "♦",
+      "LiPaintbrush"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "计算机/开发学习/框架": "LiFrame",
+  "计算机/开发学习/模块": "LiDiamondPercent",
+  "计算机/开发学习/系统": "LiRecycle",
+  "计算机/开发学习/语言": "LiLandPlot",
+  "计算机/开发学习": "LiCode2",
+  "计算机/数据存储": "LiDatabase",
+  "计算机/运维知识": "LiUserCog",
+  "计算机/编程基础": "LiBraces",
+  "计算机": "LiComputer",
+  "物理学": "LiMove",
+  "Excalidraw": "LiPaintbrush",
+  "Obsidian学习": "♦",
+  "计算机/开发学习/新技术": "LiBatteryCharging",
+  "计算机/开发学习/项目": "LiAlignHorizontalJustifyStart",
+  "计算机/开发学习/中间层": "LiPyramid"
+}
