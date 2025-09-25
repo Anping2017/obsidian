@@ -129,3 +129,4 @@
 
 [[Odoo 报表（Report）开发]]
 [[Odoo 向导（Wizard）开发]]
+[[Odoo Widget 开发]]
