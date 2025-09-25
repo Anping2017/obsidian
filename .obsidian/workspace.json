@@ -225,8 +225,9 @@
   },
   "active": "7f1c7818550ee32c",
   "lastOpenFiles": [
-    "计算机/开发学习/系统/Odoo/核心对象 self , env , context.md",
+    "计算机/开发学习/系统/Odoo/服务器动作 ir.actions.server.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
+    "计算机/开发学习/系统/Odoo/核心对象 self , env , context.md",
     "计算机/开发学习/系统/Odoo/复杂多级关系查询（Domain）.md",
     "计算机/开发学习/系统/Odoo/计算字段Computed Field.md",
     "计算机/开发学习/系统/Odoo/装饰器depends.md",
@@ -251,7 +252,6 @@
     "计算机/开发学习/系统/Odoo/基础概念/用户和用户组.md",
     "Obsidian学习/obsidian知识地图.md",
     "计算机/开发学习/系统/Odoo/基础概念/视图层权限.md",
-    "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限的层次.md",
     "Pasted image 20250924135807.png",
     "计算机/开发学习/系统/Odoo/Odoo.md.baiduyun.uploading.cfg",
     "营销/运营之光.md.baiduyun.uploading.cfg",

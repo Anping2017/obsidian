@@ -53,7 +53,7 @@
             
         - `onchange`机制：表单字段值变动触发的逻辑
             
-    - 自动化工具：服务器动作 (`ir.actions.server`)、计划任务 (`ir.cron`)
+    - 自动化工具：服务器动作 (`ir.actions.server`)、计划任务 (`ir.cron`)  [[服务器动作 ir.actions.server]]
         
 3. **视图与UI进阶**
     
