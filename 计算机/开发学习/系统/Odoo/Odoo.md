@@ -84,13 +84,13 @@
     
     - **后端API开发**
         
-        - XML-RPC与JSON-RPC：使用Odoo内置API进行外部系统交互
+        - XML-RPC与JSON-RPC：使用Odoo内置API进行外部系统交互  [[XML-RPC 与 JSON-RPC]]
             
-        - 创建自定义RESTful API接口
+        - 创建自定义RESTful API接口  [[自定义 RESTful API 接口]]
             
     - **外部集成与数据同步**
         
-        - 通过API进行数据批量导入导出
+        - 通过API进行数据批量导入导出  [[批量导入导出]]
             
         - 第三方服务集成（支付网关、邮件服务等）
             
