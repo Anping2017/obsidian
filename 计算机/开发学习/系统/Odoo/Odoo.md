@@ -40,8 +40,11 @@
         
     - 复杂多级关系查询（Domain）与字段计算   [[复杂多级关系查询（Domain）]]
         
-    - `depends()`装饰器与计算字段 (`computed fields`)   [[装饰器depends]]   [[计算字段Computed Field]]]
+    - `depends()`装饰器与计算字段 (`computed fields`)   [[装饰器depends]]   [[计算字段Computed Field]]]  
         
+    - 核心对象：`self` 与 `env`    [[核心对象 self , env , context]]
+
+
 2. **业务逻辑与自动化**
     
     - **核心方法与业务逻辑**
