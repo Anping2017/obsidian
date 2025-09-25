@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/ORM核心方法.md",
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ORM核心方法"
+              "title": "Odoo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/ORM核心方法.md",
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ORM核心方法 的反向链接列表"
+              "title": "Odoo 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/ORM核心方法.md",
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ORM核心方法 的大纲"
+              "title": "Odoo 的大纲"
             }
           },
           {
@@ -225,7 +225,9 @@
   },
   "active": "7f1c7818550ee32c",
   "lastOpenFiles": [
+    "计算机/开发学习/系统/Odoo/Odoo 向导（Wizard）开发.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
+    "计算机/开发学习/系统/Odoo/Odoo 报表（Report）开发.md",
     "计算机/开发学习/系统/Odoo/ORM核心方法.md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.browse().md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
@@ -249,8 +251,6 @@
     "计算机/开发学习/系统/Odoo/视图views.md",
     "计算机/开发学习/系统/Odoo/数据文件xml.md",
     "计算机/开发学习/系统/Odoo/mail模块.md",
-    "计算机/开发学习/系统/Odoo/web模块.md",
-    "计算机/开发学习/系统/Odoo/base模块.md",
     "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md.baiduyun.uploading.cfg",
     "Pasted image 20250924135807.png",
     "计算机/开发学习/系统/Odoo/Odoo.md.baiduyun.uploading.cfg",
