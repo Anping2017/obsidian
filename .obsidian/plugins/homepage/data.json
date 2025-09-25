@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "odoo开发学习/Odoo知识地图",
+      "value": "odoo",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

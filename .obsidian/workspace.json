@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
+                "file": "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Odoo"
+              "title": "Odoo 权限管理学习大纲"
             }
           }
         ]
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
+                "file": "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Odoo 的反向链接列表"
+              "title": "Odoo 权限管理学习大纲 的反向链接列表"
             }
           },
           {
@@ -214,17 +214,28 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "计算机/开发学习/系统/Odoo/基础概念/多公司环境权限管理.md",
+    "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md",
+    "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/系统/Odoo/基础概念/安全模型与访问权限.md",
+    "计算机/开发学习/系统/Odoo/基础概念/菜单层权限.md",
+    "计算机/开发学习/系统/Odoo/Odoo.md",
+    "计算机/开发学习/系统/Odoo/基础概念/记录规则.md",
+    "Obsidian学习/obsidian快捷键.md",
+    "计算机/开发学习/系统/Odoo/基础概念/模型访问控制（ACL）.md",
+    "计算机/开发学习/系统/Odoo/基础概念/用户和用户组.md",
+    "Obsidian学习/obsidian知识地图.md",
+    "计算机/开发学习/系统/Odoo/基础概念/视图层权限.md",
+    "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限的层次.md",
+    "Pasted image 20250924135807.png",
     "计算机/开发学习/系统/Odoo/Odoo.md.baiduyun.uploading.cfg",
     "计算机/开发学习/新技术/2025 ERP开发趋势.md",
-    "计算机/开发学习/系统/Odoo/Odoo.md",
-    "计算机/开发学习/系统/Odoo/基础概念/安全模型与访问权限.md",
     "营销/运营之光.md",
     "营销/运营之光.md.baiduyun.uploading.cfg",
     "图片/运维之光-私域运维体系知识地图dt2240249.png",
     "Excalidraw/运维之光.excalidraw.md.baiduyun.uploading.cfg",
     "Excalidraw/运维之光.excalidraw.md",
     "Obsidian学习/obsidian知识地图.md.baiduyun.uploading.cfg",
-    "Obsidian学习/obsidian知识地图.md",
     "图片/运维之光-私域运维体系知识地图dt2240249.png.baiduyun.uploading.cfg",
     "图片",
     "运维之光-私域运维体系知识地图dt2240249.png.baiduyun.uploading.cfg",
@@ -233,7 +244,6 @@
     "Excalidraw/运维之光.md",
     "Excalidraw/Drawing 2025-09-11 11.56.54.excalidraw.md.baiduyun.uploading.cfg",
     "Excalidraw/运维之光.md.baiduyun.uploading.cfg",
-    "1650186684-c242c9046d4e55b.png.baiduyun.uploading.cfg",
     "计算机/开发学习/中间层/MuleSoft.md",
     "计算机/开发学习/中间层/iPaaS.md",
     "计算机/开发学习/新技术/项目demo.md",
@@ -242,15 +252,6 @@
     "计算机/开发学习/新技术/2025 网站开发的核心趋势.md",
     "计算机/开发学习/新技术/2025 年开发的主要趋势.md",
     "计算机/数据存储/数据库/SQL.md",
-    "计算机/开发学习/模块/PostCSS/PostCSS.md",
-    "计算机/开发学习/模块/Tailwind/Tailwind.md",
-    "计算机/开发学习/框架/React/Vite/Vite.md",
-    "计算机/开发学习/框架/React/环境配置/Vite + React + Tailwind配置教程.md",
-    "计算机/开发学习/框架/React/基础概念/组件化.md",
-    "计算机/开发学习/框架/React/基础概念/虚拟 DOM.md",
-    "计算机/开发学习/框架/React/基础概念/声明式.md",
-    "计算机/开发学习/框架/React/Next.js/Next.js.md",
-    "计算机/开发学习/框架/React/React.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
@@ -260,7 +261,6 @@
     "BaiduSyncdisk/537d730e-350e-40c3-bbd2-22f2bb2e70d2.png",
     "BaiduSyncdisk/0703fa16-0b97-4079-bd89-e19938176a0b.png",
     "BaiduSyncdisk/0318f00e-1518-4ad4-8f5e-699a27af2fdb.png",
-    "BaiduSyncdisk/0420cfb0-ba83-481e-8579-36df7fd73ba4.png",
-    "BaiduSyncdisk/04ba2e37-9dc5-47af-9bb9-fdd7911e50f9.png"
+    "BaiduSyncdisk/0420cfb0-ba83-481e-8579-36df7fd73ba4.png"
   ]
 }
