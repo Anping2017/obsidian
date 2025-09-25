@@ -38,9 +38,9 @@
         
     - 高级ORM方法：`search()`、`search_read()`、`mapped()`、`filtered()`、`sorted()`
         
-    - 复杂多级关系查询（Domain）与字段计算
+    - 复杂多级关系查询（Domain）与字段计算   [[复杂多级关系查询（Domain）]]
         
-    - `depends()`装饰器与计算字段 (`computed fields`)   [[装饰器depends]]
+    - `depends()`装饰器与计算字段 (`computed fields`)   [[装饰器depends]]   [[计算字段Computed Field]]]
         
 2. **业务逻辑与自动化**
     
