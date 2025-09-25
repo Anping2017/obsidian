@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
+                "file": "计算机/开发学习/系统/Odoo/ORM核心方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model.write(vals)"
+              "title": "ORM核心方法"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
+                "file": "计算机/开发学习/系统/Odoo/ORM核心方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Model.write(vals) 的反向链接列表"
+              "title": "ORM核心方法 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
+                "file": "计算机/开发学习/系统/Odoo/ORM核心方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Model.write(vals) 的大纲"
+              "title": "ORM核心方法 的大纲"
             }
           },
           {
@@ -223,16 +223,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "105b813b36e3e7b2",
+  "active": "7f1c7818550ee32c",
   "lastOpenFiles": [
+    "计算机/开发学习/系统/Odoo/Odoo.md",
+    "计算机/开发学习/系统/Odoo/ORM核心方法.md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.browse().md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.unlink().md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.search(domain).md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.read().md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.create(vals_list).md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.browse().md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
     "计算机/开发学习/新技术/2025 ERP开发趋势.md",
-    "计算机/开发学习/系统/Odoo/Odoo.md",
     "计算机/开发学习/系统/Odoo/批量导入导出.md",
     "计算机/开发学习/系统/Odoo/自定义 RESTful API 接口.md",
     "计算机/开发学习/系统/Odoo/XML-RPC 与 JSON-RPC.md",
@@ -250,7 +251,6 @@
     "计算机/开发学习/系统/Odoo/mail模块.md",
     "计算机/开发学习/系统/Odoo/web模块.md",
     "计算机/开发学习/系统/Odoo/base模块.md",
-    "计算机/开发学习/系统/Odoo/基础概念/菜单层权限.md",
     "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md.baiduyun.uploading.cfg",
     "Pasted image 20250924135807.png",
     "计算机/开发学习/系统/Odoo/Odoo.md.baiduyun.uploading.cfg",

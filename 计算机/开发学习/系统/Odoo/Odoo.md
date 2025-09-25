@@ -36,7 +36,7 @@
     
     - 模型继承机制：经典继承、原型继承、代理继承   [[Odoo 模型继承机制]]  
         
-    - 高级ORM方法：`search()`、`search_read()`、`mapped()`、`filtered()`、`sorted()`
+    - 高级ORM方法：`search()`、`search_read()`、`mapped()`、`filtered()`、`sorted()`  [[ORM核心方法]]
         
     - 复杂多级关系查询（Domain）与字段计算   [[复杂多级关系查询（Domain）]]
         
