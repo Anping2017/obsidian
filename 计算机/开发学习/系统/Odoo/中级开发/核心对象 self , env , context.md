@@ -80,18 +80,22 @@ self.unlink()
 
 ### 2.1 env 的组成
 
-|属性/方法|说明|
-|---|---|
-|`env.user`|当前用户对象（res.users）|
-|`env.uid`|当前用户 ID|
-|`env.company`|当前公司对象（res.company）|
-|`env.cr`|数据库游标，可执行原生 SQL（慎用）|
-|`env.context`|当前上下文字典|
-|`env['model.name']`|获取其他模型的 RecordSet 对象|
-|`env['model.name'].search()`|搜索记录|
-|`env['model.name'].create()`|创建记录|
-|`env['model.name'].browse()`|通过 ID 获取记录集|
-|`env.ref()`|通过 XML ID 获取记录|
+| 属性/方法                        | 说明                   |
+| ---------------------------- | -------------------- |
+| `env.user`                   | 当前用户对象（res.users）    |
+| `env.uid`                    | 当前用户 ID              |
+| `env.company`                | 当前公司对象（res.company）  |
+| `env.cr`                     | 数据库游标，可执行原生 SQL（慎用）  |
+| `env.context`                | 当前上下文字典              |
+| `env.companies`              |                      |
+| `env['model.name']`          | 获取其他模型的 RecordSet 对象 |
+| `env['model.name'].search()` | 搜索记录                 |
+| `env['model.name'].create()` | 创建记录                 |
+| `env['model.name'].browse()` | 通过 ID 获取记录集          |
+| `env.ref()`                  | 通过 XML ID 获取记录       |
+| `env.is_superuser()`         |                      |
+| `env.is_admin()`             |                      |
+| `env.is_system()`            |                      |
 
 ---
 

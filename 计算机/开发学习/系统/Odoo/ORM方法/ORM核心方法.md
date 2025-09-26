@@ -10,29 +10,40 @@
 
 | 方法                   | 作用   |                             | 示例                                                            |
 | -------------------- | ---- | --------------------------- | ------------------------------------------------------------- |
-| `create(vals)`       | 创建记录 | [[Model.create(vals_list)]] | `partner = self.env['res.partner'].create({'name': 'Alice'})` |
-| `write(vals)`        | 更新记录 | [[Model.write(vals)]]       | `partner.write({'email': 'alice@example.com'})`               |
+| `create()`           | 创建记录 | [[Model.create(vals_list)]] | `partner = self.env['res.partner'].create({'name': 'Alice'})` |
+| `write()`            | 更新记录 | [[Model.write(vals)]]       | `partner.write({'email': 'alice@example.com'})`               |
 | `unlink()`           | 删除记录 | [[Model.unlink()]]          | `partner.unlink()`                                            |
 | `copy(default=None)` | 复制记录 | [[Model.copy()]]            | `new_partner = partner.copy({'name': 'Alice Copy'})`          |
 
 > `vals` 是字典，包含字段名和值
 
 
+Model.default_get
+Model.name_create(name) 
 
 
 ---
 
 ## 2. 查询方法
 
-| 方法                                             | 作用1111111111111111 |                          | 示例                                                                                           |
-| ---------------------------------------------- | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------- |
-| `search(domain, limit=None, order=None)`       | 根据条件搜索记录集          | [[Model.search(domain)]] | `partners = self.env['res.partner'].search([('is_company','=',True)])`                       |
-| `browse(ids)`                                  | 根据 ID 获取记录集        | [[Model.browse()]]       | `partner = self.env['res.partner']<br>.browse(1)`                                            |
-| `read(fields=None)`                            | 读取字段值（返回字典列表）      | [[Model.read()]]         | `self.env['res.partner'].browse([1,2]).read(['name','email'])`                               |
-| `search_read(domain, fields=None, limit=None)` | 一步搜索并读取字段          |                          | `self.env['res.partner'].search_read([('is_company','=',True)], ['name','email'], limit=10)` |
-| `search_count(domain)`                         | 根据条件统计数量           |                          | `count = self.env['res.partner'].search_count([('is_company','=',True)])`                    |
-| `mapped(field_name)`                           | 获取字段列表或关联字段值       |                          | `emails = partners.mapped('email')`                                                          |
-|                                                |                    |                          |                                                                                              |
+| 方法                                             | 作用1111111111111111 |                                                   | 示例                                                                                           |
+| ---------------------------------------------- | ------------------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| `search()`                                     | 根据条件搜索记录集          | [[Model.search(_domain, limit=None, order=None)]] | `partners = self.env['res.partner'].search([('is_company','=',True)])`                       |
+| `browse()`                                     | 根据 ID 获取记录集        | [[Model.browse(_ids_)]]                           | `partner = self.env['res.partner']<br>.browse(1)`                                            |
+| `read()`                                       | 读取字段值（返回字典列表）      | [[Model.read(_fields_)]]                                  | `self.env['res.partner'].browse([1,2]).read(['name','email'])`                               |
+|                                                |                    |                                                   |                                                                                              |
+| `search_read(domain, fields=None, limit=None)` | 一步搜索并读取字段          |                                                   | `self.env['res.partner'].search_read([('is_company','=',True)], ['name','email'], limit=10)` |
+| `search_count(domain)`                         | 根据条件统计数量           |                                                   | `count = self.env['res.partner'].search_count([('is_company','=',True)])`                    |
+| `mapped(field_name)`                           | 获取字段列表或关联字段值       |                                                   | `emails = partners.mapped('email')`                                                          |
+|                                                |                    |                                                   |                                                                                              |
+`Model.search_fetch(_domain, field_names[, offset=0][, limit=None][, order=None]_)
+`Model.name_search(_name=''_, _args=None_, _operator='ilike'_, _limit=100_)
+`Model.fetch(_field_names_)
+`Model._read_group(_domain_, _groupby=()_, _aggregates=()_, _having=()_, _offset=0_, _limit=None_, _order=None_)
+`Model.read_group(_domain_, _fields_, _groupby_, _offset=0_, _limit=None_, _orderby=False_, _lazy=True_)
+
+Model.fields_get() 
+
 
 ---
 
@@ -60,23 +71,23 @@
 | 添加单条关系               | 添加 ID 为 1 的关联   |     | `partner.child_ids = [(4, 1)]`          |
 | 删除关系                 | 移除关联 ID 为 1 的关系 |     | `partner.child_ids = [(3, 1)]`          |
 | 替换所有                 | 替换现有关联为 2,3     |     | `partner.child_ids = [(6, 0, [2,3])]`   |
-
+odoo.fields.Command
 
 > 常用 command：
 > 
-> - `0` 创建新记录
+> - `0` 创建新记录 CREATE
 >     
-> - `1` 更新记录
+> - `1` 更新记录 UPDATE
 >     
-> - `2` 删除记录
+> - `2` 删除记录 DELETE
 >     
-> - `3` 移除关系
+> - `3` 移除关系 UNLINK
 >     
-> - `4` 添加关系
+> - `4` 添加关系 LINK
 >     
-> - `5` 移除所有关系
+> - `5` 移除所有关系 CLEAR
 >     
-> - `6` 替换所有关系
+> - `6` 替换所有关系 SET
 >     
 
 ---
@@ -91,14 +102,27 @@
 
 ---
 
-## 6. 事务与上下文
+## 6. 环境与上下文
 
-| 对象                    | 作用       | 示例                                             |
-| --------------------- | -------- | ---------------------------------------------- |
-| `sudo()`              | 绕过权限执行   | `self.env['res.partner'].sudo().create({...})` |
-| `with_context(**ctx)` | 修改上下文执行  | `self.with_context(lang='en_US').name_get()`   |
-| `env`                 | ORM 环境对象 | `self.env['sale.order']`                       |
-| `context`             | 当前上下文    | `self.env.context.get('key')`                  |
+| 对象               | 作用       | 示例                                             |
+| ---------------- | -------- | ---------------------------------------------- |
+| `env`            | ORM 环境对象 | `self.env['sale.order']`                       |
+| `context`        | 当前上下文    | `self.env.context.get('key')`                  |
+| `lang`           |          |                                                |
+| `user`           |          |                                                |
+| `company`        |          |                                                |
+| `companies`      |          |                                                |
+|                  |          |                                                |
+| `with_context()` | 修改上下文执行  | `self.with_context(lang='en_US').name_get()`   |
+| `with_company()` |          |                                                |
+| `with_user()`    |          |                                                |
+| `with_env()`     |          |                                                |
+|                  |          |                                                |
+| `sudo()`         | 绕过权限执行   | `self.env['res.partner'].sudo().create({...})` |
+| `ref()`          |          |                                                |
+| `is_superuser()` |          |                                                |
+| `is_admin()`     |          |                                                |
+| `is_system()`    |          |                                                |
 
 ---
 

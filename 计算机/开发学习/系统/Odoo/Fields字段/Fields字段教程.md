@@ -27,6 +27,8 @@
     - Many2many
 4. 特殊类型
     - Json
+    - Reference
+    - Many2oneReference
 
 ---
 
@@ -67,6 +69,15 @@
 - **related** ( [_str_](https://docs.python.org/3/library/stdtypes.html#str "（在 Python v3.13 中）") ) – 字段名称序列
     
 - **default_export_compatible**（[_bool_](https://docs.python.org/3/library/functions.html#bool "（在 Python v3.13 中）")） – 在导入兼容的导出中，该字段是否必须默认导出
+
+
+保留字段
+- Model.name
+- Model.active
+- Model.state
+- Model.parent_id
+- Model.parent_path
+- Model.company_id
 
 
 ---

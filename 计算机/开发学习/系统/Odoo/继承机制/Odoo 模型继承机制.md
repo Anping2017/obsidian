@@ -41,36 +41,15 @@
 
 # 详解（按类型）
 
-## 扩展继承 (`_inherit`，无 `_name`)
+![[Pasted image 20250926231542.png]]
 
-**关键写法**：
 
-```python
-class ProductExtend(models.Model):
-    _inherit = 'product.product'
-    is_custom_made = fields.Boolean()
-```
 
-**核心效果**：
+## 经典继承 Classical inheritance（`_name` + `_inherit`）
 
-* 不创建新的数据库表；直接在被继承模型对应表上添加字段/方法/约束。
-* 最常用的非侵入式扩展方式。
+新模型从其基础模型中获取所有字段、方法和元信息
 
-**优点**：
 
-* 简单、直接；升级（core/module 更新）冲突风险较小。
-
-**缺点 / 注意点**：
-
-* 如果多个模块对同一字段名或视图做修改，可能发生冲突。
-
-**适用场景**：
-
-* 给标准或第三方模型增加字段、增加逻辑、覆盖方法或添加约束。
-
----
-
-## 新模型基于旧模型（`_name` + `_inherit`）
 
 **关键写法**：
 
@@ -101,7 +80,45 @@ class ServiceProduct(models.Model):
 
 ---
 
-## 委托 / 代理继承（`_inherits`）
+## 扩展/原型继承 Extension (`_inherit`，无 `_name`)
+
+新模型将**替换**现有模型，本质上是就地扩展它
+
+
+**关键写法**：
+
+```python
+class ProductExtend(models.Model):
+    _inherit = 'product.product'
+    is_custom_made = fields.Boolean()
+```
+
+**核心效果**：
+
+* 不创建新的数据库表；直接在被继承模型对应表上添加字段/方法/约束。
+* 最常用的非侵入式扩展方式。
+
+**优点**：
+
+* 简单、直接；升级（core/module 更新）冲突风险较小。
+
+**缺点 / 注意点**：
+
+* 如果多个模块对同一字段名或视图做修改，可能发生冲突。
+
+**适用场景**：
+
+* 给标准或第三方模型增加字段、增加逻辑、覆盖方法或添加约束。
+
+
+---
+
+## 委托 / 代理继承 Delegation（`_inherits`）
+
+会将_当前模型中未找到的任何字段的查找委托给“子”模型
+
+
+
 
 **关键写法**：
 

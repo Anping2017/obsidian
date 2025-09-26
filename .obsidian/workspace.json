@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
+                "file": "计算机/开发学习/系统/Odoo/Fields字段/Fields字段教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "装饰器depends"
+              "title": "Fields字段教程"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
+                "file": "计算机/开发学习/系统/Odoo/Fields字段/Fields字段教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "装饰器depends 的反向链接列表"
+              "title": "Fields字段教程 的反向链接列表"
             }
           },
           {
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
+                "file": "计算机/开发学习/系统/Odoo/Fields字段/Fields字段教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "装饰器depends 的大纲"
+              "title": "Fields字段教程 的大纲"
             }
           },
           {
@@ -296,16 +296,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/开发学习/系统/Odoo/Fields字段/Fields字段教程.md",
     "计算机/开发学习/系统/Odoo/ORM方法/ORM核心方法.md",
+    "计算机/开发学习/系统/Odoo/Fields字段/Fields字段教程.md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.read(_fields_).md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.browse(_ids_).md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.search(_domain, limit=None, order=None).md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.fields_get().md",
+    "计算机/开发学习/系统/Odoo/中级开发/核心对象 self , env , context.md",
+    "计算机/开发学习/系统/Odoo/继承机制/Odoo 模型继承机制.md",
+    "计算机/开发学习/系统/Odoo/继承机制/odoo继承字段属性哪些可以改.md",
+    "计算机/开发学习/系统/Odoo/继承机制/odoo继承字段属性修改规则.md",
+    "计算机/开发学习/系统/Odoo/继承机制/odoo如何避免多模块覆盖同一值产生冲突.md",
+    "Pasted image 20250926231542.png",
+    "Pasted image 20250926231530.png",
+    "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
     "计算机/开发学习/系统/Odoo/Fields字段",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.read().md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
     "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.browse().md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.search(domain).md",
     "计算机/开发学习/系统/Odoo/基础概念/odoo ORM核心原理.md",
-    "计算机/开发学习/系统/Odoo/中级开发/核心对象 self , env , context.md",
     "计算机/开发学习/系统/Odoo/Domain表达式/复杂多级关系查询（Domain）.md",
     "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
     "计算机/开发学习/系统/Odoo/外部集成和接口/批量导入导出.md",
@@ -318,12 +326,6 @@
     "计算机/开发学习/系统/Odoo/数据文件/QWeb 模板引擎.md",
     "计算机/开发学习/系统/Odoo/数据文件/数据文件xml.md",
     "计算机/开发学习/系统/Odoo/视图层/视图views.md",
-    "计算机/开发学习/系统/Odoo/视图层/XML视图层.md",
-    "计算机/开发学习/系统/Odoo/视图层/视图层权限.md",
-    "计算机/开发学习/系统/Odoo/权限管理/Odoo 权限管理学习大纲.md",
-    "计算机/开发学习/系统/Odoo/权限管理/核心概念/多公司环境权限管理.md",
-    "计算机/开发学习/系统/Odoo/权限管理/核心概念/安全防护.md",
-    "计算机/开发学习/系统/Odoo/调试和优化/软件质量保障：测试方法与实践.md",
     "计算机/开发学习/系统/Odoo/数据文件",
     "计算机/开发学习/系统/Odoo/外部集成和接口",
     "计算机/开发学习/系统/Odoo/动作和自动化",
@@ -342,8 +344,6 @@
     "BaiduSyncdisk/020e39e9-a6c0-4d20-b14a-151901161dd3.png",
     "BaiduSyncdisk/00c95500-a362-47a3-ad46-7036ba35cf7a.png",
     "BaiduSyncdisk/537d730e-350e-40c3-bbd2-22f2bb2e70d2.png",
-    "BaiduSyncdisk/0703fa16-0b97-4079-bd89-e19938176a0b.png",
-    "BaiduSyncdisk/0318f00e-1518-4ad4-8f5e-699a27af2fdb.png",
-    "BaiduSyncdisk/0420cfb0-ba83-481e-8579-36df7fd73ba4.png"
+    "BaiduSyncdisk/0703fa16-0b97-4079-bd89-e19938176a0b.png"
   ]
 }
