@@ -1,5 +1,8 @@
 # Odoo 视图（Views）结构化概览
 
+
+https://www.odoo.com/documentation/17.0/developer/reference/user_interface/view_architectures.html
+
 ## 1. 核心概念
 
 - 视图 = 将模型数据转换为用户界面
