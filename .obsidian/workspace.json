@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/中级开发/多公司指南.md",
+                "file": "计算机/开发学习/语言/NodeJS/Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多公司指南"
+              "title": "Node.js"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/中级开发/多公司指南.md",
+                "file": "计算机/开发学习/语言/NodeJS/Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "多公司指南 的反向链接列表"
+              "title": "Node.js 的反向链接列表"
             }
           },
           {
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/中级开发/多公司指南.md",
+                "file": "计算机/开发学习/语言/NodeJS/Node.js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多公司指南 的大纲"
+              "title": "Node.js 的大纲"
             }
           },
           {
@@ -296,8 +296,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/开发学习/系统/Odoo/视图层/视图views.md",
+    "计算机/开发学习/语言/CSS/CSS.md",
+    "计算机/开发学习/语言/CSS/基础知识/选择器.md",
+    "计算机/开发学习/新技术/现代云原生和分布式系统完整构架.md",
+    "计算机/开发学习/新技术/项目demo.md",
+    "计算机/开发学习/项目/扫码程序/扫码程序.md",
+    "计算机/开发学习/系统/Wordpress/Wordpress.md",
+    "计算机/开发学习/系统/Odoo/Odoo.md",
+    "计算机/开发学习/系统/Odoo/Domain表达式/复杂多级关系查询（Domain）.md",
+    "计算机/开发学习/系统/Odoo/中级开发/Odoo Widget 开发.md",
+    "计算机/开发学习/系统/Odoo/中级开发/Odoo 向导（Wizard）开发.md",
+    "计算机/开发学习/系统/Odoo/中级开发/Odoo 模型Models.md",
+    "计算机/开发学习/系统/Odoo/中级开发/Odoo 报表（Report）开发.md",
+    "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
+    "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
+    "计算机/开发学习/系统/Odoo/中级开发/核心对象 self , env , context.md",
     "计算机/开发学习/系统/Odoo/中级开发/多公司指南.md",
+    "计算机/开发学习/系统/Odoo/视图层/视图views.md",
     "计算机/开发学习/系统/Odoo/视图层/XML视图层.md",
     "计算机/开发学习/系统/Odoo/视图层/UI图标.md",
     "计算机/开发学习/系统/Odoo/视图层/视图层权限.md",
@@ -307,25 +322,10 @@
     "计算机/开发学习/系统/Odoo/ORM方法/Model.browse(_ids_).md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.search(_domain, limit=None, order=None).md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.fields_get().md",
-    "计算机/开发学习/系统/Odoo/中级开发/核心对象 self , env , context.md",
-    "计算机/开发学习/系统/Odoo/继承机制/Odoo 模型继承机制.md",
-    "计算机/开发学习/系统/Odoo/继承机制/odoo继承字段属性哪些可以改.md",
-    "计算机/开发学习/系统/Odoo/继承机制/odoo继承字段属性修改规则.md",
-    "计算机/开发学习/系统/Odoo/继承机制/odoo如何避免多模块覆盖同一值产生冲突.md",
     "Pasted image 20250926231542.png",
     "Pasted image 20250926231530.png",
-    "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
     "计算机/开发学习/系统/Odoo/Fields字段",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.write(vals).md",
-    "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
-    "计算机/开发学习/系统/Odoo/基础概念/odoo ORM核心原理.md",
-    "计算机/开发学习/系统/Odoo/Domain表达式/复杂多级关系查询（Domain）.md",
-    "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
-    "计算机/开发学习/系统/Odoo/外部集成和接口/批量导入导出.md",
-    "计算机/开发学习/系统/Odoo/中级开发/Domain表达式/复杂多级关系查询.md",
     "计算机/开发学习/系统/Odoo/Domain表达式",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.copy().md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.create(vals_list).md",
     "计算机/开发学习/系统/Odoo/数据文件",
     "计算机/开发学习/系统/Odoo/外部集成和接口",
     "计算机/开发学习/系统/Odoo/动作和自动化",
