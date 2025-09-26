@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
+                "file": "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ODOO ORM"
+              "title": "计算字段Computed Field"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
+                "file": "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ODOO ORM 的反向链接列表"
+              "title": "计算字段Computed Field 的反向链接列表"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
+                "file": "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ODOO ORM 的大纲"
+              "title": "计算字段Computed Field 的大纲"
             }
           },
           {
@@ -282,9 +282,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "计算机/开发学习/系统/Odoo/中级开发/Domain表达式/复杂多级关系查询（Domain）.md",
+    "计算机/开发学习/系统/Odoo/中级开发/Domain表达式/复杂多级关系查询.md",
+    "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
+    "计算机/开发学习/系统/Odoo/中级开发/Domain表达式",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.search(domain).md",
     "计算机/开发学习/系统/Odoo/ORM方法/ORM核心方法.md",
-    "计算机/开发学习/系统/Odoo/基础概念/odoo ORM核心原理.md",
     "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
+    "计算机/开发学习/系统/Odoo/基础概念/odoo ORM核心原理.md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.copy().md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.create(vals_list).md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.read().md",
@@ -304,10 +309,6 @@
     "计算机/开发学习/系统/Odoo/中级开发/Odoo 模型Models.md",
     "计算机/开发学习/系统/Odoo/中级开发/Odoo 报表（Report）开发.md",
     "计算机/开发学习/系统/Odoo/中级开发/批量导入导出.md",
-    "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
-    "计算机/开发学习/系统/Odoo/中级开发/核心对象 self , env , context.md",
-    "计算机/开发学习/系统/Odoo/中级开发/复杂多级关系查询.md",
-    "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
     "计算机/开发学习/系统/Odoo/数据文件",
     "计算机/开发学习/系统/Odoo/外部集成和接口",
     "计算机/开发学习/系统/Odoo/动作和自动化",
@@ -318,7 +319,6 @@
     "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md.baiduyun.uploading.cfg",
     "Pasted image 20250924135807.png",
     "计算机/开发学习/系统/Odoo/Odoo.md.baiduyun.uploading.cfg",
-    "营销/运营之光.md.baiduyun.uploading.cfg",
     "图片/运维之光-私域运维体系知识地图dt2240249.png",
     "1650186684-c242c9046d4e55b.png",
     "未命名.canvas",
