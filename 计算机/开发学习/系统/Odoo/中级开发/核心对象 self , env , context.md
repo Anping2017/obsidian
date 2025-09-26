@@ -21,7 +21,14 @@
 
 ### 1.1 单条记录与多条记录
 
-`order = self.env['sale.order'].browse(1)  # 单条记录 orders = self.env['sale.order'].search([('state', '=', 'draft')])  # 多条记录`
+```
+# 单条记录
+order = self.env['sale.order'].browse(1)  
+
+# 多条记录
+orders = self.env['sale.order'].search([('state', '=', 'draft')])  
+```
+
 
 - 单条记录：
     
@@ -38,18 +45,27 @@
 
 - 迭代：
     
+```
+for record in self:     
+	record.field_name = 'new_value'
+```
 
-`for record in self:     record.field_name = 'new_value'`
 
 - 搜索：
     
+```
+self.search([('state', '=', 'done')])
+```
 
-`self.search([('state', '=', 'done')])`
 
 - CRUD：
     
+```
+self.create({'name': 'Test'}) 
+self.write({'state': 'sent'}) 
+self.unlink()
+```
 
-`self.create({'name': 'Test'}) self.write({'state': 'sent'}) self.unlink()`
 
 ---
 

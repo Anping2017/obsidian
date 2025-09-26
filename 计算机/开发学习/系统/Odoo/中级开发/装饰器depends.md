@@ -11,6 +11,17 @@
 
   
 ## 掌握Odoo装饰器，提升开发效率 🚀
+
+- @api.model
+- @api.constrains(_*args_)
+- @api.depends(_*args_)
+- @api.onchange(_*args_)
+- @api.returns(_model_, _downgrade=None_, _upgrade=None_)
+- @api.autovacuum(_method_)
+- @api.depends_context(_*args_)
+- @api.ondelete(_*_, _at_uninstall_)
+- 
+
   
 ---
 

@@ -6,28 +6,26 @@
 
 ## 1. 基本用法
 
-假设你要查找所有名字为“张三”的客户：
+`Model.search(_domain[, offset=0][, limit=None][, order=None]_)`
 
 
 ```
 partners = self.env['res.partner'].search([('name', '=', '张三')])
 ```
 
-- 返回值是一个 recordset，可以当做列表迭代、访问字段等。
+
+**返回值**
+一个 recordset，可以当做列表迭代、访问字段等。
 
 ---
 
 ## 2. 参数说明
 
-- `domain`：一个列表，描述筛选条件。每个条件通常是一个三元组 `(字段, 运算符, 值)`。
-    - 常见运算符有: `=`, `!=`, `>`, `<`, `ilike`, `in`, `child_of` 等。
-    - 也可以用 `|`（或）、`&`（与）、`!`（非）等做复杂逻辑组合。
+- `_domain`：一个表达式，描述筛选条件
 - 其它参数（可选）：
     - `limit`：最多返回多少条
     - `offset`：从第几条开始
     - `order`：排序方式（如 `'name desc'`）
-
-例如：
 
 ```
 partners = self.env['res.partner'].search(
@@ -42,7 +40,10 @@ partners = self.env['res.partner'].search(
 ## 3. 工作原理
 
 - `search(domain)` 会将条件转换成 SQL 查询，检索对应的记录。
-- 返回的是 recordset，可以直接遍历、访问字段或者做后续操作。
+
+SQL:
+
+`SELECT * FROM res_partner WHERE is_company = true LIMIT 5; SELECT * FROM res_partner WHERE id=1;`
 
 ---
 
