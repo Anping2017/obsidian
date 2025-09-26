@@ -7,6 +7,8 @@
 
 ## 一、基本用法
 
+`vals_list (Union[list[dict], dict])`
+
 - **单条记录创建**
     
     ```
@@ -36,6 +38,9 @@
 
 - `vals_list`：可以是一个字典（单条），也可以是字典组成的列表（多条）。
     - 字典的 key 为字段名，value 为字段值。
+
+
+返回值： the created records
 
 ---
 

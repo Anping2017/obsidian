@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/ORM方法/Model.create(vals_list).md",
+                "file": "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model.create(vals_list)"
+              "title": "ODOO ORM"
+            }
+          },
+          {
+            "id": "ade50a5a5f865c9c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.odoo.com/documentation/17.0/zh_CN/developer/reference/backend/orm.html#common-orm-methods",
+                "title": "ORM API — Odoo 17.0 文档",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ORM API — Odoo 17.0 文档"
+            }
+          },
+          {
+            "id": "9731cca68f305fac",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.odoo.com/documentation/17.0/zh_CN/developer/reference/backend/orm.html#common-orm-methods",
+                "title": "ORM API — Odoo 17.0 文档",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ORM API — Odoo 17.0 文档"
             }
           },
           {
@@ -49,8 +77,7 @@
               "title": "Actions — Odoo 17.0 文档"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +160,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "ODOO ORM 的反向链接列表"
             }
           },
           {
@@ -170,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
+                "file": "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Odoo 的大纲"
+              "title": "ODOO ORM 的大纲"
             }
           },
           {
@@ -225,7 +253,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -251,12 +280,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "753ea148ce733dec",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.create(vals_list).md",
     "计算机/开发学习/系统/Odoo/ORM方法/ORM核心方法.md",
     "计算机/开发学习/系统/Odoo/基础概念/odoo ORM核心原理.md",
     "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.copy().md",
+    "计算机/开发学习/系统/Odoo/ORM方法/Model.create(vals_list).md",
     "计算机/开发学习/系统/Odoo/ORM方法/Model.read().md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
     "计算机/开发学习/系统/Opencart/Opencart.md",
@@ -278,7 +308,6 @@
     "计算机/开发学习/系统/Odoo/中级开发/核心对象 self , env , context.md",
     "计算机/开发学习/系统/Odoo/中级开发/复杂多级关系查询.md",
     "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
-    "计算机/开发学习/系统/Odoo/调试和优化/性能调优与调试实践.md",
     "计算机/开发学习/系统/Odoo/数据文件",
     "计算机/开发学习/系统/Odoo/外部集成和接口",
     "计算机/开发学习/系统/Odoo/动作和自动化",

@@ -1,31 +1,38 @@
+[官网方法](https://www.odoo.com/documentation/17.0/zh_CN/developer/reference/backend/orm.html#common-orm-methods)
+
+[[ODOO ORM]]
+[[odoo ORM核心原理]]
 
 
 ---
 
 ## 1. CRUD 方法（增删改查）
 
-| 方法                   | 作用   | 示例                                                            |
-| -------------------- | ---- | ------------------------------------------------------------- |
-| `create(vals)`       | 创建记录 | `partner = self.env['res.partner'].create({'name': 'Alice'})` |
-| `write(vals)`        | 更新记录 | `partner.write({'email': 'alice@example.com'})`               |
-| `unlink()`           | 删除记录 | `partner.unlink()`                                            |
-| `copy(default=None)` | 复制记录 | `new_partner = partner.copy({'name': 'Alice Copy'})`          |
+| 方法                   | 作用   |                             | 示例                                                            |
+| -------------------- | ---- | --------------------------- | ------------------------------------------------------------- |
+| `create(vals)`       | 创建记录 | [[Model.create(vals_list)]] | `partner = self.env['res.partner'].create({'name': 'Alice'})` |
+| `write(vals)`        | 更新记录 | [[Model.write(vals)]]       | `partner.write({'email': 'alice@example.com'})`               |
+| `unlink()`           | 删除记录 | [[Model.unlink()]]          | `partner.unlink()`                                            |
+| `copy(default=None)` | 复制记录 | [[Model.copy()]]            | `new_partner = partner.copy({'name': 'Alice Copy'})`          |
 
 > `vals` 是字典，包含字段名和值
+
+
+
 
 ---
 
 ## 2. 查询方法
 
-| 方法                                             | 作用            | 示例                                                                                           |
-| ---------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------- |
-| `search(domain, limit=None, order=None)`       | 根据条件搜索记录集     | `partners = self.env['res.partner'].search([('is_company','=',True)])`                       |
-| `search_count(domain)`                         | 根据条件统计数量      | `count = self.env['res.partner'].search_count([('is_company','=',True)])`                    |
-| `browse(ids)`                                  | 根据 ID 获取记录集   | `partner = self.env['res.partner'].browse(1)`                                                |
-| `read(fields=None)`                            | 读取字段值（返回字典列表） | `self.env['res.partner'].browse([1,2]).read(['name','email'])`                               |
-| `search_read(domain, fields=None, limit=None)` | 一步搜索并读取字段     | `self.env['res.partner'].search_read([('is_company','=',True)], ['name','email'], limit=10)` |
-| `mapped(field_name)`                           | 获取字段列表或关联字段值  | `emails = partners.mapped('email')`                                                          |
-|                                                |               |                                                                                              |
+| 方法                                             | 作用1111111111111111 |                          | 示例                                                                                           |
+| ---------------------------------------------- | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------- |
+| `search(domain, limit=None, order=None)`       | 根据条件搜索记录集          | [[Model.search(domain)]] | `partners = self.env['res.partner'].search([('is_company','=',True)])`                       |
+| `browse(ids)`                                  | 根据 ID 获取记录集        | [[Model.browse()]]       | `partner = self.env['res.partner']<br>.browse(1)`                                            |
+| `search_count(domain)`                         | 根据条件统计数量           |                          | `count = self.env['res.partner'].search_count([('is_company','=',True)])`                    |
+| `read(fields=None)`                            | 读取字段值（返回字典列表）      |                          | `self.env['res.partner'].browse([1,2]).read(['name','email'])`                               |
+| `search_read(domain, fields=None, limit=None)` | 一步搜索并读取字段          |                          | `self.env['res.partner'].search_read([('is_company','=',True)], ['name','email'], limit=10)` |
+| `mapped(field_name)`                           | 获取字段列表或关联字段值       |                          | `emails = partners.mapped('email')`                                                          |
+|                                                |                    |                          |                                                                                              |
 
 ---
 
