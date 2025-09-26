@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f1c7818550ee32c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f1c7818550ee32c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/开发学习/系统/Odoo/Odoo Widget 开发.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
+    "计算机/开发学习/系统/Odoo/Odoo Widget 开发.md",
     "计算机/开发学习/系统/Odoo/Odoo 向导（Wizard）开发.md",
     "计算机/开发学习/系统/Odoo/Odoo 报表（Report）开发.md",
     "计算机/开发学习/系统/Odoo/ORM核心方法.md",
