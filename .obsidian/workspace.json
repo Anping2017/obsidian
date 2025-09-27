@@ -13,82 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/语言/NodeJS/Node.js.md",
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node.js"
-            }
-          },
-          {
-            "id": "8d3c5769e9cfbdbb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://docs.python.org/3/library/functions.html#bool",
-                "title": "Built-in Functions — Python 3.13.7 documentation",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Built-in Functions — Python 3.13.7 documentation"
-            }
-          },
-          {
-            "id": "ade50a5a5f865c9c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.odoo.com/documentation/17.0/zh_CN/developer/reference/backend/orm.html#common-orm-methods",
-                "title": "ORM API — Odoo 17.0 文档",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ORM API — Odoo 17.0 文档"
-            }
-          },
-          {
-            "id": "9731cca68f305fac",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.odoo.com/documentation/17.0/zh_CN/developer/reference/backend/orm.html#common-orm-methods",
-                "title": "ORM API — Odoo 17.0 文档",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ORM API — Odoo 17.0 文档"
-            }
-          },
-          {
-            "id": "f6e82fe0750730da",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/odoo/odoo/blob/17.0/odoo/models.py#L3850",
-                "title": "odoo/odoo/models.py at 17.0 · odoo/odoo · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "odoo/odoo/models.py at 17.0 · odoo/odoo · GitHub"
-            }
-          },
-          {
-            "id": "753ea148ce733dec",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.odoo.com/documentation/17.0/zh_CN/developer/reference/backend/actions.html",
-                "title": "Actions — Odoo 17.0 文档",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Actions — Odoo 17.0 文档"
+              "title": "Odoo"
             }
           }
         ]
@@ -164,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/语言/NodeJS/Node.js.md",
+                "file": "计算机/数据存储/数据库/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Node.js 的反向链接列表"
+              "title": "SQL 的反向链接列表"
             }
           },
           {
@@ -212,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/开发学习/语言/NodeJS/Node.js.md",
+                "file": "计算机/数据存储/数据库/SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Node.js 的大纲"
+              "title": "SQL 的大纲"
             }
           },
           {
@@ -296,34 +226,36 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/开发学习/语言/CSS/CSS.md",
-    "计算机/开发学习/语言/CSS/基础知识/选择器.md",
-    "计算机/开发学习/新技术/现代云原生和分布式系统完整构架.md",
-    "计算机/开发学习/新技术/项目demo.md",
-    "计算机/开发学习/项目/扫码程序/扫码程序.md",
-    "计算机/开发学习/系统/Wordpress/Wordpress.md",
-    "计算机/开发学习/系统/Odoo/Odoo.md",
-    "计算机/开发学习/系统/Odoo/Domain表达式/复杂多级关系查询（Domain）.md",
-    "计算机/开发学习/系统/Odoo/中级开发/Odoo Widget 开发.md",
-    "计算机/开发学习/系统/Odoo/中级开发/Odoo 向导（Wizard）开发.md",
-    "计算机/开发学习/系统/Odoo/中级开发/Odoo 模型Models.md",
-    "计算机/开发学习/系统/Odoo/中级开发/Odoo 报表（Report）开发.md",
-    "计算机/开发学习/系统/Odoo/中级开发/装饰器depends.md",
-    "计算机/开发学习/系统/Odoo/中级开发/计算字段Computed Field.md",
-    "计算机/开发学习/系统/Odoo/中级开发/核心对象 self , env , context.md",
-    "计算机/开发学习/系统/Odoo/中级开发/多公司指南.md",
-    "计算机/开发学习/系统/Odoo/视图层/视图views.md",
-    "计算机/开发学习/系统/Odoo/视图层/XML视图层.md",
-    "计算机/开发学习/系统/Odoo/视图层/UI图标.md",
-    "计算机/开发学习/系统/Odoo/视图层/视图层权限.md",
-    "计算机/开发学习/系统/Odoo/Fields字段/Fields字段教程.md",
-    "计算机/开发学习/系统/Odoo/ORM方法/ORM核心方法.md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.read(_fields_).md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.browse(_ids_).md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.search(_domain, limit=None, order=None).md",
-    "计算机/开发学习/系统/Odoo/ORM方法/Model.fields_get().md",
-    "Pasted image 20250926231542.png",
-    "Pasted image 20250926231530.png",
+    "计算机/数据存储/数据库/SQL.md",
+    "计算机/编程基础/数据结构/数据结构知识地图.md",
+    "计算机/编程基础/设计模式/设计模式知识地图.md",
+    "计算机/编程基础/编译原理/编译原理知识地图.md",
+    "__template/知识图谱模板.md",
+    "__template/思维框架模板.md",
+    "图片/运维之光-私域运维体系知识地图dt2240249.png",
+    "物理学/惯性定律.md",
+    "物理学/三大运动定律.md",
+    "Obsidian学习/插件/Obsidian Tag Wrangler.md",
+    "Obsidian学习/插件/Obsidian Annotator.md",
+    "Obsidian学习/插件/Templater.md",
+    "Obsidian学习/插件/QuickAdd.md",
+    "Obsidian学习/obsidian快捷键.md",
+    "Obsidian学习/obsidian知识地图.md",
+    "Excalidraw/运维之光.excalidraw.md",
+    "Excalidraw/网站开发框架.excalidraw.md",
+    "图片/Pasted image 20250926231542.png",
+    "图片/Pasted image 20250926231530.png",
+    "图片/Pasted image 20250924135807.png",
+    "营销/运营之光.md",
+    "计算机/运维知识/云服务/云服务器知识地图.md",
+    "计算机/运维知识/云服务/Serverless.md",
+    "计算机/运维知识/云服务/容器化+微服务.md",
+    "计算机/运维知识/云服务/边缘计算 + 云融合.md",
+    "计算机/开发学习/中间层/iPaaS.md",
+    "计算机/开发学习/中间层/MuleSoft.md",
+    "计算机/开发学习/语言/Typescript/Typescript.md",
+    "计算机/开发学习/语言/Python/Python.md",
+    "计算机/开发学习/语言/PHP/PHP.md",
     "计算机/开发学习/系统/Odoo/Fields字段",
     "计算机/开发学习/系统/Odoo/Domain表达式",
     "计算机/开发学习/系统/Odoo/数据文件",
@@ -334,8 +266,6 @@
     "计算机/开发学习/系统/Odoo/视图层",
     "计算机/开发学习/系统/Odoo/模块",
     "计算机/开发学习/系统/Odoo/基础概念/Odoo 权限管理学习大纲.md.baiduyun.uploading.cfg",
-    "Pasted image 20250924135807.png",
-    "图片/运维之光-私域运维体系知识地图dt2240249.png",
     "1650186684-c242c9046d4e55b.png",
     "未命名.canvas",
     "未命名 2.canvas",
