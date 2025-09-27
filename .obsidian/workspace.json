@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5527e171f87fd945",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "87cb8f1a7e75d8fb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "计算机/开发学习/语言/Python/01-语法基础.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "01-语法基础"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "odoo开发学习/Odoo知识地图.md"
+                "file": "计算机/开发学习/语言/Python/01-语法基础.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,8 +224,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "105b813b36e3e7b2",
   "lastOpenFiles": [
+    "计算机/开发学习/语言/Python/05-字符串操作.md",
+    "计算机/开发学习/语言/Python/04-函数.md",
+    "计算机/开发学习/语言/Python/python语法基础.md",
+    "计算机/开发学习/语言/Python/Python.md",
+    "计算机/开发学习/语言/Python/03-流程控制.md",
+    "计算机/开发学习/语言/Python/02-运算符.md",
+    "计算机/开发学习/语言/Python/01-语法基础.md",
+    "计算机/开发学习/语言/Python/Python语法基础总览.md",
+    "计算机/开发学习/语言/Python/运算符.md",
+    "计算机/开发学习/语言/Python/语法基础.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
     "计算机/数据存储/数据库/SQL.md",
     "计算机/编程基础/数据结构/数据结构知识地图.md",
@@ -243,19 +253,9 @@
     "Obsidian学习/obsidian快捷键.md",
     "Obsidian学习/obsidian知识地图.md",
     "Excalidraw/运维之光.excalidraw.md",
-    "Excalidraw/网站开发框架.excalidraw.md",
     "图片/Pasted image 20250926231542.png",
     "图片/Pasted image 20250926231530.png",
     "图片/Pasted image 20250924135807.png",
-    "营销/运营之光.md",
-    "计算机/运维知识/云服务/云服务器知识地图.md",
-    "计算机/运维知识/云服务/Serverless.md",
-    "计算机/运维知识/云服务/容器化+微服务.md",
-    "计算机/运维知识/云服务/边缘计算 + 云融合.md",
-    "计算机/开发学习/中间层/iPaaS.md",
-    "计算机/开发学习/中间层/MuleSoft.md",
-    "计算机/开发学习/语言/Typescript/Typescript.md",
-    "计算机/开发学习/语言/Python/Python.md",
     "计算机/开发学习/系统/Odoo/Fields字段",
     "计算机/开发学习/系统/Odoo/Domain表达式",
     "计算机/开发学习/系统/Odoo/数据文件",
