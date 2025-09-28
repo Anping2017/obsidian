@@ -7,23 +7,23 @@
         
     - 模块化架构与依赖管理：`__manifest__.py` 文件解构
         
-    - ORM（对象关系映射）核心概念与工作原理
+    - ORM（对象关系映射）核心概念与工作原理  [[odoo ORM核心原理]]
         
     - **核心模块代码解构**
         
-        - `base`模块：解构基础模型、字段、安全机制
+        - `base`模块：解构基础模型、字段、安全机制  [[base模块]]
             
-        - `web`模块：分析Web客户端核心组件与加载流程
+        - `web`模块：分析Web客户端核心组件与加载流程  [[web模块]]
             
-        - `mail`模块：理解消息系统与通知机制
+        - `mail`模块：理解消息系统与通知机制 [[mail模块]]
             
 2. **基础模块开发**
     
-    - 模型（Models）与数据定义：`models.py`
+    - 模型（Models）与数据定义：`models.py`   [[Odoo 模型Models]]
         
-    - 数据文件：`data.xml`（创建记录、自动化动作）
+    - 数据文件：`data.xml`（创建记录、自动化动作）  [[数据文件xml]]
         
-    - 视图（Views）：表单视图、列表视图、看板视图等
+    - 视图（Views）：表单视图、列表视图、看板视图等  [[视图views]]
         
     - 安全与权限控制：访问权限、记录规则 (`ir.model.access.csv`, `ir.rule`)
         
@@ -34,14 +34,17 @@
 
 1. **模型与ORM进阶**
     
-    - 模型继承机制：经典继承、原型继承、代理继承   [[Odoo 模型继承机制]]
+    - 模型继承机制：经典继承、原型继承、代理继承   [[Odoo 模型继承机制]]  
         
-    - 高级ORM方法：`search()`、`search_read()`、`mapped()`、`filtered()`、`sorted()`
+    - 高级ORM方法：`search()`、`search_read()`、`mapped()`、`filtered()`、`sorted()`  [[ORM核心方法]]
         
-    - 复杂多级关系查询（Domain）与字段计算
+    - 复杂多级关系查询（Domain）与字段计算   [[复杂多级关系查询（Domain）]]
         
-    - `depends()`装饰器与计算字段 (`computed fields`)
+    - `depends()`装饰器与计算字段 (`computed fields`)   [[装饰器depends]]   [[计算字段Computed Field]]]  
         
+    - 核心对象：`self` 与 `env`    [[核心对象 self , env , context]]
+
+
 2. **业务逻辑与自动化**
     
     - **核心方法与业务逻辑**
@@ -50,7 +53,7 @@
             
         - `onchange`机制：表单字段值变动触发的逻辑
             
-    - 自动化工具：服务器动作 (`ir.actions.server`)、计划任务 (`ir.cron`)
+    - 自动化工具：服务器动作 (`ir.actions.server`)、计划任务 (`ir.cron`)  [[服务器动作 ir.actions.server]]
         
 3. **视图与UI进阶**
     
@@ -81,13 +84,13 @@
     
     - **后端API开发**
         
-        - XML-RPC与JSON-RPC：使用Odoo内置API进行外部系统交互
+        - XML-RPC与JSON-RPC：使用Odoo内置API进行外部系统交互  [[XML-RPC 与 JSON-RPC]]
             
-        - 创建自定义RESTful API接口
+        - 创建自定义RESTful API接口  [[自定义 RESTful API 接口]]
             
     - **外部集成与数据同步**
         
-        - 通过API进行数据批量导入导出
+        - 通过API进行数据批量导入导出  [[批量导入导出]]
             
         - 第三方服务集成（支付网关、邮件服务等）
             
@@ -95,7 +98,7 @@
     
     - **安全加固**
         
-        - Odoo安全模型：用户、组、权限、记录规则的综合应用 [[安全模型与访问权限]]
+        - Odoo安全模型：用户、组、权限、记录规则的综合应用 [[安全防护]]
             
         - 安全编程实践：防范SQL注入、XSS、CSRF攻击
             
@@ -122,3 +125,8 @@
         - 为新功能编写测试用例
             
         - 维护模块的健壮性与可维护性
+
+
+[[Odoo 报表（Report）开发]]
+[[Odoo 向导（Wizard）开发]]
+[[Odoo Widget 开发]]
