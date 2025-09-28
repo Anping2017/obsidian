@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "营销/06-营销效果评估/01-营销指标/01-KPI指标体系.md",
+                "file": "提示词工程/学习大纲提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-KPI指标体系"
+              "title": "学习大纲提示词"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "营销/06-营销效果评估/01-营销指标/01-KPI指标体系.md"
+                "file": "提示词工程/学习大纲提示词.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -226,8 +226,11 @@
   },
   "active": "87cb8f1a7e75d8fb",
   "lastOpenFiles": [
-    "营销/06-营销效果评估/01-营销指标/02-ROI计算方法.md",
     "营销/06-营销效果评估/01-营销指标/01-KPI指标体系.md",
+    "Odoo",
+    "数字营销",
+    "新建文件夹",
+    "营销/06-营销效果评估/01-营销指标/02-ROI计算方法.md",
     "营销/05-营销执行实施/04-B2B营销/04-企业客户开发.md",
     "营销/05-营销执行实施/04-B2B营销/03-渠道伙伴管理.md",
     "营销/05-营销执行实施/04-B2B营销/02-销售团队管理.md",
@@ -251,7 +254,6 @@
     "iPhone/iPhone知识体系/04-销售应用层/产品对比/02-跨代产品对比.md",
     "iPhone/iPhone知识体系/04-销售应用层/产品对比/01-同代产品对比.md",
     "iPhone/iPhone知识体系/03-功能特性层/用户体验/05-用户体验记忆法.md",
-    "iPhone/iPhone知识体系/02-技术规格层/核心硬件/04-散热系统.md",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要",
     "iPhone/iPhone知识体系/99-附录资料/用户评价收集",
     "iPhone/iPhone知识体系/99-附录资料/价格历史记录",
@@ -259,9 +261,6 @@
     "iPhone/iPhone知识体系/99-附录资料",
     "iPhone/iPhone知识体系/08-更新维护层/知识体系维护",
     "iPhone/iPhone知识体系/08-更新维护层/学习进度跟踪",
-    "iPhone/iPhone知识体系/08-更新维护层/知识更新机制",
-    "iPhone/iPhone知识体系/08-更新维护层",
-    "iPhone/iPhone知识体系/07-实战案例层/问题解决案例",
     "图片/运维之光-私域运维体系知识地图dt2240249.png",
     "图片/Pasted image 20250926231542.png",
     "图片/Pasted image 20250926231530.png",
