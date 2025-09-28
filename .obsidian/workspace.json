@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字营销/01-基础认知层/01-数字营销基础概念/核心概念术语表.md",
+                "file": "数字营销/01-基础认知层/01-数字营销基础概念/数字营销定义与本质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心概念术语表"
+              "title": "数字营销定义与本质"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字营销/01-基础认知层/01-数字营销基础概念/核心概念术语表.md",
+                "file": "数字营销/01-基础认知层/01-数字营销基础概念/数字营销定义与本质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "核心概念术语表 的反向链接列表"
+              "title": "数字营销定义与本质 的反向链接列表"
             }
           },
           {
@@ -226,6 +226,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "数字营销/01-基础认知层/01-数字营销基础概念/核心概念术语表.md.baiduyun.uploading.cfg",
+    "数字营销/01-基础认知层/01-数字营销基础概念/核心概念术语表.md",
     "Obsidian学习/obsidian知识地图.md",
     "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md.baiduyun.uploading.cfg",
     "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
@@ -260,7 +262,6 @@
     "计算机/开发学习/语言/Javascript/07-问题解决/04-性能问题诊断.md",
     "计算机/开发学习/语言/Javascript/07-问题解决/03-错误代码对照表.md",
     "计算机/开发学习/语言/Javascript/07-问题解决/02-调试技巧大全.md",
-    "计算机/开发学习/语言/Javascript/07-问题解决/01-常见问题与解决方案.md",
     "图片/Pasted image 20250926231542.png",
     "图片/Pasted image 20250926231530.png",
     "图片/Pasted image 20250924135807.png",
