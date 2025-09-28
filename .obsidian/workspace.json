@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/语言/Javascript/00-学习指南/02-知识体系总览.md",
+                "file": "计算机/开发学习/语言/Javascript/00-学习指南/01-学习路径图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-知识体系总览"
+              "title": "01-学习路径图"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/语言/Javascript/00-学习指南/02-知识体系总览.md",
+                "file": "计算机/开发学习/语言/Javascript/00-学习指南/01-学习路径图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "02-知识体系总览 的反向链接列表"
+              "title": "01-学习路径图 的反向链接列表"
             }
           },
           {
@@ -226,17 +226,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/开发学习/语言/PHP/01-基础认知层/语言特性与运行环境/05-开发工具配置.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语言特性与运行环境/04-Web服务器集成.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语言特性与运行环境/03-PHP-FPM详解.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语言特性与运行环境/02-运行环境配置.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语言特性与运行环境/01-PHP语言特性.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语法基础/05-语法最佳实践.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语法基础/04-类型转换与判断.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语法基础/03-运算符与表达式.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语法基础/02-数据类型详解.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/语法基础/01-变量与常量.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/01-基础认知层/控制结构/05-算法思维训练.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Javascript/00-学习指南/02-知识体系总览.md",
+    "计算机/开发学习/语言/PHP/03-应用实践层/Web开发基础/02-表单处理.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/03-应用实践层/Web开发基础/01-HTTP协议基础.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/10-自动加载机制.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/11-OOP设计原则.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/09-命名空间.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Javascript/00-学习指南/01-学习路径图.md",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/08-魔术方法.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/05-封装与访问控制.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/06-抽象类与接口.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/07-静态成员.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/PHP/02-核心理解层/面向对象编程/04-继承与多态.md.baiduyun.uploading.cfg",
+    "01-基础认知层/02-运行环境.md",
     "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
     "计算机/开发学习/语言/PHP/00-学习导航/04-学习资源索引.md",
     "计算机/开发学习/语言/PHP/00-学习导航/05-常见问题解答.md",
@@ -254,14 +256,11 @@
     "计算机/开发学习/语言/Javascript/00-学习指南/05-学习检查清单.md",
     "计算机/开发学习/语言/Javascript/00-学习指南/04-进度跟踪.md",
     "计算机/开发学习/语言/Javascript/00-学习指南/03-学习建议.md",
-    "计算机/开发学习/语言/Javascript/00-学习指南/02-知识体系总览.md",
-    "计算机/开发学习/语言/Javascript/00-学习指南/01-学习路径图.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS速查表.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS常见问题FAQ.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS学习路径图.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/浏览器支持表.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/常用属性速查.md",
-    "计算机/开发学习/语言/CSS/06-资源汇总/工具推荐.md",
     "图片/Pasted image 20250926231542.png",
     "图片/Pasted image 20250926231530.png",
     "图片/Pasted image 20250924135807.png",
