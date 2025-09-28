@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
+                "file": "Obsidian学习/obsidian知识地图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-CSS概述与基础概念"
+              "title": "obsidian知识地图"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
+                "file": "Obsidian学习/obsidian知识地图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "01-CSS概述与基础概念 的反向链接列表"
+              "title": "obsidian知识地图 的反向链接列表"
             }
           },
           {
@@ -224,8 +224,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "105b813b36e3e7b2",
   "lastOpenFiles": [
+    "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/系统/Odoo/基础概念/ODOO ORM.md",
+    "计算机/开发学习/系统/Odoo/基础概念/OWL框架.md",
+    "计算机/开发学习/系统/Odoo/基础概念/安全模型与访问权限.md",
+    "Obsidian学习/obsidian快捷键.md",
+    "Obsidian学习/obsidian知识地图.md",
+    "__template/知识图谱模板.md",
+    "__template/思维框架模板.md",
+    "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
     "计算机/开发学习/语言/Javascript/00-学习指南/03-学习建议.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Javascript/00-学习指南/03-学习建议.md",
     "计算机/开发学习/语言/Javascript/00-学习指南/02-知识体系总览.md.baiduyun.uploading.cfg",
@@ -238,10 +247,8 @@
     "计算机/开发学习/语言/PHP/99-实践项目/高级项目/02-高并发处理系统.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/PHP/99-实践项目/高级项目/01-微服务架构系统.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/PHP/99-实践项目/基础项目/04-项目开发流程.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/99-实践项目/基础项目/03-文件管理系统.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Javascript/00-学习指南/01-学习路径图.md",
     "01-基础认知层/02-运行环境.md",
-    "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
     "计算机/开发学习/语言/PHP/00-学习导航/04-学习资源索引.md",
     "计算机/开发学习/语言/PHP/00-学习导航/05-常见问题解答.md",
     "计算机/开发学习/语言/PHP/00-学习导航/03-学习进度追踪.md",
@@ -255,13 +262,6 @@
     "计算机/开发学习/语言/Javascript/07-问题解决/03-错误代码对照表.md",
     "计算机/开发学习/语言/Javascript/07-问题解决/02-调试技巧大全.md",
     "计算机/开发学习/语言/Javascript/07-问题解决/01-常见问题与解决方案.md",
-    "计算机/开发学习/语言/Javascript/00-学习指南/05-学习检查清单.md",
-    "计算机/开发学习/语言/Javascript/00-学习指南/04-进度跟踪.md",
-    "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS速查表.md",
-    "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS常见问题FAQ.md",
-    "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS学习路径图.md",
-    "计算机/开发学习/语言/CSS/06-资源汇总/浏览器支持表.md",
-    "计算机/开发学习/语言/CSS/06-资源汇总/常用属性速查.md",
     "图片/Pasted image 20250926231542.png",
     "图片/Pasted image 20250926231530.png",
     "图片/Pasted image 20250924135807.png",
