@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/开发学习/语言/Javascript/00-学习指南/03-学习建议.md",
+                "file": "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-学习建议"
+              "title": "01-CSS概述与基础概念"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/开发学习/语言/Javascript/00-学习指南/03-学习建议.md",
+                "file": "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "03-学习建议 的反向链接列表"
+              "title": "01-CSS概述与基础概念 的反向链接列表"
             }
           },
           {
@@ -226,6 +226,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "计算机/开发学习/语言/Javascript/00-学习指南/03-学习建议.md",
+    "计算机/开发学习/语言/Javascript/00-学习指南/02-知识体系总览.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Javascript/00-学习指南/01-学习路径图.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md.baiduyun.uploading.cfg",
     "01-基础认知层/02-运行环境.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Javascript/00-学习指南/02-知识体系总览.md",
     "计算机/开发学习/语言/PHP/99-实践项目/高级项目/04-项目总结与反思.md.baiduyun.uploading.cfg",
@@ -234,10 +238,6 @@
     "计算机/开发学习/语言/PHP/99-实践项目/高级项目/01-微服务架构系统.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/PHP/99-实践项目/基础项目/04-项目开发流程.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/PHP/99-实践项目/基础项目/03-文件管理系统.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/99-实践项目/基础项目/02-简单CMS系统.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/99-实践项目/基础项目/01-个人博客系统.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/99-实践项目/中级项目/04-项目架构设计.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/PHP/99-实践项目/中级项目/03-在线教育系统.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Javascript/00-学习指南/01-学习路径图.md",
     "01-基础认知层/02-运行环境.md",
     "计算机/开发学习/语言/CSS/01-基础认知层/01-CSS概述与基础概念.md",
@@ -256,7 +256,6 @@
     "计算机/开发学习/语言/Javascript/07-问题解决/01-常见问题与解决方案.md",
     "计算机/开发学习/语言/Javascript/00-学习指南/05-学习检查清单.md",
     "计算机/开发学习/语言/Javascript/00-学习指南/04-进度跟踪.md",
-    "计算机/开发学习/语言/Javascript/00-学习指南/03-学习建议.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS速查表.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS常见问题FAQ.md",
     "计算机/开发学习/语言/CSS/06-资源汇总/速查与FAQ/CSS学习路径图.md",
