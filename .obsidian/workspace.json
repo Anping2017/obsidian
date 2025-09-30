@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我的提示词/学习大纲提示词.md",
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习大纲提示词"
+              "title": "Odoo"
             }
           }
         ]
@@ -224,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "105b813b36e3e7b2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "我的提示词/学习大纲提示词.md",
     "Odoo/04-精通创新层/01-架构设计/安全架构设计.md",
     "Odoo/04-精通创新层/01-架构设计/微服务与Odoo.md",
     "Odoo/04-精通创新层/01-架构设计/高可用架构.md",
@@ -251,7 +252,6 @@
     "Odoo/02-理解掌握层/01-核心概念/关系映射机制.md",
     "Odoo/02-理解掌握层/01-核心概念/字段类型详解.md",
     "Odoo/02-理解掌握层/01-核心概念/ORM模型机制.md",
-    "Odoo/01-基础认知层/03-快速入门/基础操作指南.md",
     "手机店运营/04-工具模板/03-客户管理",
     "手机店运营/04-工具模板/01-销售工具",
     "手机店运营/03-高级应用层/02-团队管理",
