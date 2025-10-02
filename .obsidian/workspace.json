@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5527e171f87fd945",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "87cb8f1a7e75d8fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/编程基础/编译原理/编译原理知识地图.md",
+                "file": "提示词工程/学习大纲提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "编译原理知识地图"
+              "title": "学习大纲提示词"
+            }
+          },
+          {
+            "id": "ece7a6f7606f37b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "提示词工程/学习大纲提示词.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "学习大纲提示词"
+            }
+          },
+          {
+            "id": "34dbd011eeca87e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的提示词/学习大纲提示词.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "学习大纲提示词"
+            }
+          },
+          {
+            "id": "4247c4bed95148b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的提示词/学习大纲提示词.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "学习大纲提示词"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的提示词/学习大纲提示词.md",
+                "file": "计算机/数据存储/数据库/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "学习大纲提示词 的反向链接列表"
+              "title": "SQL 的反向链接列表"
             }
           },
           {
@@ -142,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "odoo开发学习/Odoo知识地图.md",
+                "file": "我的提示词/学习大纲提示词.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Odoo知识地图 的大纲"
+              "title": "学习大纲提示词 的大纲"
             }
           },
           {
@@ -157,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "odoo开发学习/Odoo知识地图.md"
+                "file": "我的提示词/学习大纲提示词.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -188,7 +231,7 @@
             }
           },
           {
-            "id": "af69272cb17363bb",
+            "id": "0e39540616c5bf26",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -224,50 +267,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4247c4bed95148b7",
   "lastOpenFiles": [
-    "计算机/编程基础/设计模式/设计模式知识地图.md",
-    "小红书问题/数字营销5个致命误区-小红书文案.md",
-    "我的提示词/提示词模板.md",
-    "我的提示词/学习大纲提示词.md",
-    "提示词工程/01-基础认知/01-3-发展历程.md",
-    "提示词工程/01-基础认知/01-1-概念理解.md",
-    "提示词工程/01-基础认知/01-2-基本原理.md",
-    "手机店运营/01-基础认知层/03-岗位认知/01-店员职责清单.md",
-    "提示词工程/03-应用实践/高级技巧/03-2-3-错误处理优化.md",
-    "提示词工程/03-应用实践/高级技巧/03-2-1-多轮对话设计.md",
-    "提示词工程/01-基础认知/01-4-基础认知总结.md",
-    "图片/Pasted image 20250926231542.png",
-    "图片/Pasted image 20250926231530.png",
-    "图片/Pasted image 20250924135807.png",
-    "图片/运维之光-私域运维体系知识地图dt2240249.png",
-    "计算机/开发学习/系统/Wordpress/01-基础认知层/01-概念理解/WordPress是什么.md",
-    "计算机/开发学习/系统/Wordpress/01-基础认知层/01-概念理解/WordPress生态.md",
-    "计算机/开发学习/系统/Wordpress/01-基础认知层/01-概念理解/WordPress发展历程.md",
-    "计算机/开发学习/系统/Wordpress/01-基础认知层/01-概念理解/版本差异对比.md",
-    "计算机/开发学习/系统/Wordpress/00-学习路径/学习计划模板.md",
-    "计算机/开发学习/系统/Wordpress/00-学习路径/学习检查清单.md",
-    "计算机/开发学习/系统/Wordpress/00-学习路径/学习地图.md",
-    "计算机/开发学习/系统/Wordpress/00-学习路径/项目实战.md",
-    "计算机/开发学习/系统/Wordpress/00-学习路径/技能树.md",
-    "计算机/开发学习/系统/Odoo/Odoo.md",
-    "conflict-files-obsidian-git.md",
-    "计算机/开发学习/系统/Wordpress/05-生态扩展层/03-学习资源/进阶学习.md",
-    "计算机/开发学习/系统/Wordpress/05-生态扩展层/03-学习资源/职业发展.md",
-    "计算机/开发学习/系统/Wordpress/05-生态扩展层/03-学习资源/社区资源.md",
+    "营销/11-行业案例研究/04-零售业营销案例.md",
+    "营销/11-行业案例研究/03-制造业营销案例.md",
+    "营销/11-行业案例研究/02-互联网行业营销案例.md",
+    "营销/11-行业案例研究/01-科技行业营销案例.md",
+    "营销/11-行业案例研究",
+    "营销/10-营销失败案例/03-渠道营销失败案例.md",
+    "营销/10-营销失败案例/02-产品营销失败案例.md",
+    "营销/10-营销失败案例/01-品牌营销失败案例.md",
+    "营销/10-营销失败案例",
+    "计算机/开发学习/系统/Wordpress/99-实战项目/07-性能优化项目.md",
+    "计算机/开发学习/系统/Wordpress/99-实战项目/06-API集成项目.md",
+    "计算机/开发学习/系统/Wordpress/99-实战项目/05-多站点项目.md",
+    "计算机/开发学习/系统/Wordpress/99-实战项目/04-会员系统项目.md",
+    "计算机/开发学习/系统/Wordpress/99-实战项目/03-电商网站项目.md",
+    "计算机/开发学习/系统/Wordpress/99-实战项目/02-企业官网项目.md",
+    "计算机/开发学习/系统/Wordpress/99-实战项目/01-博客网站项目.md",
+    "计算机/开发学习/系统/Wordpress/91-故障排除/故障排除工具.md",
+    "计算机/开发学习/系统/Wordpress/91-故障排除/数据恢复.md",
+    "计算机/开发学习/系统/Wordpress/91-故障排除/安全事件处理.md",
+    "计算机/开发学习/系统/Wordpress/91-故障排除/性能问题诊断.md",
+    "计算机/开发学习/系统/Wordpress/91-故障排除/常见问题解决.md",
+    "计算机/开发学习/系统/Wordpress/90-快速参考/错误代码对照.md",
+    "计算机/开发学习/系统/Wordpress/90-快速参考/配置文件参数.md",
+    "计算机/开发学习/系统/Wordpress/90-快速参考/数据库表结构.md",
+    "计算机/开发学习/系统/Wordpress/90-快速参考/钩子速查表.md",
+    "计算机/开发学习/系统/Wordpress/90-快速参考/模板标签速查.md",
+    "计算机/开发学习/系统/Wordpress/90-快速参考/函数速查表.md",
     "计算机/开发学习/系统/Wordpress/05-生态扩展层/03-学习资源/持续学习.md",
+    "营销/09-全球化营销",
+    "计算机/开发学习/系统/Wordpress/99-实战项目",
+    "计算机/开发学习/系统/Wordpress/91-故障排除",
+    "计算机/开发学习/系统/Wordpress/90-快速参考",
     "计算机/开发学习/系统/Wordpress/05-生态扩展层/03-学习资源",
     "计算机/开发学习/系统/Wordpress/05-生态扩展层/02-最佳实践",
     "计算机/开发学习/系统/Wordpress/05-生态扩展层/01-工具生态",
     "计算机/开发学习/系统/Wordpress/05-生态扩展层",
-    "计算机/开发学习/系统/Wordpress/02-核心理解层/03-钩子机制",
-    "计算机/开发学习/系统/Wordpress/02-核心理解层/02-模板系统",
-    "计算机/开发学习/系统/Wordpress/02-核心理解层/01-架构原理",
-    "计算机/开发学习/系统/Wordpress/02-核心理解层",
-    "计算机/开发学习/系统/Wordpress/99-实战项目",
-    "计算机/开发学习/系统/Wordpress/91-故障排除",
     "未命名.canvas",
     "Pasted image 20250924135807.png",
+    "图片/运维之光-私域运维体系知识地图dt2240249.png",
+    "图片/Pasted image 20250926231542.png",
+    "图片/Pasted image 20250926231530.png",
+    "图片/Pasted image 20250924135807.png",
     "1650186684-c242c9046d4e55b.png",
     "未命名 2.canvas",
     "未命名 1.canvas",
