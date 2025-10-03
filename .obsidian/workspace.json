@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我的提示词/学习大纲提示词.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学习大纲提示词"
+              "title": "新标签页"
             }
           }
         ]
@@ -199,25 +195,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ebecd269b099ad2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/开发学习/系统/Opencart/Opencart.md",
     "我的提示词/学习大纲提示词.md",
-    "计算机/开发学习/语言/Node JS",
-    "计算机/开发学习/语言/新建文件夹",
+    "计算机/开发学习/系统/Wordpress/02-核心理解层/04-性能优化/安全防护.md",
+    "计算机/开发学习/系统/Wordpress/02-核心理解层/04-性能优化",
+    "计算机/开发学习/语言/HTML/体系复盘评估.md",
+    "计算机/开发学习/语言/HTML/详细文件清单.md",
+    "计算机/开发学习/语言/HTML/folder_structure.md",
+    "计算机/开发学习/语言/HTML/01-认知-基础概念.md",
+    "计算机/开发学习/语言/HTML",
+    "计算机/开发学习/系统/Opencart/05-成长提升层/扩展学习",
+    "计算机/开发学习/系统/Opencart/05-成长提升层/问题解决",
+    "计算机/开发学习/系统/Opencart/05-成长提升层/知识体系",
+    "计算机/开发学习/系统/Opencart/05-成长提升层",
+    "计算机/开发学习/系统/Opencart/04-综合实践层/项目管理",
+    "计算机/开发学习/系统/Opencart/04-综合实践层/实战案例分析",
+    "计算机/开发学习/系统/Opencart/04-综合实践层/项目训练营",
+    "计算机/开发学习/系统/Opencart/04-综合实践层",
+    "计算机/开发学习/系统/Opencart/Opencart.md",
     "计算机/开发学习/系统/Wordpress/03-应用开发层/02-后端开发/API开发.md",
     "计算机/开发学习/语言/NodeJS/事件驱动编程理念.md",
     "计算机/开发学习/语言/NodeJS/V8引擎与运行时.md",
     "计算机/开发学习/语言/NodeJS/Node.js发展历程.md",
     "计算机/开发学习/语言/NodeJS/什么是Node.js.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/📚 L7-资源整合层(Resources)/🎓 04-学习路径",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/📚 L7-资源整合层(Resources)/📖 03-经典资料",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/📚 L7-资源整合层(Resources)/🔗 02-推荐资源",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/📚 L7-资源整合层(Resources)/📚 01-官方资源",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🎯 L6-项目实战层(Projects)/💡 04-创新项目",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🎯 L6-项目实战层(Projects)/��️ 03-高级项目",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🎯 L6-项目实战层(Projects)/🚀 02-中级项目",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🎯 L6-项目实战层(Projects)/🏗️ 01-初学者项目",
     "计算机/开发学习/语言/NodeJS/Node.js知识地图/🏛️ L4-架构设计层(Architecture)/🏗️ 01-微服务架构/03-服务发现机制.md",
     "计算机/开发学习/语言/NodeJS/Node.js知识地图/🏛️ L4-架构设计层(Architecture)/🏗️ 01-微服务架构/02-API Gateway设计.md",
     "计算机/开发学习/语言/NodeJS/Node.js知识地图/🏛️ L4-架构设计层(Architecture)/🏗️ 01-微服务架构/01-服务拆分策略.md",
@@ -231,11 +232,6 @@
     "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔄 03-异步编程进阶/02-async&await最佳实践.md",
     "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔄 03-异步编程进阶/01-Promise高级技巧.md",
     "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/💾 02-数据库集成/04-数据库连接池.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/💾 02-数据库集成/03-Redis缓存策略.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/💾 02-数据库集成/02-MySQL与Sequelize.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/💾 02-数据库集成/01-MongoDB与Mongoose.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🌐 01-Web框架开发/05-静态文件处理.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🌐 01-Web框架开发/04-路由设计模式.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🌐 01-Web框架开发/03-中间件机制.md"
+    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/💾 02-数据库集成/03-Redis缓存策略.md"
   ]
 }
