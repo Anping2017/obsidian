@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小红书问题/新西兰数字营销领域客户互动问题100问.md",
+                "file": "小红书问题/新西兰露营热点问题100问（第六批）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "新西兰数字营销领域客户互动问题100问"
+              "title": "新西兰露营热点问题100问（第六批）"
             }
           }
         ],
@@ -172,7 +172,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "小红书问题/新西兰数字营销领域客户互动问题100问.md"
+                "file": "小红书问题/新西兰露营热点问题100问（第六批）.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -239,8 +239,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68467d8044632b07",
+  "active": "105b813b36e3e7b2",
   "lastOpenFiles": [
+    "Odoo/04-精通创新层/03-最佳实践/代码规范与质量.md",
+    "Odoo/04-精通创新层/02-性能优化/缓存机制与优化.md",
+    "Odoo/04-精通创新层/02-性能优化/代码性能调优.md",
+    "Odoo/04-精通创新层/02-性能优化/数据库优化.md",
+    "小红书问题/新西兰数字营销领域客户互动问题100问.md",
     "小红书问题/新西兰露营热点问题100问（续）.md",
     "小红书问题/新西兰露营热点问题100问（第四批）.md",
     "小红书问题/新西兰露营热点问题100问（第五批）.md",
@@ -271,12 +276,7 @@
     "Odoo/03-应用实践层/03-报表开发/外部报表集成.md.baiduyun.uploading.cfg",
     "Odoo/03-应用实践层/03-报表开发/QWeb报表定制.md.baiduyun.uploading.cfg",
     "Odoo/03-应用实践层/02-视图开发/视图继承机制.md.baiduyun.uploading.cfg",
-    "小红书问题/新西兰数字营销领域客户互动问题100问.md",
     "小红书问题/新西兰露营小红书主题100个.md",
-    "小红书问题/新西兰露营小红书主题100个（第八批）.md",
-    "Excalidraw/网站开发框架.excalidraw.md",
-    "计算机/开发学习/系统/Odoo/Odoo.md",
-    "营销/11-行业案例研究/04-零售业营销案例.md",
     "图片/Pasted image 20250926231542.png",
     "图片/Pasted image 20250926231530.png",
     "图片/Pasted image 20250924135807.png",
