@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e5095bb6bed1f3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "38750acce9712ec7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "我的提示词/学习大纲提示词.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "学习大纲提示词"
             }
           }
         ]
@@ -195,43 +199,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "38750acce9712ec7",
   "lastOpenFiles": [
-    "我的提示词/学习大纲提示词.md",
-    "计算机/开发学习/系统/Wordpress/02-核心理解层/04-性能优化/安全防护.md",
-    "计算机/开发学习/系统/Wordpress/02-核心理解层/04-性能优化",
-    "计算机/开发学习/语言/HTML/体系复盘评估.md",
-    "计算机/开发学习/语言/HTML/详细文件清单.md",
-    "计算机/开发学习/语言/HTML/folder_structure.md",
-    "计算机/开发学习/语言/HTML/01-认知-基础概念.md",
-    "计算机/开发学习/语言/HTML",
-    "计算机/开发学习/系统/Opencart/05-成长提升层/扩展学习",
-    "计算机/开发学习/系统/Opencart/05-成长提升层/问题解决",
-    "计算机/开发学习/系统/Opencart/05-成长提升层/知识体系",
-    "计算机/开发学习/系统/Opencart/05-成长提升层",
-    "计算机/开发学习/系统/Opencart/04-综合实践层/项目管理",
-    "计算机/开发学习/系统/Opencart/04-综合实践层/实战案例分析",
-    "计算机/开发学习/系统/Opencart/04-综合实践层/项目训练营",
-    "计算机/开发学习/系统/Opencart/04-综合实践层",
-    "计算机/开发学习/系统/Opencart/Opencart.md",
-    "计算机/开发学习/系统/Wordpress/03-应用开发层/02-后端开发/API开发.md",
-    "计算机/开发学习/语言/NodeJS/事件驱动编程理念.md",
-    "计算机/开发学习/语言/NodeJS/V8引擎与运行时.md",
-    "计算机/开发学习/语言/NodeJS/Node.js发展历程.md",
-    "计算机/开发学习/语言/NodeJS/什么是Node.js.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🏛️ L4-架构设计层(Architecture)/🏗️ 01-微服务架构/03-服务发现机制.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🏛️ L4-架构设计层(Architecture)/🏗️ 01-微服务架构/02-API Gateway设计.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🏛️ L4-架构设计层(Architecture)/🏗️ 01-微服务架构/01-服务拆分策略.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔒 04-安全认证体系/05-安全防护策略.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔒 04-安全认证体系/04-CORS跨域处理.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔒 04-安全认证体系/03-密码加密安全.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔒 04-安全认证体系/02-JWT令牌机制.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔒 04-安全认证体系/01-用户认证系统.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔄 03-异步编程进阶/04-异步控制流.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔄 03-异步编程进阶/03-生成器与协程.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔄 03-异步编程进阶/02-async&await最佳实践.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/🔄 03-异步编程进阶/01-Promise高级技巧.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/💾 02-数据库集成/04-数据库连接池.md",
-    "计算机/开发学习/语言/NodeJS/Node.js知识地图/🚀 L3-技能应用层(Skills)/💾 02-数据库集成/03-Redis缓存策略.md"
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/导航中心/02-檔案索引.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Progress-Tracking/03-Achievement-System成就系统.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Progress-Tracking/02-Progress-Metrics进度指标.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Progress-Tracking/01-Learning-Goals学习目标.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Practice-Labs/03-Project-Templates项目模板.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Practice-Labs/02-Coding-Challenges编码挑战.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Practice-Labs/01-Exercises练习题.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Knowledge-Tests/03-Certification-Prep认证预备.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Knowledge-Tests/02-Level-Tests分层测试.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Knowledge-Tests/01-Quick-Check快速检查.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Career-Development/04-Career-Progression职业进阶.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Career-Development/03-Skill-Assessment技能评估.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Career-Development/02-Job-Requirements市场需求.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Career-Development/01-Industry-Application行业应用.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Updates-and-Trends/04-Future-Directions未来方向.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Updates-and-Trends/03-Breaking-Changes破坏性变更.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Updates-and-Trends/02-Roadmap路线图.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Updates-and-Trends/01-Version-History版本历史.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Resources-and-References/04-Learning-Materials学习材料.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Resources-and-References/03-Tooling-Ecosystem生态环境.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Resources-and-References/02-Community-Resources社区资源.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Resources-and-References/01-Official-Documentation官方文档整理.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Case-Studies-案例研究/Best-Practices-Library/04-Documentation文档化.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Case-Studies-案例研究/Best-Practices-Library/03-Testing-Strategy测试策略.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Case-Studies-案例研究/Best-Practices-Library/02-Code-Organization代码组织.md",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Case-Studies-案例研究/Best-Practices-Library/01-Type-Design-Patterns类型设计模式.md",
+    "计算机/开发学习/语言/Python/05_进阶层-现代Python技术",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Progress-Tracking",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Practice-Labs",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Assessment-and-Tools-评估工具/Knowledge-Tests",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Career-Development",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem- ecosystems/Career-Development",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem- ecosystems",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Updates-and-Trends",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Ecosystem-生态系统/Resources-and-References",
+    "计算机/开发学习/语言/Typescript/TypeScript-知识地图/Case-Studies-案例研究/Best-Practices-Library",
+    "Pasted image 20250924135807.png"
   ]
 }
