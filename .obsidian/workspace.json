@@ -20,22 +20,37 @@
               "icon": "lucide-file",
               "title": "Odoo"
             }
+          },
+          {
+            "id": "63a36c39382e7df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "16231bc21e5da45e",
+    "id": "3a7883d6cdae141b",
     "type": "split",
     "children": [
       {
-        "id": "eb8109fc6d2c5200",
+        "id": "89ea091c43cd20a6",
         "type": "tabs",
         "children": [
           {
-            "id": "105b813b36e3e7b2",
+            "id": "0ebecd269b099ad2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "efacaaff258b4701",
+            "id": "d9f29f625abbf26b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "ffca437c32798674",
+            "id": "7678fd0d8733dc9e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,48 +96,46 @@
     "width": 300
   },
   "right": {
-    "id": "cf8775447dd5e520",
+    "id": "69eb72739fba2868",
     "type": "split",
     "children": [
       {
-        "id": "c8e4c57714f64d12",
+        "id": "b5ea509f7fb31782",
         "type": "tabs",
         "children": [
           {
-            "id": "f704528775900a72",
+            "id": "41c5c800be69b304",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/数据存储/数据库/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SQL 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "f1212620b888fe3b",
+            "id": "b24ab2036c98846a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "odoo开发学习/Odoo知识地图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odoo知识地图 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "86e5235c31970ab4",
+            "id": "b1052fce5fa0fc4c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,34 +150,7 @@
             }
           },
           {
-            "id": "478535ae1c404be5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "我的提示词/学习大纲提示词.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "学习大纲提示词 的大纲"
-            }
-          },
-          {
-            "id": "88de5beec229c878",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "我的提示词/学习大纲提示词.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "脚注"
-            }
-          },
-          {
-            "id": "b313d0da159f7ab0",
+            "id": "00ea64e6470bdce5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -178,17 +164,21 @@
             }
           },
           {
-            "id": "0b197dd1081bbed6",
+            "id": "b413832f90b63625",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
-            "id": "0e39540616c5bf26",
+            "id": "e58c376f09049a25",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -198,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,10 +202,10 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
+      "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:创建新看板": false,
@@ -224,56 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "63a36c39382e7df7",
   "lastOpenFiles": [
     "计算机/开发学习/系统/Odoo/Odoo.md",
-    "我的提示词/学习大纲提示词.md",
-    "营销/11-行业案例研究/04-零售业营销案例.md",
-    "营销/11-行业案例研究/03-制造业营销案例.md",
-    "营销/11-行业案例研究/02-互联网行业营销案例.md",
-    "营销/11-行业案例研究/01-科技行业营销案例.md",
-    "营销/11-行业案例研究",
-    "营销/10-营销失败案例/03-渠道营销失败案例.md",
-    "营销/10-营销失败案例/02-产品营销失败案例.md",
-    "营销/10-营销失败案例/01-品牌营销失败案例.md",
-    "营销/10-营销失败案例",
-    "计算机/开发学习/系统/Wordpress/99-实战项目/07-性能优化项目.md",
-    "计算机/开发学习/系统/Wordpress/99-实战项目/06-API集成项目.md",
-    "计算机/开发学习/系统/Wordpress/99-实战项目/05-多站点项目.md",
-    "计算机/开发学习/系统/Wordpress/99-实战项目/04-会员系统项目.md",
-    "计算机/开发学习/系统/Wordpress/99-实战项目/03-电商网站项目.md",
-    "计算机/开发学习/系统/Wordpress/99-实战项目/02-企业官网项目.md",
-    "计算机/开发学习/系统/Wordpress/99-实战项目/01-博客网站项目.md",
-    "计算机/开发学习/系统/Wordpress/91-故障排除/故障排除工具.md",
-    "计算机/开发学习/系统/Wordpress/91-故障排除/数据恢复.md",
-    "计算机/开发学习/系统/Wordpress/91-故障排除/安全事件处理.md",
-    "计算机/开发学习/系统/Wordpress/91-故障排除/性能问题诊断.md",
-    "计算机/开发学习/系统/Wordpress/91-故障排除/常见问题解决.md",
-    "计算机/开发学习/系统/Wordpress/90-快速参考/错误代码对照.md",
-    "计算机/开发学习/系统/Wordpress/90-快速参考/配置文件参数.md",
-    "计算机/开发学习/系统/Wordpress/90-快速参考/数据库表结构.md",
-    "计算机/开发学习/系统/Wordpress/90-快速参考/钩子速查表.md",
-    "计算机/开发学习/系统/Wordpress/90-快速参考/模板标签速查.md",
-    "营销/09-全球化营销",
-    "计算机/开发学习/系统/Wordpress/99-实战项目",
-    "计算机/开发学习/系统/Wordpress/91-故障排除",
-    "计算机/开发学习/系统/Wordpress/90-快速参考",
-    "计算机/开发学习/系统/Wordpress/05-生态扩展层/03-学习资源",
-    "计算机/开发学习/系统/Wordpress/05-生态扩展层/02-最佳实践",
-    "计算机/开发学习/系统/Wordpress/05-生态扩展层/01-工具生态",
-    "计算机/开发学习/系统/Wordpress/05-生态扩展层",
-    "未命名.canvas",
-    "Pasted image 20250924135807.png",
-    "图片/运维之光-私域运维体系知识地图dt2240249.png",
-    "图片/Pasted image 20250926231542.png",
-    "图片/Pasted image 20250926231530.png",
-    "图片/Pasted image 20250924135807.png",
-    "1650186684-c242c9046d4e55b.png",
-    "未命名 2.canvas",
-    "未命名 1.canvas",
-    "BaiduSyncdisk/007be630-3187-44dc-8a75-1734735428d8.png",
-    "BaiduSyncdisk/020e39e9-a6c0-4d20-b14a-151901161dd3.png",
-    "BaiduSyncdisk/00c95500-a362-47a3-ad46-7036ba35cf7a.png",
-    "BaiduSyncdisk/537d730e-350e-40c3-bbd2-22f2bb2e70d2.png"
+    "conflict-files-obsidian-git.md"
   ]
 }

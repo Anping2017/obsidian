@@ -1051,3 +1051,4 @@ class EventSubscriber(models.Model):
 
 **学习进度**: ✅ 已完成  
 **下一步**: [[数据同步机制]]
+
