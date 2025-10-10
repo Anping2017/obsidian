@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPyramid",
-      "LiAlignHorizontalJustifyStart",
-      "LiBatteryCharging",
-      "♦",
-      "LiPaintbrush"
+      "LiPanelsRightBottom",
+      "👨‍👧‍👧",
+      "LiMousePointerClick",
+      "⏺",
+      "LiSmartphone"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,21 @@
   "Obsidian学习": "♦",
   "计算机/开发学习/新技术": "LiBatteryCharging",
   "计算机/开发学习/项目": "LiAlignHorizontalJustifyStart",
-  "计算机/开发学习/中间层": "LiPyramid"
+  "计算机/开发学习/中间层": "LiPyramid",
+  "金融学": "💰",
+  "经济学": "🎑",
+  "芒格多元思维模型": "LiFileChartColumnIncreasing",
+  "商业学": "LiGitCompare",
+  "手机店运营": "📱",
+  "数字营销": "LiMegaphone",
+  "提示词工程": "LiWholeWord",
+  "心理学": "LiHeartHandshake",
+  "营销": "LiHandshake",
+  "哲学": "🙉",
+  "AI人工智能": "LiComputer",
+  "iPhone": "LiSmartphone",
+  "Odoo": "⏺",
+  "SEO": "LiMousePointerClick",
+  "我的提示词": "👨‍👧‍👧",
+  "图片": "LiPanelsRightBottom"
 }
