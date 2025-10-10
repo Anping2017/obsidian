@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "商业学/01-基础理论层/02-商业环境分析/04-内部环境分析.md",
-                "mode": "source",
-                "source": false
+                "aFile": "计算机/开发学习/语言/Python/06_资源中心/🎥 视频学习资源.md.baiduyun.uploading.cfg",
+                "bFile": "计算机/开发学习/语言/Python/06_资源中心/🎥 视频学习资源.md.baiduyun.uploading.cfg",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "04-内部环境分析"
+              "icon": "diff",
+              "title": "Diff: 🎥 视频学习资源.md.baiduyun.uploading.cfg"
             }
           }
         ]
@@ -224,8 +224,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "af69272cb17363bb",
   "lastOpenFiles": [
+    "计算机/编程基础/数据结构/00-学习枢纽/🧠-记忆宫殿法.md.baiduyun.uploading.cfg",
+    "计算机/编程基础/数据结构/00-学习枢纽/🗺️-学习路径图.md.baiduyun.uploading.cfg",
+    "计算机/编程基础/数据结构/00-学习枢纽/🔗-快速链接导航.md.baiduyun.uploading.cfg",
+    "计算机/编程基础/数据结构/00-学习枢纽/📋-知识点检测清单.md.baiduyun.uploading.cfg",
+    "计算机/编程基础/数据结构/00-学习枢纽/📊-学习进度跟踪.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/🔧 工具集锦.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/📚 文档资料库.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/📖 推荐阅读清单.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/💼 Python职场进阶指南.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/🎥 视频学习资源.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/6.1 学习资源/📖 推荐阅读清单.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/系统/Odoo/Odoo.md",
+    "商业学/01-基础理论层/02-商业环境分析/04-内部环境分析.md",
     "商业学/01-基础理论层/02-商业环境分析/03-竞争环境分析.md",
     "商业学/01-基础理论层/03-商业伦理与社会责任/04-商业道德决策.md",
     "商业学/01-基础理论层/03-商业伦理与社会责任/03-可持续发展.md",
@@ -249,19 +262,6 @@
     "iPhone/iPhone知识体系/00-快速索引/00-知识体系总览.md",
     "SEO/01-SEO基础认知/01-2-搜索引擎工作原理/搜索引擎索引建立.md",
     "SEO/01-SEO基础认知/01-2-搜索引擎工作原理/搜索引擎排名算法.md",
-    "SEO/01-SEO基础认知/01-2-搜索引擎工作原理/搜索引擎爬虫机制.md",
-    "SEO/07-SEO进阶专题/07-3-SEO团队管理/团队协作最佳实践.md",
-    "SEO/01-SEO基础认知/01-2-搜索引擎工作原理/搜索引擎发展趋势.md",
-    "SEO/07-SEO进阶专题/07-3-SEO团队管理",
-    "SEO/07-SEO进阶专题/07-2-SEO数据分析",
-    "SEO/07-SEO进阶专题/07-1-新兴技术SEO",
-    "SEO/07-SEO进阶专题",
-    "SEO/06-SEO资源库/06-3-模板资源",
-    "计算机/开发学习/语言/Python/06_资源中心/🎥 视频学习资源.md.baiduyun.uploading.cfg",
-    "计算机/编程基础/数据结构/00-学习枢纽/📊-学习进度跟踪.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/Python/06_资源中心/🔧 工具集锦.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/Python/06_资源中心/📚 文档资料库.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/Python/06_资源中心/📖 推荐阅读清单.md.baiduyun.uploading.cfg",
     "图片/Pasted image 20250924135807 1.png",
     "图片/Pasted image 20250926231542.png",
     "图片/Pasted image 20250926231530.png",
