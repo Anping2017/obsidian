@@ -11,15 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "英语语法/03-高级应用层/02-特殊句式/03-省略句/01-并列省略.md",
-                "bFile": "英语语法/03-高级应用层/02-特殊句式/03-省略句/01-并列省略.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "我的工具/学习大纲提示词.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 01-并列省略"
+              "icon": "lucide-file",
+              "title": "学习大纲提示词"
             }
           }
         ]
@@ -225,19 +224,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af69272cb17363bb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/编程基础/数据结构/00-学习枢纽/🧠-记忆宫殿法.md.baiduyun.uploading.cfg",
-    "计算机/编程基础/数据结构/00-学习枢纽/🗺️-学习路径图.md.baiduyun.uploading.cfg",
+    "英语学习/02-理解应用层/01-阅读理解/02-篇章结构.md",
     "计算机/编程基础/数据结构/00-学习枢纽/🔗-快速链接导航.md.baiduyun.uploading.cfg",
     "计算机/编程基础/数据结构/00-学习枢纽/📋-知识点检测清单.md.baiduyun.uploading.cfg",
     "计算机/编程基础/数据结构/00-学习枢纽/📊-学习进度跟踪.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/🔧 工具集锦.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/📚 文档资料库.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/📖 推荐阅读清单.md.baiduyun.uploading.cfg",
+    "计算机/编程基础/数据结构/00-学习枢纽/🧠-记忆宫殿法.md.baiduyun.uploading.cfg",
+    "计算机/编程基础/数据结构/00-学习枢纽/🗺️-学习路径图.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/💼 Python职场进阶指南.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/🎥 视频学习资源.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/Python/06_资源中心/6.1 学习资源/📖 推荐阅读清单.md.baiduyun.uploading.cfg",
     "conflict-files-obsidian-git.md",
     "英语语法/03-高级应用层/02-特殊句式/05-特殊句式记忆辅助/03-特殊句式练习游戏.md",
     "英语语法/03-高级应用层/02-特殊句式/05-特殊句式记忆辅助/02-特殊句式对比图表.md",
