@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥭",
+      "LiLanguages",
       "💸",
       "LiPanelsRightBottom",
-      "👨‍👧‍👧",
-      "LiMousePointerClick",
-      "⏺"
+      "👨‍👧‍👧"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,7 +50,7 @@
   "计算机/开发学习/中间层": "LiPyramid",
   "金融学": "💰",
   "经济学": "🎑",
-  "芒格多元思维模型": "LiFileChartColumnIncreasing",
+  "芒格多元思维模型": "🥭",
   "商业学": "LiGitCompare",
   "手机店运营": "📱",
   "数字营销": "LiMegaphone",
@@ -62,5 +62,7 @@
   "iPhone": "LiSmartphone",
   "Odoo": "⏺",
   "SEO": "LiMousePointerClick",
-  "图片": "LiPanelsRightBottom"
+  "图片": "LiPanelsRightBottom",
+  "企业领导力": "👨‍👧‍👧",
+  "英语语法": "LiLanguages"
 }
