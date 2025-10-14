@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏗",
       "🥭",
       "LiLanguages",
       "💸",
-      "LiPanelsRightBottom",
-      "👨‍👧‍👧"
+      "LiPanelsRightBottom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,7 +51,7 @@
   "金融学": "💰",
   "经济学": "🎑",
   "芒格多元思维模型": "🥭",
-  "商业学": "LiGitCompare",
+  "商业学": "🏗",
   "手机店运营": "📱",
   "数字营销": "LiMegaphone",
   "提示词工程": "LiWholeWord",
