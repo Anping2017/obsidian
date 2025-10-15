@@ -1,0 +1,3 @@
+# B2B vs B2C SEO
+
+## B2B与B2C SEO差异
