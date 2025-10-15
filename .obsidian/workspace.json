@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Google SEO/02-理解层-核心机制/2.3-技术SEO/01-网站结构优化.md.baiduyun.uploading.cfg",
-                "bFile": "Google SEO/02-理解层-核心机制/2.3-技术SEO/01-网站结构优化.md.baiduyun.uploading.cfg",
-                "aRef": ""
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 01-网站结构优化.md.baiduyun.uploading.cfg"
+              "icon": "lucide-file",
+              "title": "Odoo"
             }
           }
         ]
@@ -224,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af69272cb17363bb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Google SEO/02-理解层-核心机制/2.3-技术SEO/01-网站结构优化.md.baiduyun.uploading.cfg",
     "我的工具/学习大纲提示词.md",
