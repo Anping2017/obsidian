@@ -37,3 +37,19 @@ AI 剪辑 + 上字幕 + 音乐节奏
 - **Canva AI Magic Studio**
     
 - 或 **Ideogram**（AI 生成封面图片）
+
+
+skyreels AI
+showrunner
+morfei
+纳米AI智能体
+即梦3.0
+可灵
+海螺AI
+清影
+Vidu
+
+AI换脸
+Deepswap
+faceswap
+swapface
