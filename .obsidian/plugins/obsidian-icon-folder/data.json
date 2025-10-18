@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💰",
       "🏗",
       "🥭",
       "LiLanguages",
-      "💸",
-      "LiPanelsRightBottom"
+      "💸"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,6 @@
   "SEO": "LiMousePointerClick",
   "图片": "LiPanelsRightBottom",
   "企业领导力": "👨‍👧‍👧",
-  "英语语法": "LiLanguages"
+  "英语语法": "LiLanguages",
+  "会计学": "💸"
 }
