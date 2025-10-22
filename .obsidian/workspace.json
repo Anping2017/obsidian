@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小红书问题/战略规划.md",
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "战略规划"
+              "title": "Odoo"
             }
           }
         ]
@@ -224,21 +224,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af69272cb17363bb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机/编程基础/数据结构/00-学习枢纽/📋-知识点检测清单.md.baiduyun.uploading.cfg",
     "计算机/编程基础/数据结构/00-学习枢纽/🧠-记忆宫殿法.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/💼 Python职场进阶指南.md.baiduyun.uploading.cfg",
+    "计算机/开发学习/语言/Python/06_资源中心/🔧 工具集锦.md.baiduyun.uploading.cfg",
     "计算机/编程基础/数据结构/00-学习枢纽/📊-学习进度跟踪.md.baiduyun.uploading.cfg",
+    "小红书问题/战略规划.md",
     "计算机/编程基础/数据结构/00-学习枢纽/🗺️-学习路径图.md.baiduyun.uploading.cfg",
     "计算机/编程基础/数据结构/00-学习枢纽/🔗-快速链接导航.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/Python/06_资源中心/🔧 工具集锦.md.baiduyun.uploading.cfg",
+    "计算机/编程基础/数据结构/00-学习枢纽/📋-知识点检测清单.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/📚 文档资料库.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/📖 推荐阅读清单.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/Python/06_资源中心/💼 Python职场进阶指南.md.baiduyun.uploading.cfg",
     "计算机/开发学习/语言/Python/06_资源中心/🎥 视频学习资源.md.baiduyun.uploading.cfg",
-    "计算机/开发学习/语言/Python/06_资源中心/6.1 学习资源/📖 推荐阅读清单.md.baiduyun.uploading.cfg",
     "芒格多元思维模型/03-应用实践/04-问题解决框架.md",
-    "小红书问题/战略规划.md",
     "芒格多元思维模型/03-应用实践/03-个人成长应用.md",
     "芒格多元思维模型/03-应用实践/02-商业分析应用.md",
     "芒格多元思维模型/03-应用实践/01-投资决策应用.md",
