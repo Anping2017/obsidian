@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z我的工具/AI工具.md",
+                "file": "露营/02-理解层-原理机制/01-户外生存原理/01-人体生理适应.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI工具"
+              "title": "01-人体生理适应"
+            }
+          },
+          {
+            "id": "76615dd39c203880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +214,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "76615dd39c203880",
   "lastOpenFiles": [
+    "露营/02-理解层-原理机制/01-户外生存原理/01-人体生理适应.md",
+    "conflict-files-obsidian-git.md",
+    "计算机/开发学习/系统/Odoo/模块/mrp模块.md",
+    "计算机/开发学习/系统/Odoo/模块/mrp_workorder模块.md",
+    "计算机/开发学习/系统/Odoo/模块/mrp_subcontracting模块.md",
+    "计算机/开发学习/系统/Odoo/模块/mrp_plm模块.md",
+    "计算机/开发学习/系统/Odoo/模块/mass_mailing模块.md",
+    "计算机/开发学习/系统/Odoo/模块/marketing_automation模块.md",
+    "计算机/开发学习/系统/Odoo/模块/maintenance模块.md",
+    "计算机/开发学习/系统/Odoo/模块/l10n_generic_coa模块.md",
+    "计算机/开发学习/系统/Odoo/模块/knowledge模块.md",
+    "计算机/开发学习/系统/Odoo/模块/iap模块.md",
+    "计算机/开发学习/系统/Odoo/模块/hr模块.md",
+    "小红书问题/战略规划.md",
     "z我的工具/AI工具.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
     "z我的工具/深度学习教练prompt.md",
@@ -213,20 +242,6 @@
     "z我的工具/学习大纲提示词.md",
     "露营/露营知识体系维护计划.md",
     "露营/露营知识体系使用指南.md",
-    "露营/露营知识体系完整总结.md",
-    "露营/04-创新层-进阶发展/README.md",
-    "露营/README.md",
-    "露营/04-创新层-进阶发展/04-文化传承/01-文化传承概述.md",
-    "露营/04-创新层-进阶发展/03-领导力培养/01-领导力概述.md",
-    "露营/04-创新层-进阶发展/02-专业配置/01-专业配置概述.md",
-    "露营/04-创新层-进阶发展/01-高级技巧/01-高级技巧概述.md",
-    "露营/03-应用层-实践技能/04-应急处理/04-安全撤离与避险.md",
-    "露营/03-应用层-实践技能/04-应急处理/03-应急通讯与救援.md",
-    "露营/03-应用层-实践技能/03-野外生存/05-高海拔适应.md",
-    "露营/03-应用层-实践技能/02-营地建设/05-户外烹饪技巧.md",
-    "露营/03-应用层-实践技能/02-营地建设/04-营地布局与规划.md",
-    "露营/03-应用层-实践技能/01-装备准备/06-燃料与能源.md",
-    "露营/03-应用层-实践技能/01-装备准备/05-篝火建设与管理.md",
     "露营/05-实践与评估/03-持续改进",
     "露营/05-实践与评估/02-案例研究",
     "露营/05-实践与评估/01-技能评估体系",
