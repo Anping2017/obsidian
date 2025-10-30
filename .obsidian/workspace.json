@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "露营/02-理解层-原理机制/01-户外生存原理/01-人体生理适应.md",
+                "file": "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-竞品研究报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-人体生理适应"
-            }
-          },
-          {
-            "id": "76615dd39c203880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "02-竞品研究报告"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,34 +199,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76615dd39c203880",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "露营/02-理解层-原理机制/01-户外生存原理/01-人体生理适应.md",
-    "conflict-files-obsidian-git.md",
-    "计算机/开发学习/系统/Odoo/模块/mrp模块.md",
-    "计算机/开发学习/系统/Odoo/模块/mrp_workorder模块.md",
-    "计算机/开发学习/系统/Odoo/模块/mrp_subcontracting模块.md",
-    "计算机/开发学习/系统/Odoo/模块/mrp_plm模块.md",
-    "计算机/开发学习/系统/Odoo/模块/mass_mailing模块.md",
-    "计算机/开发学习/系统/Odoo/模块/marketing_automation模块.md",
-    "计算机/开发学习/系统/Odoo/模块/maintenance模块.md",
-    "计算机/开发学习/系统/Odoo/模块/l10n_generic_coa模块.md",
-    "计算机/开发学习/系统/Odoo/模块/knowledge模块.md",
-    "计算机/开发学习/系统/Odoo/模块/iap模块.md",
-    "计算机/开发学习/系统/Odoo/模块/hr模块.md",
-    "小红书问题/战略规划.md",
-    "z我的工具/AI工具.md",
-    "计算机/开发学习/系统/Odoo/Odoo.md",
-    "z我的工具/深度学习教练prompt.md",
-    "露营/04-创新层-进阶发展/04-文化传承/07-文化传承模块总结.md",
-    "露营/04-创新层-进阶发展/03-领导力培养/07-领导力培养模块总结.md",
-    "露营/04-创新层-进阶发展/02-专业配置/06-专业配置模块总结.md",
-    "露营/04-创新层-进阶发展/01-高级技巧/07-高级技巧模块总结.md",
-    "露营/露营知识体系构建完成总结.md",
-    "z我的工具/提示词模板.md",
-    "z我的工具/学习大纲提示词.md",
-    "露营/露营知识体系维护计划.md",
-    "露营/露营知识体系使用指南.md",
+    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/03-竞争分析报告.md",
+    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-竞品研究报告.md",
+    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-技术发展报告.md",
+    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/01-市场研究报告.md",
+    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/01-市场分析报告.md",
+    "iPhone/iPhone知识体系/99-附录资料/价格历史记录/03-促销活动记录.md",
+    "iPhone/iPhone知识体系/99-附录资料/价格历史记录/02-价格走势分析表.md",
+    "iPhone/iPhone知识体系/99-附录资料/价格历史记录/01-各代iPhone价格历史.md",
+    "iPhone/iPhone知识体系/99-附录资料/技术参数表/04-屏幕规格对比表.md",
+    "iPhone/iPhone知识体系/99-附录资料/技术参数表/03-摄像头规格对比表.md",
+    "iPhone/iPhone知识体系/99-附录资料/技术参数表/02-芯片性能对比表.md",
+    "iPhone/iPhone知识体系/99-附录资料/技术参数表/01-各代iPhone技术参数.md",
+    "iPhone/iPhone知识体系/08-更新维护层/知识体系维护/04-体系完整性维护.md",
+    "iPhone/iPhone知识体系/08-更新维护层/知识体系维护/03-知识关联更新.md",
+    "iPhone/iPhone知识体系/08-更新维护层/知识体系维护/02-内容质量检查.md",
+    "iPhone/iPhone知识体系/08-更新维护层/知识体系维护/01-知识结构优化.md",
+    "iPhone/iPhone知识体系/08-更新维护层/知识更新机制/03-技术信息更新策略.md",
+    "iPhone/iPhone知识体系/08-更新维护层/知识更新机制/01-产品信息更新流程.md",
+    "iPhone/iPhone知识体系/08-更新维护层/学习进度跟踪/03-学习效果评估.md",
+    "iPhone/iPhone知识体系/08-更新维护层/学习进度跟踪/01-学习计划制定.md",
+    "iPhone/iPhone知识体系/06-行业洞察层/竞品分析/05-竞品分析记忆法.md",
+    "iPhone/iPhone知识体系/06-行业洞察层/竞品分析/04-竞争优势分析.md",
+    "iPhone/iPhone知识体系/06-行业洞察层/竞品分析/03-市场占有率分析.md",
+    "iPhone/iPhone知识体系/06-行业洞察层/竞品分析/02-其他品牌分析.md",
+    "iPhone/iPhone知识体系/06-行业洞察层/竞品分析/01-安卓竞品对比.md",
+    "iPhone/iPhone知识体系/05-专业服务层/维修知识/05-维修知识记忆法.md",
     "露营/05-实践与评估/03-持续改进",
     "露营/05-实践与评估/02-案例研究",
     "露营/05-实践与评估/01-技能评估体系",
