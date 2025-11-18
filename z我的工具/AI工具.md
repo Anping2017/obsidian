@@ -7,7 +7,7 @@ https://flvto.nu/convert/
 
 
 
-文本配音
+## 文本配音
 
 ElevenLabs
 TTSMaker
@@ -20,12 +20,12 @@ https://ttsmaker.com/
 - 中文：微软 Azure TTS → “晓晓” 或 “云希” 声音都很好听
 
 
-AI 画面生成
+## AI 画面生成
 - 写实风工具：**Runway Gen-3** 或 **Pika Labs**
 - 动画风工具：**Luma Dream Machine** 或 **Kaiber.ai**
 
 
-AI 剪辑 + 上字幕 + 音乐节奏
+## AI 剪辑 + 上字幕 + 音乐节奏
 - **CapCut AI（剪映国际版）** → 自动字幕 + 节奏识别 + BGM 推荐
     
 - **Veed.io** → 自动剪辑 + 自动匹配语音节奏
@@ -58,3 +58,11 @@ swapface
 生图
 nano banana
 huanyuanimage
+
+
+## AI分析
+[DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - 清华大学智能AI分析工具，开源Github
+
+
+## 视频总结
+[TLDW](https://tldw.us/) -  Youtube长视频总结
