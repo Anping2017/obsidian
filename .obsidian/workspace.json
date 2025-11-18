@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z我的工具/AI工具.md",
+                "file": "z我的收藏/工具网址/AI工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "AI工具"
             }
+          },
+          {
+            "id": "017c8a0fbd6cc34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z我的收藏/工具网址/其他工具.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "其他工具"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,9 +214,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "017c8a0fbd6cc34e",
   "lastOpenFiles": [
-    "z我的工具/AI视频/短视频爆款主题.md",
+    "z我的收藏/工具网址/AI工具.md",
+    "z我的收藏/工具网址/其他工具.md",
+    "z我的收藏/工具网址/学习网址.md",
+    "z我的收藏/工具prompt/JSON Prompt.md",
+    "z我的收藏/工具prompt/Lyra提示词专家.md",
+    "z我的收藏/我的感想/内在驱动力.md",
+    "z我的收藏/工具网址",
+    "z我的收藏/AI视频/短视频爆款主题.md",
+    "z我的收藏/工具prompt/学习大纲整理专家.md",
+    "z我的收藏/工具prompt/深度学习教练.md",
+    "z我的收藏/工具prompt/提示词模板.md",
+    "z我的收藏/工具prompt",
+    "数字营销/我的整理/消费者不再在寻找google.md",
+    "Pasted image 20251118215708.png",
+    "Pasted image 20251118215025.png",
+    "数字营销/我的整理",
     "小红书问题/新西兰数字营销领域客户问题100问-单独文件.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
     "README.md",
@@ -215,28 +245,15 @@
     "读书笔记/未命名",
     "我的感想/未命名",
     "我的感想",
-    "z我的工具/我的感想/内在驱动力.md",
-    "z我的工具/我的感想",
-    "z我的工具/小红书/定位.md",
+    "z我的收藏/我的感想",
+    "z我的收藏/小红书/定位.md",
     "读书笔记/樊登读书",
     "读书笔记",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-竞品研究报告.md",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/03-竞争分析报告.md",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-技术发展报告.md",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/01-市场研究报告.md",
-    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/01-市场分析报告.md",
-    "iPhone/iPhone知识体系/99-附录资料/价格历史记录/03-促销活动记录.md",
-    "iPhone/iPhone知识体系/99-附录资料/价格历史记录/02-价格走势分析表.md",
-    "iPhone/iPhone知识体系/99-附录资料/价格历史记录/01-各代iPhone价格历史.md",
-    "iPhone/iPhone知识体系/99-附录资料/技术参数表/04-屏幕规格对比表.md",
-    "iPhone/iPhone知识体系/99-附录资料/技术参数表/03-摄像头规格对比表.md",
-    "iPhone/iPhone知识体系/99-附录资料/技术参数表/02-芯片性能对比表.md",
-    "iPhone/iPhone知识体系/99-附录资料/技术参数表/01-各代iPhone技术参数.md",
-    "iPhone/iPhone知识体系/08-更新维护层/知识体系维护/04-体系完整性维护.md",
     "露营/05-实践与评估/03-持续改进",
-    "露营/05-实践与评估/02-案例研究",
-    "露营/05-实践与评估/01-技能评估体系",
-    "露营/05-实践与评估",
     "图片/Pasted image 20250924135807 1.png",
     "Pasted image 20250924135807.png"
   ]
