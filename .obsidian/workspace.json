@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Odoo"
+              "title": "新标签页"
             }
           }
         ]
@@ -181,6 +177,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -190,7 +187,6 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:创建新看板": false,
@@ -201,6 +197,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "芒格多元思维模型/00-总览/01-知识地图.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
     "z我的收藏/工具网址/其他工具.md",
     "z我的收藏/工具网址/AI工具.md",
@@ -237,7 +234,6 @@
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-竞品研究报告.md",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/03-竞争分析报告.md",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-技术发展报告.md",
-    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/01-市场研究报告.md",
     "露营/05-实践与评估/03-持续改进",
     "图片/Pasted image 20250924135807 1.png",
     "Pasted image 20250924135807.png"
