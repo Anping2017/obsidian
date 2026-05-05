@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "计算机/开发学习/系统/Odoo/Odoo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Odoo"
             }
           }
         ]
@@ -195,8 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0ebecd269b099ad2",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.9124.1777978431836",
+    "SCHEMA.md",
+    "SCHEMA.md.tmp.9124.1777978407572",
+    "output",
+    "wiki",
+    "raw",
     "芒格多元思维模型/00-总览/01-知识地图.md",
     "计算机/开发学习/系统/Odoo/Odoo.md",
     "z我的收藏/工具网址/其他工具.md",
@@ -226,15 +237,8 @@
     "计算机/开发学习/系统/Odoo/权限管理/核心概念/安全防护.md",
     "读书笔记/未命名",
     "我的感想/未命名",
-    "我的感想",
-    "z我的收藏/我的感想",
     "z我的收藏/小红书/定位.md",
-    "读书笔记/樊登读书",
-    "读书笔记",
     "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-竞品研究报告.md",
-    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/03-竞争分析报告.md",
-    "iPhone/iPhone知识体系/99-附录资料/行业报告摘要/02-技术发展报告.md",
-    "露营/05-实践与评估/03-持续改进",
     "图片/Pasted image 20250924135807 1.png",
     "Pasted image 20250924135807.png"
   ]
