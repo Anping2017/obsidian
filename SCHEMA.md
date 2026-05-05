@@ -1,60 +1,36 @@
-# wiki 条目规范
-
-`wiki/` 下每条笔记是一个独立概念,必须遵循下面的格式。
-
-## frontmatter 五字段
-
+# Wiki Schema
+# 命名规范
+- 概念页：`concepts/概念名.md`（用中文和英文，多词用连字符）
+- 例：`concepts/retrieval-augmented-generation.md`
+- 实体页：`entities/实体名.md`（人名用中文+英文全名）
+- 例：`entities/andrej-karpathy.md`
+- 主题页：`topics/主题描述.md`
+- 例：`topics/ai-knowledge-management-tools.md`
+# Frontmatter 模板
+每篇wiki文章必须包含：
 ```yaml
----
-title: 笔记标题
-tags: [领域1, 领域2]
-created: 2026-05-05
-type: permanent
-summary: 一句话说清楚这条笔记讲什么(30-80 字)
----
+-
+title: 文章标题
+type: concept | entity | topic
+tags: [标签1, 标签2]
+sources: [raw/中的源文件路径]
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+summary: 一句话摘要
+-
 ```
-
-| 字段 | 说明 |
-|---|---|
-| `title` | 笔记标题,语义搜索的关键信号 |
-| `tags` | 主题标签,英文优先,一级标签不超过 20 个,嵌套不超过 2 层(`AI/RAG`) |
-| `created` | ISO 日期格式 `YYYY-MM-DD` |
-| `type` | `fleeting`(闪念)/ `literature`(文献)/ `permanent`(永久),只用这三个值 |
-| `summary` | 一句话摘要,写不出就拆分这条笔记 |
-
-## 正文结构
-
-每条 wiki 条目按以下顺序写:
-
-```markdown
-## 定义
-用一两句话解释这个概念是什么。
-
-## 要点
-- 核心要点 1
-- 核心要点 2
-- 核心要点 3
-(3-5 条)
-
-## 关联
-- [[相关概念 A]] —— 简单说明关联方式
-- [[相关概念 B]]
-
-## 来源
-- [原始文章标题](URL) 或 `raw/xxx.md`
-- 其他出处
-```
-
-## 命名规则
-
-- 文件名 = 概念名,英文小写连字符或中文均可,但**全 vault 保持一致**
-- 一个概念一个文件,不要把多个概念塞进一篇
-- 不要带日期前缀(日期写在 frontmatter 的 `created`)
-
-## 反例
-
-不符合规范的情况:
-- frontmatter 缺字段 → 补齐
-- type 写成 `study-notes` `课程笔记` 等自创值 → 改成三个标准值之一
-- summary 超过 80 字或没有 → 重写
-- 一篇笔记包含多个互不相关的概念 → 拆分
+# 标签体系
+- 领域标签：#ai, #programming, #product, #business, #finance
+- 状态标签：#stub（存根，需扩充）, #mature（成熟）
+- 不要自创新的顶级标签，如有需要先更新本文件
+# Wikilink 规则
+- 首次提到某个已有wiki页面的概念时，用[[链接]]
+- 同一篇文章中同一个概念只链接第一次
+- 如果提到的概念没有wiki页面，创建一个stub
+# 文章结构
+概念页：定义 → 核心要点 → 和其他概念的关系 → 参考源
+实体页：简介 → 关键贡献 → 相关概念/实体 → 参考源
+主题页：概述 → 多角度分析 → 结论 → 参考源
+# 全局索引
+每次新增或修改wiki文章后，更新 wiki/INDEX.md
+INDEX.md 按分类列出所有wiki页面及一句话摘要
