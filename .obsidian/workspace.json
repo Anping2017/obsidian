@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "output/心智模型导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "心智模型导航 的反向链接列表"
             }
           },
           {
@@ -172,8 +173,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,13 +201,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wiki/concepts/二阶思维.md",
+    "raw/商业管理学/06-工具方法/决策工具/决策树分析.md",
+    "output/心智模型导航.md",
+    "wiki/concepts/第一性原理.md",
     "wiki/concepts/户外应急医疗.md",
     "wiki/concepts/户外应急医疗.md.tmp.9124.1778062808441",
     "wiki/PROGRESS.md.tmp.9124.1778062758829",
     "wiki/concepts/户外电力系统.md",
     "wiki/concepts/户外电力系统.md.tmp.9124.1778062756581",
     "wiki/concepts/临界质量.md",
-    "output/心智模型导航.md",
     "wiki/concepts/营地火塘.md",
     "wiki/INDEX.md.tmp.9124.1778062694566",
     "wiki/concepts/Slack协作平台.md",
@@ -234,9 +237,6 @@
     "wiki/concepts/GSC详解.md",
     "wiki/concepts/Docker Compose.md",
     "wiki/concepts/信号理论.md",
-    "wiki/concepts/熵增思维.md",
-    "wiki/concepts/Spring Boot.md",
-    "wiki/concepts/归因窗口.md",
     "Pasted image 20251118215025.png",
     "Pasted image 20251118215708.png",
     "图片/Pasted image 20250924135807 1.png",
