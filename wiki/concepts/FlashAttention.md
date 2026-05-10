@@ -12,7 +12,7 @@ summary: 斯坦福 Tri Dao 提出的精确注意力 IO 优化算法,通过分块
 
 ## 定义
 
-**FlashAttention** 是斯坦福 Tri Dao 等人在 2022 年论文 *FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness* 中提出的**精确注意力**(Exact Attention)算法,通过 GPU 内存层级感知的**分块计算 + 在线 softmax + 重计算**,把 [[Transformer]] 注意力的内存复杂度从 $O(N^2)$ 降到 $O(N)$,推理速度提升 2-4 倍。
+**FlashAttention** 是斯坦福 Tri Dao 等人在 2022 年论文 *FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness* 中提出的**精确注意力**(Exact Attention)算法,通过 GPU 内存层级感知的**分块计算 + 在线 softmax + 重计算**,把 [[Transformer架构|Transformer]] 注意力的内存复杂度从 $O(N^2)$ 降到 $O(N)$,推理速度提升 2-4 倍。
 
 它已成为 PyTorch、Hugging Face、vLLM、TensorRT 等主流框架的事实标准,是当代 [[大语言模型]] 长上下文与高效训练的关键支柱。
 
@@ -144,7 +144,7 @@ FlashAttention v3 充分利用这些特性,展示算法-硬件协同设计的威
 
 ## 和其他概念的关系
 
-- 直接优化 [[Transformer]] 的注意力机制
+- 直接优化 [[Transformer架构|Transformer]] 的注意力机制
 - 加速 [[大语言模型]] 训练与推理
 - 与 [[模型量化]] 配合实现极致优化
 - 是长 [[上下文学习]]/长上下文窗口的关键技术

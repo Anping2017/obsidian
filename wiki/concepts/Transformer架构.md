@@ -65,7 +65,7 @@ summary: Transformer 是 2017 年提出的基于自注意力机制的神经网�
 - 直接产物:[[大语言模型]]、[[BERT]]、GPT 系列
 - 工程支撑:GPU [[并发与并行]] 计算、KV-Cache 即带键 [[Hash表]]
 - 取代了 [[循环神经网络]] 在 NLP 中的统治地位
-- 与 [[Transformer]] 概念页互为补充(本页强调"架构"层面)
+- 与 [[Transformer架构|Transformer]] 概念页互为补充(本页强调"架构"层面)
 
 ## 参考源
 

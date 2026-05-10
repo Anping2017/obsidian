@@ -45,7 +45,7 @@ summary: Embedding 是把离散对象(词、句、图像、用户)映射到稠�
 
 ## 和其他概念的关系
 
-- 输入端口:[[Transformer]] 输入的 token Embedding 与 [[位置编码]] 相加
+- 输入端口:[[Transformer架构|Transformer]] 输入的 token Embedding 与 [[位置编码]] 相加
 - 关键载体:[[向量数据库]] 存储和检索 Embedding
 - 主要应用:[[RAG]] 系统检索阶段
 - 表示学习:本质是 [[无监督学习]] 或自监督学习的产物

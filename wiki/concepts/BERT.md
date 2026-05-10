@@ -12,7 +12,7 @@ summary: BERT 是 2018 年 Google 提出的双向 Transformer 编码器,通过�
 
 ## 定义
 
-**BERT(Bidirectional Encoder Representations from Transformers)** 是 Google 在 2018 年发布的预训练语言模型,采用 [[Transformer]] 的 Encoder-only 架构,通过**掩码语言模型(MLM)** 与下一句预测(NSP)在大规模文本上预训练,然后在下游任务上微调。
+**BERT(Bidirectional Encoder Representations from Transformers)** 是 Google 在 2018 年发布的预训练语言模型,采用 [[Transformer架构|Transformer]] 的 Encoder-only 架构,通过**掩码语言模型(MLM)** 与下一句预测(NSP)在大规模文本上预训练,然后在下游任务上微调。
 
 它颠覆了 [[自然语言处理]] 领域,把"通用预训练 + 任务微调"确立为黄金范式,直至 2022 年生成式 LLM 兴起后让出主导地位,但仍在文本理解任务和工业流水线中广泛使用。
 
@@ -56,7 +56,7 @@ summary: BERT 是 2018 年 Google 提出的双向 Transformer 编码器,通过�
 
 ## 和其他概念的关系
 
-- 架构基础:[[Transformer]] 的 Encoder-only 实例
+- 架构基础:[[Transformer架构|Transformer]] 的 Encoder-only 实例
 - 训练范式:开创性地确立 [[预训练与微调]] 主导地位
 - 现代位置:[[大语言模型]] 中 Decoder-only 的 GPT/Claude/Llama 才是当前主流
 - 与 [[Embedding]] 关系:Sentence-BERT 是句嵌入主流方法

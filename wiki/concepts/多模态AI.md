@@ -87,7 +87,7 @@ summary: 多模态 AI 在统一架构内联合处理文本、图像、音频、�
 ## 与其他概念的关系
 
 - 是 [[大语言模型]] 的演化方向之一
-- [[Transformer]] 是统一架构基础
+- [[Transformer架构|Transformer]] 是统一架构基础
 - [[CLIP]]、[[Vision Transformer]]、[[Sora视频生成]]、[[Stable Diffusion]]、[[Whisper语音识别]]、[[视觉语言模型]] 是核心组件
 - 与 [[计算机视觉]]、[[自然语言处理]] 是子领域整合
 - [[Embedding]] 是跨模态表示的基础

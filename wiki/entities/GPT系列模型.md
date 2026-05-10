@@ -12,7 +12,7 @@ summary: GPT 是 OpenAI 推出的生成式预训练 Transformer 模型家族,从
 
 ## 简介
 
-GPT(Generative Pre-trained Transformer)是 [[OpenAI]] 自 2018 年起推出的[[大语言模型]]家族,基于[[Transformer]] 架构的[[解码器]]部分,采用[[预训练与微调]]两阶段范式。GPT 系列将"自回归生成"与"超大规模参数"结合,验证了规模假说([[规模定律]]),推动 AI 从"任务式"走向"通用基础模型"。
+GPT(Generative Pre-trained Transformer)是 [[OpenAI]] 自 2018 年起推出的[[大语言模型]]家族,基于[[Transformer架构|Transformer]] 架构的[[解码器]]部分,采用[[预训练与微调]]两阶段范式。GPT 系列将"自回归生成"与"超大规模参数"结合,验证了规模假说([[规模定律]]),推动 AI 从"任务式"走向"通用基础模型"。
 
 ## 关键代际
 

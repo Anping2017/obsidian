@@ -41,7 +41,7 @@ OpenAI 成立于 2015 年 12 月,由 Sam Altman、Elon Musk 等人创立,初期�
 ## 相关概念/实体
 
 - 直接产品:[[大语言模型]]、[[函数调用]]、[[Prompt Caching]]
-- 关键技术:[[Transformer]]、[[RLHF]]、[[预训练与微调]]
+- 关键技术:[[Transformer架构|Transformer]]、[[RLHF]]、[[预训练与微调]]
 - 主要竞争者:[[Anthropic]]、[[Google DeepMind]](Gemini)、Meta(Llama)
 - 战略合作:Microsoft(Azure 独家算力、产品集成)
 - 关键人物:Sam Altman(CEO)、Greg Brockman、Ilya Sutskever(共同创立,2024 年离开)、Mira Murati 等

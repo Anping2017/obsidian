@@ -80,7 +80,7 @@ Llama 推动的开源浪潮启发了中国大模型开源:
 ## 相关概念/实体
 
 - 直接产品:Llama 系列 [[大语言模型]]、PyTorch
-- 关键技术:[[Transformer]]、[[预训练与微调]]、[[模型蒸馏]]、ImageBind
+- 关键技术:[[Transformer架构|Transformer]]、[[预训练与微调]]、[[模型蒸馏]]、ImageBind
 - 核心人物:[[Yann LeCun]](Chief AI Scientist)、Mark Zuckerberg(CEO)
 - 主要竞争者:[[OpenAI]]、[[Anthropic]]、[[Google DeepMind]]
 - 战略合作:Hugging Face(开源生态)

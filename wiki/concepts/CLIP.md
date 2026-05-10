@@ -172,7 +172,7 @@ GPT-4V、Gemini、Claude 3 直接把视觉编码器(ViT 类)与 LLM 结合,具�
 - 与 [[Stable Diffusion]]、DALL-E 等 AIGC 模型共同构建多模态生态
 - 思想源于对比学习,与 SimCLR、MoCo 一脉相承
 - 是 [[OpenAI]] 早期重要贡献
-- 与 [[Transformer]] 文本编码器架构一致
+- 与 [[Transformer架构|Transformer]] 文本编码器架构一致
 - [[Embedding]] 思想的多模态扩展
 - 影响后续多模态 LLM 的视觉前端设计
 - 与 [[词嵌入]] 在概念上类比

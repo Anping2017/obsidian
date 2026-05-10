@@ -40,7 +40,7 @@ vLLM 报告显示,在相同 GPU 上吞吐量比 HuggingFace Transformers 高 14-
 - 与[[推测解码]]:可叠加使用,共同提升推理效率
 - 与[[模型量化]]:量化减小每个块大小,PagedAttention 安排块的位置
 - 是 vLLM 推理引擎的标志性技术,后被 TensorRT-LLM、SGLang 等借鉴
-- 与[[Transformer]] 注意力机制紧密耦合
+- 与[[Transformer架构|Transformer]] 注意力机制紧密耦合
 
 ## 实现库
 

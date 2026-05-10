@@ -63,7 +63,7 @@ Mistral AI 是 2023 年成立于巴黎的 AI 公司,由前 Meta、DeepMind 研�
 
 ## 关联概念
 
-- [[大语言模型]]、[[Transformer]]、[[MoE]]
+- [[大语言模型]]、[[Transformer架构|Transformer]]、[[MoE]]
 - [[FlashAttention]]、[[模型量化]]、[[模型蒸馏]]
 - [[预训练与微调]]、[[指令微调]]
 - [[AI Agent框架]]、[[AI编码助手]]

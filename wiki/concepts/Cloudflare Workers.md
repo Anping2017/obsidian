@@ -12,7 +12,7 @@ summary: Cloudflare Workers 是基于 V8 Isolate 的边缘 Serverless 运行时,
 
 ## 定义
 
-Cloudflare Workers 是 Cloudflare 在 2017 年推出的边缘 Serverless 计算平台。它运行在 Cloudflare 全球 270+ 城市的 CDN 节点上,基于 V8 Isolate(同 Chrome 的 JS 引擎核心),实现亚毫秒冷启动、按请求计费,把 Serverless 概念从"AWS Lambda 区域级"推进到"全球边缘级"。
+Cloudflare Workers 是 Cloudflare 在 2017 年推出的边缘 [[Serverless]] 计算平台。它运行在 Cloudflare 全球 270+ 城市的 [[CDN]] 节点上,基于 V8 Isolate(同 Chrome 的 JS 引擎核心),实现亚毫秒冷启动、按请求计费,把 Serverless 概念从"AWS Lambda 区域级"推进到"全球边缘级"。
 
 Workers 与 AWS Lambda 的根本差异在执行模型:Lambda 是"在某个区域起 Linux 容器跑 Node.js",冷启动数百毫秒到数秒;Workers 是"在用户最近节点的 V8 内启动一个 isolate",冷启动 < 1ms。这让 Workers 可以替代 CDN + 应用服务器的组合,把后端逻辑直接放到 CDN 边缘。
 
@@ -57,12 +57,12 @@ Workers 与 AWS Lambda 的根本差异在执行模型:Lambda 是"在某个区域
 
 **Vectorize**
 
-- 向量数据库
+- [[向量数据库]]
 - AI 嵌入式搜索
 
 **Workers AI**
 
-- LLM 推理(Llama、Mistral 等开源模型)
+- [[大语言模型|LLM]] 推理(Llama、Mistral 等开源模型)
 - 全球边缘运行
 
 ## 工作模型示例
@@ -105,8 +105,8 @@ Workers 适合短小、低延迟、全球分布;Lambda 适合长任务、AWS 生
 
 ## 与 Vercel Edge Functions
 
-二者底层都是 V8 Isolate(Vercel Edge 实际用 Cloudflare Workers 早期版),核心差异:
-- Vercel:与 Next.js / 前端深度集成
+二者底层都是 V8 Isolate([[Vercel]] Edge 实际用 Cloudflare Workers 早期版),核心差异:
+- Vercel:与 [[Next.js]] / 前端深度集成
 - Cloudflare:更底层,可作为完整后端
 
 ## 主要使用场景
@@ -125,7 +125,7 @@ Workers 适合短小、低延迟、全球分布;Lambda 适合长任务、AWS 生
 
 **4. WebSocket / 实时**
 
-Durable Objects 做聊天室、协同(Cloudflare 自家 Cloudflare Pages 的 Realtime Kits)。
+Durable Objects 做聊天室、协同(Cloudflare 自家 Cloudflare Pages 的 Realtime Kits),依赖 [[WebSocket]] 协议。
 
 **5. 全栈应用**
 
@@ -137,19 +137,19 @@ Workers AI 让小型 LLM(< 10B)在边缘推理,延迟极低。
 
 ## 与 Cloudflare Pages
 
-Cloudflare Pages = 静态站托管 + Workers 集成,类比 Vercel。
+Cloudflare Pages = 静态站托管 + Workers 集成,类比 [[Vercel]]。
 - 静态资源走 CDN
 - 动态逻辑用 Workers Functions
 
-适合 Next.js、Astro、SvelteKit 等前端框架部署。
+适合 [[Next.js]]、Astro、[[Svelte|SvelteKit]] 等前端框架部署。
 
 ## 限制与注意
 
 **API 限制**
 
-- 不是 Node.js,某些 npm 包(用了 fs、child_process)无法跑
+- 不是 [[Node.js]],某些 npm 包(用了 fs、child_process)无法跑
 - 用 Web Standard API(fetch、URL、Crypto)
-- WASM 可补足部分需求
+- [[WebAssembly|WASM]] 可补足部分需求
 
 **CPU 限制**
 
@@ -180,4 +180,4 @@ Cloudflare 用 Workers 与全球 CDN 网络同时做"基础设施 + Serverless"�
 ## 参考源
 
 - raw/计算机/
-- 相关:[[现代云原生架构]]、[[Vercel]]
+- 相关:[[现代云原生架构]]、[[Vercel]]、[[Edge计算]]、[[Serverless]]、[[CDN]]

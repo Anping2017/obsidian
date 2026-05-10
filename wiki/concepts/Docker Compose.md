@@ -14,13 +14,13 @@ summary: Docker Compose 是 Docker 的多容器编排工具,用 YAML 文件定�
 
 Docker Compose 是 Docker 官方提供的多容器应用编排工具,源自 2014 年 Orchard Labs 的 Fig 项目(被 Docker 收购)。它通过 docker-compose.yml(后改为 compose.yml)单一 YAML 文件,声明一个应用栈所有的容器、网络、存储卷,并通过简短命令(up、down、logs、restart)管理整套环境。
 
-Compose 是 [[Docker容器]] 之上的"编排第一站":单机内多服务协作场景的最佳工具。比起 Kubernetes 的复杂度,它配置极简、上手即用;比起原生 docker run + 多个 -p、-v 参数,它声明式可维护。
+Compose 是 [[Docker容器]] 之上的"编排第一站":单机内多服务协作场景的最佳工具。比起 [[Kubernetes]] 的复杂度,它配置极简、上手即用;比起原生 docker run + 多个 -p、-v 参数,它声明式可维护。
 
 ## 典型场景
 
 - 本地开发环境(Web App + DB + Redis + Queue)
 - 单机生产部署(中小规模)
-- CI/CD 中的集成测试环境
+- [[CI_CD流水线|CI/CD]] 中的集成测试环境
 - 演示与教程
 
 ## YAML 结构示例
@@ -155,7 +155,7 @@ services:
 | 复杂度 | 低 | 高 |
 | 节点 | 单机 | 多机集群 |
 | 编排 | 简单 depends_on | 复杂 Deployment/StatefulSet |
-| 配置 | YAML 简洁 | YAML/Helm 复杂 |
+| 配置 | YAML 简洁 | YAML/[[Helm Chart|Helm]] 复杂 |
 | 适用 | 开发、单机生产 | 生产、大规模、多团队 |
 
 Compose 适合"小到中"复杂度,Kubernetes 适合"中到大"。两者并非互斥,Docker 提供 `docker stack` 把 Compose 文件转换为 Swarm/K8s 部署。
@@ -184,4 +184,4 @@ Docker Swarm 是 Docker 内置集群方案,使用同样的 Compose 格式但增�
 ## 参考源
 
 - raw/计算机/
-- 相关:[[Docker容器]]、[[现代云原生架构]]
+- 相关:[[Docker容器]]、[[现代云原生架构]]、[[Kubernetes]]、[[微服务]]、[[CI_CD流水线]]、[[服务发现]]

@@ -19,7 +19,7 @@ Yoshua Bengio(1964-)是加拿大计算机科学家,蒙特利尔大学(Universit�
 **理论与算法**
 
 - 2003 年与合作者发表 *A Neural Probabilistic Language Model*,首次系统提出神经语言模型与词嵌入([[Embedding]] 思想雏形)
-- 推广深度学习中的注意力机制(Bahdanau Attention, 2014),成为后来 [[Transformer]] 的关键铺垫
+- 推广深度学习中的注意力机制(Bahdanau Attention, 2014),成为后来 [[Transformer架构|Transformer]] 的关键铺垫
 - 生成对抗网络(GAN, 2014)联合作者(其学生 Ian Goodfellow 主导)
 - *Deep Learning* 教科书(2016, 与 Goodfellow、Courville 合著)成为领域圣经
 - 强化学习 + 表示学习交叉,深度生成模型,因果发现等多领域贡献
@@ -38,7 +38,7 @@ Yoshua Bengio(1964-)是加拿大计算机科学家,蒙特利尔大学(Universit�
 
 ## 相关概念/实体
 
-- 主要贡献:[[Embedding]] 思想、注意力机制铺垫(后影响 [[Transformer]])
+- 主要贡献:[[Embedding]] 思想、注意力机制铺垫(后影响 [[Transformer架构|Transformer]])
 - 学生网络:Ian Goodfellow(GAN)等
 - 学术伙伴:[[Geoffrey Hinton]]、[[Yann LeCun]] 三巨头
 - 教科书:与 Goodfellow、Courville 合著的 *Deep Learning*

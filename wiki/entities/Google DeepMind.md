@@ -25,7 +25,7 @@ Google DeepMind 是 2023 年 4 月由 Google Brain(成立 2011 年)与 DeepMind(
 
 **大语言模型与基础架构**
 
-- **[[Transformer]]**(Google Brain, 2017):*Attention Is All You Need* 改变 AI 一切
+- **[[Transformer架构|Transformer]]**(Google Brain, 2017):*Attention Is All You Need* 改变 AI 一切
 - **[[BERT]]**(Google AI, 2018):颠覆 [[自然语言处理]]
 - T5、PaLM、PaLM-2 系列大语言模型
 - **Gemini** 系列(2023+):多模态原生大模型,与 [[OpenAI]] GPT、[[Anthropic]] Claude 三足鼎立
@@ -47,7 +47,7 @@ Google DeepMind 是 2023 年 4 月由 Google Brain(成立 2011 年)与 DeepMind(
 
 ## 相关概念/实体
 
-- 关键技术贡献:[[Transformer]]、[[BERT]]、[[强化学习]] 突破
+- 关键技术贡献:[[Transformer架构|Transformer]]、[[BERT]]、[[强化学习]] 突破
 - 主要竞争者:[[OpenAI]]、[[Anthropic]]、Meta AI
 - 与 [[人工智能]] 历程紧密相连
 - 主要载体:[[大语言模型]] Gemini、AlphaFold 等专用模型

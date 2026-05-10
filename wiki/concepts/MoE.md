@@ -26,7 +26,7 @@ input → Router(softmax over N experts)
             output
 ```
 
-每个专家通常是一个 [[Transformer]] FFN 模块。Top-k=2 表示每个 token 同时激活 2 个专家,其它专家**不参与计算**,这就是"稀疏激活"。
+每个专家通常是一个 [[Transformer架构|Transformer]] FFN 模块。Top-k=2 表示每个 token 同时激活 2 个专家,其它专家**不参与计算**,这就是"稀疏激活"。
 
 ### 2. 关键收益
 
@@ -83,7 +83,7 @@ input → Router(softmax over N experts)
 
 ## 与其他概念的关系
 
-- 上位概念:[[神经网络]]、[[Transformer]]、[[大语言模型]]
+- 上位概念:[[神经网络]]、[[Transformer架构|Transformer]]、[[大语言模型]]
 - 训练范式:[[预训练]]、[[Scaling Law]]、[[稀疏激活]]
 - 工程基础:[[GPU并行]]、[[Tensor Parallelism]]、[[ZeRO]]
 - 同族架构:[[Switch Transformer]]、[[Mixtral]]、[[DeepSeek-V3]]

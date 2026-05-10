@@ -64,7 +64,7 @@ Llama(Large Language Model Meta AI)是 [[Meta AI]] 自 2023 年推出的[[大语
 
 - [[预训练与微调]]、[[指令微调]]、[[RLHF]]、[[DPO直接偏好优化]]
 - [[模型量化]]、[[模型蒸馏]]、[[FlashAttention]]
-- [[大语言模型]]、[[Transformer]]
+- [[大语言模型]]、[[Transformer架构|Transformer]]
 - [[AI红队评估]]、[[超级对齐]]
 - [[Meta AI]]
 

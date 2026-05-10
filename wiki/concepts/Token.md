@@ -49,7 +49,7 @@ summary: Token 是大语言模型处理文本的最小单位,通常是子词片�
 
 ## 和其他概念的关系
 
-- 输入流程:文本 → Tokenizer 切分 → Token ID → [[Embedding]] → [[Transformer]]
+- 输入流程:文本 → Tokenizer 切分 → Token ID → [[Embedding]] → [[Transformer架构|Transformer]]
 - 容量约束:[[上下文窗口]] 上限以 token 数衡量
 - 与 [[大语言模型]] 经济模型直接相关:[[Prompt Caching]] 通过缓存输入 token 大幅降本
 - 输出方式:LLM 自回归生成本质是逐 token 采样
