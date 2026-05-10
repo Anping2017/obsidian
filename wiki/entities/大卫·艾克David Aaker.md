@@ -12,7 +12,7 @@ summary: 大卫·艾克(David A. Aaker, 1938-)是加州大学伯克利分校 Haa
 
 ## 简介
 
-**大卫·艾克(David Allen Aaker)**,1938 年生于美国北达科他州,是加州大学伯克利分校 Haas 商学院荣誉教授(E. T. Grether Chair in Marketing & Public Policy),全球品牌咨询公司 Prophet 副董事长。他被誉为"现代品牌战略之父"(Father of Modern Branding),与 [[菲利普·科特勒]]、[[Al Ries]]、[[Jack Trout]] 并称 20 世纪营销学四巨头。
+**大卫·艾克(David Allen Aaker)**,1938 年生于美国北达科他州,是加州大学伯克利分校 Haas 商学院荣誉教授(E. T. Grether Chair in Marketing & Public Policy),全球品牌咨询公司 Prophet 副董事长。他被誉为"现代品牌战略之父"(Father of Modern Branding),与 [[菲利普·科特勒]]、[[艾·里斯Al Ries|Al Ries]]、[[杰克·特劳特Jack Trout|Jack Trout]] 并称 20 世纪营销学四巨头。
 
 艾克的核心贡献是把"品牌"从模糊的市场术语转化为可衡量、可管理、可财务化的 **战略资产**,推动企业把品牌纳入 CEO 议程而非仅限营销部。
 
@@ -82,7 +82,7 @@ summary: 大卫·艾克(David A. Aaker, 1938-)是加州大学伯克利分校 Haa
 ## 与其他概念的关系
 
 - **核心创建概念**:[[品牌权益]] / [[品牌定位]] / [[品牌识别]]
-- **同辈学者**:[[菲利普·科特勒]](营销管理整体)/ [[Al Ries]] / [[Jack Trout]](定位)/ [[凯文·凯勒]](CBBE 品牌资产)
+- **同辈学者**:[[菲利普·科特勒]](营销管理整体)/ [[艾·里斯Al Ries|Al Ries]] / [[杰克·特劳特Jack Trout|Jack Trout]](定位)/ [[凯文·凯勒]](CBBE 品牌资产)
 - **理论关系**:[[定位理论]] / [[蓝海战略]] / [[差异化战略]] / [[整合营销传播]]
 - **企业实践**:Prophet、IDEO、Ogilvy、Interbrand 的品牌咨询方法论母体
 

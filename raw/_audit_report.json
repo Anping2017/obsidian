@@ -1,0 +1,411 @@
+{
+  "total_files": 1549,
+  "total_outgoing_links": 17440,
+  "broken_links": {
+    "count": 676,
+    "top30_by_refcount": [
+      {
+        "target": "CRM",
+        "ref_count": 19,
+        "sources_sample": [
+          "AI客服",
+          "AI客服",
+          "CDP客户数据平台",
+          "CDP客户数据平台",
+          "Push通知"
+        ]
+      },
+      {
+        "target": "规模经济",
+        "ref_count": 12,
+        "sources_sample": [
+          "Lollapalooza效应",
+          "Lollapalooza效应",
+          "临界点",
+          "临界点",
+          "复利思维"
+        ]
+      },
+      {
+        "target": "英语",
+        "ref_count": 10,
+        "sources_sample": [
+          "互惠原则",
+          "俄狄浦斯情结",
+          "分析哲学",
+          "双重信任标准",
+          "宗教哲学"
+        ]
+      },
+      {
+        "target": "SwiftUI",
+        "ref_count": 9,
+        "sources_sample": [
+          "Flutter",
+          "Jetpack Compose",
+          "Jetpack Compose",
+          "Jetpack Compose",
+          "Jetpack Compose"
+        ]
+      },
+      {
+        "target": "认知心理学",
+        "ref_count": 8,
+        "sources_sample": [
+          "Aha Moment",
+          "儿童发展心理学",
+          "好奇本能",
+          "心智份额",
+          "注意力经济"
+        ]
+      },
+      {
+        "target": "Google知识图谱",
+        "ref_count": 8,
+        "sources_sample": [
+          "Hummingbird算法",
+          "Hummingbird算法",
+          "Hummingbird算法",
+          "Schema markup",
+          "Schema markup"
+        ]
+      },
+      {
+        "target": "商业模式",
+        "ref_count": 7,
+        "sources_sample": [
+          "Lollapalooza效应",
+          "Lollapalooza效应",
+          "临界点",
+          "双重信任标准",
+          "实用主义"
+        ]
+      },
+      {
+        "target": "投资决策",
+        "ref_count": 6,
+        "sources_sample": [
+          "信息级联",
+          "做点什么综合症",
+          "双轨分析",
+          "复利思维",
+          "杜邦分析"
+        ]
+      },
+      {
+        "target": "量化宽松(QE)",
+        "ref_count": 6,
+        "sources_sample": [
+          "凯恩斯主义",
+          "凯恩斯主义",
+          "奥地利学派",
+          "新凯恩斯主义",
+          "泰勒规则"
+        ]
+      },
+      {
+        "target": "创业",
+        "ref_count": 6,
+        "sources_sample": [
+          "幸存者偏差",
+          "组织生命周期",
+          "自我效能",
+          "证伪原则",
+          "进化思维"
+        ]
+      },
+      {
+        "target": "移动营销",
+        "ref_count": 5,
+        "sources_sample": [
+          "ASO应用商店优化",
+          "Core Web Vitals优化",
+          "Push通知",
+          "转化API",
+          "隐私优先时代"
+        ]
+      },
+      {
+        "target": "MUM",
+        "ref_count": 5,
+        "sources_sample": [
+          "BERT语义搜索算法",
+          "RankBrain",
+          "RankBrain",
+          "Topical Authority主题权威",
+          "内容集群Topic Cluster"
+        ]
+      },
+      {
+        "target": "语义搜索",
+        "ref_count": 5,
+        "sources_sample": [
+          "BERT语义搜索算法",
+          "Hummingbird算法",
+          "Hummingbird算法",
+          "RankBrain",
+          "Topical Authority主题权威"
+        ]
+      },
+      {
+        "target": "BFF",
+        "ref_count": 5,
+        "sources_sample": [
+          "CSP内容安全策略",
+          "Django REST Framework",
+          "Netlify",
+          "Postman与Insomnia",
+          "React Native"
+        ]
+      },
+      {
+        "target": "多模态AI",
+        "ref_count": 5,
+        "sources_sample": [
+          "MUM多任务统一模型",
+          "Sora视频生成",
+          "视觉语言模型",
+          "Gemini系列模型",
+          "Qwen系列模型"
+        ]
+      },
+      {
+        "target": "财务管理",
+        "ref_count": 5,
+        "sources_sample": [
+          "人效",
+          "坪效",
+          "毛利结构",
+          "毛利结构",
+          "营运资金管理"
+        ]
+      },
+      {
+        "target": "皮格马利翁效应",
+        "ref_count": 5,
+        "sources_sample": [
+          "儿童发展心理学",
+          "刻板印象威胁",
+          "成长型思维",
+          "Carol Dweck",
+          "Carol Dweck"
+        ]
+      },
+      {
+        "target": "NPS净推荐值",
+        "ref_count": 5,
+        "sources_sample": [
+          "关系营销",
+          "关系营销",
+          "消费心理学",
+          "激活率",
+          "病毒系数K"
+        ]
+      },
+      {
+        "target": "科学哲学",
+        "ref_count": 5,
+        "sources_sample": [
+          "宗教哲学",
+          "经验主义",
+          "库恩",
+          "波普尔",
+          "维特根斯坦"
+        ]
+      },
+      {
+        "target": "KOC",
+        "ref_count": 5,
+        "sources_sample": [
+          "小红书笔记SEO",
+          "小红书笔记结构",
+          "矩阵账号运营",
+          "笔记爆款公式",
+          "达人投放与品牌合作人"
+        ]
+      },
+      {
+        "target": "端侧AI",
+        "ref_count": 5,
+        "sources_sample": [
+          "神经网络引擎",
+          "神经网络引擎",
+          "计算机视觉",
+          "边缘计算",
+          "边缘计算"
+        ]
+      },
+      {
+        "target": "文件名",
+        "ref_count": 4,
+        "sources_sample": [
+          "INDEX",
+          "Obsidian双向链接",
+          "Obsidian双向链接",
+          "Obsidian双向链接"
+        ]
+      },
+      {
+        "target": "CPM",
+        "ref_count": 4,
+        "sources_sample": [
+          "Ad Exchange广告交易市场",
+          "DSP需求方平台",
+          "RTB实时竞价",
+          "SSP供应方平台"
+        ]
+      },
+      {
+        "target": "SSRF",
+        "ref_count": 4,
+        "sources_sample": [
+          "CSRF",
+          "OWASP Top 10",
+          "SQL注入",
+          "XSS跨站脚本"
+        ]
+      },
+      {
+        "target": "Google Search Console",
+        "ref_count": 4,
+        "sources_sample": [
+          "GA4配置",
+          "Lighthouse性能审计",
+          "爬虫优化",
+          "转化API"
+        ]
+      },
+      {
+        "target": "沉没成本",
+        "ref_count": 4,
+        "sources_sample": [
+          "Lollapalooza效应详解",
+          "做点什么综合症",
+          "否认",
+          "承诺与一致"
+        ]
+      },
+      {
+        "target": "财务会计",
+        "ref_count": 4,
+        "sources_sample": [
+          "借贷记账法",
+          "税务会计",
+          "递延所得税",
+          "银行业会计"
+        ]
+      },
+      {
+        "target": "平台经济",
+        "ref_count": 4,
+        "sources_sample": [
+          "共享经济",
+          "央行数字货币",
+          "平台经济治理",
+          "循环经济"
+        ]
+      },
+      {
+        "target": "财务报表",
+        "ref_count": 4,
+        "sources_sample": [
+          "关联方披露",
+          "政府补助",
+          "采购循环",
+          "银行业会计"
+        ]
+      },
+      {
+        "target": "Few-shot提示",
+        "ref_count": 4,
+        "sources_sample": [
+          "写作提示模式",
+          "数据分析提示模式",
+          "GPT系列模型",
+          "GPT系列模型"
+        ]
+      }
+    ]
+  },
+  "orphans": {
+    "count": 0,
+    "sample": []
+  },
+  "top_incoming": [
+    {
+      "stem": "微服务",
+      "incoming": 116,
+      "outgoing": 12
+    },
+    {
+      "stem": "行为金融学",
+      "incoming": 105,
+      "outgoing": 5
+    },
+    {
+      "stem": "认知偏差",
+      "incoming": 92,
+      "outgoing": 18
+    },
+    {
+      "stem": "组织文化",
+      "incoming": 90,
+      "outgoing": 15
+    },
+    {
+      "stem": "大语言模型",
+      "incoming": 89,
+      "outgoing": 26
+    },
+    {
+      "stem": "消费者行为",
+      "incoming": 87,
+      "outgoing": 19
+    },
+    {
+      "stem": "企业价值评估",
+      "incoming": 86,
+      "outgoing": 9
+    },
+    {
+      "stem": "激励理论",
+      "incoming": 79,
+      "outgoing": 14
+    },
+    {
+      "stem": "内容营销",
+      "incoming": 78,
+      "outgoing": 15
+    },
+    {
+      "stem": "领导力",
+      "incoming": 78,
+      "outgoing": 12
+    },
+    {
+      "stem": "第一性原理",
+      "incoming": 73,
+      "outgoing": 12
+    },
+    {
+      "stem": "确认偏差",
+      "incoming": 68,
+      "outgoing": 11
+    },
+    {
+      "stem": "变革管理",
+      "incoming": 67,
+      "outgoing": 14
+    },
+    {
+      "stem": "基本面分析",
+      "incoming": 66,
+      "outgoing": 6
+    },
+    {
+      "stem": "战略管理",
+      "incoming": 65,
+      "outgoing": 29
+    }
+  ]
+}

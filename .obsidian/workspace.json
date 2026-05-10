@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/地图非领土.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "地图非领土"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/地图非领土.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "地图非领土 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -173,7 +168,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,44 +195,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ebecd269b099ad2",
+  "active": "e58c376f09049a25",
   "lastOpenFiles": [
-    "wiki/PROGRESS.md.tmp.9124.1778380845222",
-    "wiki/PROGRESS.md.tmp.9124.1778380283935",
-    "wiki/INDEX.md.tmp.9124.1778380257765",
-    "wiki/concepts/英语学术词汇AWL.md",
-    "wiki/concepts/Toastmasters.md",
-    "wiki/concepts/Tandem语伴.md",
-    "wiki/concepts/成长型思维.md",
-    "wiki/entities/Carol Dweck.md",
-    "wiki/concepts/双系统思维.md",
-    "wiki/concepts/损失规避.md",
-    "wiki/concepts/交易成本经济学.md",
-    "wiki/concepts/科斯定理.md",
-    "wiki/concepts/数字劳工.md",
-    "wiki/concepts/共享经济.md",
-    "wiki/concepts/共享经济.md.tmp.9124.1778379799828",
-    "wiki/concepts/零工经济.md",
-    "wiki/concepts/平台经济治理.md",
-    "wiki/concepts/平台经济治理.md.tmp.9124.1778379711828",
-    "wiki/concepts/循环经济.md",
-    "wiki/concepts/双碳目标.md",
-    "wiki/concepts/双碳目标.md.tmp.9124.1778379634601",
-    "wiki/concepts/可持续投资.md",
-    "wiki/concepts/可持续投资.md.tmp.9124.1778379596078",
-    "wiki/concepts/Fintech监管沙盒.md",
-    "wiki/concepts/影响力投资.md",
-    "wiki/concepts/绿色债券.md",
-    "wiki/concepts/央行数字货币.md",
-    "wiki/concepts/英语词汇广度与深度.md",
-    "output/心智模型导航.md",
-    "wiki/concepts/精听 vs 泛听.md",
-    "wiki/concepts/过程写作教学法.md",
-    "wiki/concepts/间隔重复.md",
-    "wiki/concepts/表达性艺术疗法.md.tmp.9124.1778378933155",
-    "learning/_design/2026-05-10-system-design.md.tmp.8944.1778378930353",
-    "wiki/concepts/晕轮效应.md.tmp.9124.1778378773180",
-    "wiki/concepts/留面子效应.md.tmp.9124.1778378743687",
+    "wiki/concepts/影响力.md",
+    "wiki/concepts/地图非领土.md",
+    "wiki/concepts/皮格马利翁效应.md",
+    "wiki/concepts/皮格马利翁效应.md.tmp.17536.1778410614863",
+    "wiki/concepts/MoE.md",
+    "wiki/concepts/功利主义.md",
+    "wiki/concepts/TCP.md",
+    "wiki/concepts/财务管理.md",
+    "learning/RULES.md",
+    "wiki/concepts/风险投资.md",
+    "wiki/concepts/Electron.md",
+    "wiki/concepts/HTTPS.md",
+    "wiki/concepts/多模态AI.md",
+    "wiki/concepts/O2O.md",
+    "wiki/concepts/决策树分析.md",
+    "learning/SYSTEM.md",
+    "wiki/concepts/语义搜索.md",
+    "wiki/concepts/语义搜索.md.tmp.17536.1778410522325",
+    "wiki/concepts/NPS.md",
+    "wiki/concepts/手机店.md",
+    "wiki/concepts/Jamstack.md",
+    "wiki/concepts/移动营销.md",
+    "wiki/concepts/MBTI.md",
+    "wiki/topics/英语口语高频表达.md",
+    "wiki/topics/英语口语高频表达.md.tmp.17536.1778410483431",
+    "learning/CHANGELOG.md",
+    "wiki/concepts/Kotlin.md",
+    "wiki/concepts/创业.md",
+    "wiki/concepts/产品管理.md",
+    "wiki/concepts/产品管理.md.tmp.17536.1778410454546",
+    "wiki/concepts/域权威.md.tmp.17536.1778410429866",
+    "wiki/concepts/Goodhart定律.md.tmp.17536.1778410405245",
+    "wiki/concepts/逃逸分析.md.tmp.17536.1778410357645",
+    "wiki/concepts/AIGC.md.tmp.17536.1778410293765",
+    "raw/_audit_task2_3_lists.txt",
+    "wiki/PROGRESS.md.tmp.9124.1778410094688",
     "Pasted image 20251118215025.png",
     "Pasted image 20251118215708.png",
     "图片/Pasted image 20250924135807 1.png",
