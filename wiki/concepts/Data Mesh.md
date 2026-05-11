@@ -95,7 +95,7 @@ Data Mesh:Engineering 团队同时承担"数据生产 + 数据产品"职责。
 - 存储:[[Lakehouse架构]](Delta / Iceberg)
 - 计算:[[Apache Spark]] / dbt / Trino
 - 编排:[[Apache Airflow]] / Dagster
-- 流:[[Kafka]] / Flink
+- 流:[[Apache Kafka|Kafka]] / Flink
 - 元数据:DataHub / Amundsen / OpenMetadata
 - 监控:Great Expectations / Monte Carlo / Soda
 
@@ -250,7 +250,7 @@ Data Mesh 实施重要工具:
 
 Data Mesh 与 [[微服务]] 是组织架构的"领域驱动 + 联邦"哲学在不同领域(应用 vs 数据)的同构表达。它的"数据产品"概念与 [[GraphQL]] / [[RESTful API]] 中"API 即产品"思想一脉相承。
 
-技术上它依赖 [[Lakehouse架构]]、[[Apache Spark]]、[[Apache Airflow]]、[[Kafka]] 等基础设施,需要强大的元数据系统(类似 [[设计模式]] 中的服务发现)。它与 [[DDD领域驱动设计]] 共享"领域边界"思想——把业务理解作为架构原则。
+技术上它依赖 [[Lakehouse架构]]、[[Apache Spark]]、[[Apache Airflow]]、[[Apache Kafka|Kafka]] 等基础设施,需要强大的元数据系统(类似 [[设计模式]] 中的服务发现)。它与 [[DDD领域驱动设计]] 共享"领域边界"思想——把业务理解作为架构原则。
 
 它体现的"组织 = 架构(康威定律)"哲学是 [[Strangler Fig模式]]、[[微服务]] 演进背后共同的认知:**软件架构最终被组织结构决定**。
 

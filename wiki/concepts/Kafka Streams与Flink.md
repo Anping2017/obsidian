@@ -290,11 +290,11 @@ Pattern<Event, ?> pattern = Pattern.<Event>begin("login_fail").times(3).within(T
 - LLM 输出实时安全审核
 - Agent 行为流分析
 
-[[Kafka]] + Flink 是实时 AI 系统底层。
+[[Apache Kafka|Kafka]] + Flink 是实时 AI 系统底层。
 
 ## 和其他概念的关系
 
-Kafka Streams / Flink 与 [[Kafka]]、[[Apache Spark]]、[[Apache Airflow]] 共同构成数据处理栈——Airflow 调度批,Spark 大批量,Flink 低延迟流,Kafka Streams 简单流。它们与 [[Lakehouse架构]] 互补——湖仓存全量,流处理动态产出。
+Kafka Streams / Flink 与 [[Apache Kafka|Kafka]]、[[Apache Spark]]、[[Apache Airflow]] 共同构成数据处理栈——Airflow 调度批,Spark 大批量,Flink 低延迟流,Kafka Streams 简单流。它们与 [[Lakehouse架构]] 互补——湖仓存全量,流处理动态产出。
 
 它们体现的"事件驱动"思想与 [[Outbox模式]]、[[事件溯源]]、[[Saga模式]] 一脉相承——业务变更 = 事件,系统反应 = 流。在 [[微服务]] 架构中,Kafka + Flink 是跨服务实时数据集成的核心。
 
@@ -303,4 +303,4 @@ Kafka Streams / Flink 与 [[Kafka]]、[[Apache Spark]]、[[Apache Airflow]] 共�
 ## 参考源
 
 - raw/计算机/
-- 相关:[[Kafka]]、[[Apache Spark]]、[[Lambda架构]]
+- 相关:[[Apache Kafka|Kafka]]、[[Apache Spark]]、[[Lambda架构]]

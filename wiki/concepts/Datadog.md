@@ -105,7 +105,7 @@ Agent 是 Go 写的,资源占用低,自动发现 Docker / K8s 容器。
 200+ 内置集成,包括:
 - 云:AWS、GCP、Azure 全部主要服务
 - 数据库:PostgreSQL、MongoDB、Redis、Elasticsearch
-- 中间件:[[Kafka]]、RabbitMQ、Nginx、HAProxy
+- 中间件:[[Apache Kafka|Kafka]]、RabbitMQ、Nginx、HAProxy
 - Web 框架:Spring、Django、Express、Rails
 - AI:OpenAI、Anthropic、Hugging Face
 - DevOps:GitHub、Jenkins、CircleCI

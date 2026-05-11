@@ -17,8 +17,8 @@ summary: 已设置的定时任务清单与管理方式。
 | 项 | 值 |
 |---|---|
 | **Routine ID** | `trig_01V7TvrnMC5EUtVUhhqXP3a7` |
-| **频率** | 每周日 21:00 UTC(周一 09:00 NZ 时间) |
-| **Cron** | `0 21 * * 0` |
+| **频率** | 每周一 09:00 UTC(周一 21:00 NZ 时间,晚上 9 点) |
+| **Cron** | `0 9 * * 1` |
 | **仓库** | `https://github.com/Anping2017/obsidian` |
 | **模型** | claude-sonnet-4-6 |
 | **管理** | https://claude.ai/code/routines/trig_01V7TvrnMC5EUtVUhhqXP3a7 |
@@ -79,11 +79,14 @@ summary: 已设置的定时任务清单与管理方式。
 
 ## 历史记录(每次执行后追加)
 
-### 2026-05-11 — Prompt v2 更新
+### 2026-05-11 — Prompt v2 + 时间调整
 
+**Prompt v2 改动**:
 - 增加反查 H 项:topic 人物 entity 覆盖检查
 - 增加反查 B 项:Python 修空格别名笔误
 - 改进异常处理:孤立 wikilinks > 20 时建议手动反查
-- 任务 next_run_at: 2026-05-17 21:02 UTC(本月首次自动执行)
 
-### 等待首次自动执行(2026-05-18 09:02 NZ 时间)
+**时间调整**:
+- 原:周一 09:00 NZ(早上)
+- 现:**周一 21:00 NZ(晚上 9 点)**,cron `0 9 * * 1`
+- 首次自动执行:**2026-05-11 21:03 NZ**(今晚)

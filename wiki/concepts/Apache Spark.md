@@ -232,7 +232,7 @@ Spark 之上的事务存储层(Lakehouse):
 
 ## 和其他概念的关系
 
-Spark 是 [[大数据]] 生态计算层核心,与 HDFS / S3([[关系型数据库]] 之外的存储)、Hive Metastore、[[Kafka]] 流、[[ETL与ELT]] 工具链共同构成数据平台。
+Spark 是 [[大数据]] 生态计算层核心,与 HDFS / S3([[关系型数据库]] 之外的存储)、Hive Metastore、[[Apache Kafka|Kafka]] 流、[[ETL与ELT]] 工具链共同构成数据平台。
 
 在 [[Lambda架构]] 中 Spark 担任批处理层(speed layer 用 Storm / Flink);在 Lakehouse 架构中 Spark 是统一计算引擎,Delta / Iceberg 是统一存储。
 
@@ -241,4 +241,4 @@ Spark 是 [[大数据]] 生态计算层核心,与 HDFS / S3([[关系型数据库
 ## 参考源
 
 - raw/计算机/
-- 相关:[[Kafka]]、[[Lambda架构]]、[[ETL与ELT]]
+- 相关:[[Apache Kafka|Kafka]]、[[Lambda架构]]、[[ETL与ELT]]

@@ -90,7 +90,7 @@ def publish_loop():
 
 - 红帽开源的 CDC 平台
 - 监听 MySQL/PostgreSQL/MongoDB 的 binlog/WAL
-- 把变更转为事件流到 [[Kafka]]
+- 把变更转为事件流到 [[Apache Kafka|Kafka]]
 - 与 outbox 模式天然契合
 
 **架构**
@@ -238,7 +238,7 @@ with db.transaction():
 
 ## 和其他概念的关系
 
-Outbox 是 [[Saga模式]]、[[事件溯源]]、[[CQRS]] 等微服务模式的关键基础设施——保证事件可靠发布。它与 [[消息队列]]([[Kafka]]、RabbitMQ)、CDC 工具(Debezium)共同构成事件驱动架构基础。
+Outbox 是 [[Saga模式]]、[[事件溯源]]、[[CQRS]] 等微服务模式的关键基础设施——保证事件可靠发布。它与 [[消息队列]]([[Apache Kafka|Kafka]]、RabbitMQ)、CDC 工具(Debezium)共同构成事件驱动架构基础。
 
 它体现的"事务边界对齐"思想是 [[ACID事务]] 在分布式时代的延伸——单库 ACID 不足以保证跨系统一致,需把"消息发送"纳入业务事务。这与 [[BASE理论]]、[[CAP定理]] 的折衷哲学一脉相承。
 

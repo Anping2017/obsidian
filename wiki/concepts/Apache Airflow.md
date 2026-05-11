@@ -235,7 +235,7 @@ orders 更新后自动触发 metrics DAG。这是 Dagster Asset 思想的回应�
 
 ## 和其他概念的关系
 
-Airflow 与 [[ETL与ELT]] 工具链(Fivetran / Airbyte 抽数,dbt 转换,Snowflake / BigQuery 装载)共生,负责调度。它与 [[Kafka]](实时流)互补——Airflow 处理批/小时级,Kafka 处理秒级。
+Airflow 与 [[ETL与ELT]] 工具链(Fivetran / Airbyte 抽数,dbt 转换,Snowflake / BigQuery 装载)共生,负责调度。它与 [[Apache Kafka|Kafka]](实时流)互补——Airflow 处理批/小时级,Kafka 处理秒级。
 
 Airflow 任务大量调用 [[Apache Spark]] 处理大数据,通过 SparkSubmitOperator 或 Databricks Operator 提交。在 [[Kubernetes]] 上跑 Airflow + KubernetesExecutor 是云原生数据工程标准栈。
 
@@ -244,4 +244,4 @@ Airflow 任务大量调用 [[Apache Spark]] 处理大数据,通过 SparkSubmitOp
 ## 参考源
 
 - raw/计算机/
-- 相关:[[ETL与ELT]]、[[Apache Spark]]、[[Kafka]]
+- 相关:[[ETL与ELT]]、[[Apache Spark]]、[[Apache Kafka|Kafka]]

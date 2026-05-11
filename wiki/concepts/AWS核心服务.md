@@ -205,7 +205,7 @@ S3 上的 SQL 查询(Presto-based),按扫描量计费。
 
 **Kinesis**
 
-类似 [[Kafka]] 的流处理:
+类似 [[Apache Kafka|Kafka]] 的流处理:
 - Streams(原始流)
 - Data Firehose(自动批量到 S3)
 - Analytics(SQL 流分析)

@@ -1,224 +1,34 @@
 {
-  "total_files": 1641,
-  "total_outgoing_links": 18875,
+  "total_files": 1682,
+  "total_outgoing_links": 19362,
   "broken_links": {
-    "count": 854,
+    "count": 812,
     "top30_by_refcount": [
       {
-        "target": "CRM",
-        "ref_count": 20,
-        "sources_sample": [
-          "AI客服",
-          "AI客服",
-          "CDP客户数据平台",
-          "CDP客户数据平台",
-          "O2O"
-        ]
-      },
-      {
-        "target": "SwiftUI",
-        "ref_count": 10,
-        "sources_sample": [
-          "Flutter",
-          "Jetpack Compose",
-          "Jetpack Compose",
-          "Jetpack Compose",
-          "Jetpack Compose"
-        ]
-      },
-      {
-        "target": "SEO",
-        "ref_count": 6,
-        "sources_sample": [
-          "CRO",
-          "CRO",
-          "GA4配置",
-          "内容SEO",
-          "域权威"
-        ]
-      },
-      {
-        "target": "量化宽松(QE)",
-        "ref_count": 6,
-        "sources_sample": [
-          "凯恩斯主义",
-          "凯恩斯主义",
-          "奥地利学派",
-          "新凯恩斯主义",
-          "泰勒规则"
-        ]
-      },
-      {
-        "target": "MUM",
-        "ref_count": 5,
-        "sources_sample": [
-          "BERT语义搜索算法",
-          "RankBrain",
-          "RankBrain",
-          "Topical Authority主题权威",
-          "内容集群Topic Cluster"
-        ]
-      },
-      {
-        "target": "CPC",
-        "ref_count": 4,
-        "sources_sample": [
-          "CPM",
-          "CPM",
-          "CPM",
-          "RTB实时竞价"
-        ]
-      },
-      {
-        "target": "CPA",
-        "ref_count": 4,
-        "sources_sample": [
-          "CPM",
-          "CPM",
-          "CPM",
-          "RTB实时竞价"
-        ]
-      },
-      {
-        "target": "品牌资产",
-        "ref_count": 4,
-        "sources_sample": [
-          "CPM",
-          "KOC",
-          "KOC",
-          "凯文·凯勒"
-        ]
-      },
-      {
-        "target": "TypeScript",
-        "ref_count": 4,
-        "sources_sample": [
-          "Electron",
-          "Electron",
-          "Nuxt",
-          "Nuxt"
-        ]
-      },
-      {
-        "target": "Google Search Console",
-        "ref_count": 4,
-        "sources_sample": [
-          "GA4配置",
-          "Lighthouse性能审计",
-          "爬虫优化",
-          "转化API"
-        ]
-      },
-      {
-        "target": "Java",
-        "ref_count": 4,
-        "sources_sample": [
-          "Kotlin",
-          "Kotlin",
-          "Kotlin",
-          "Spring Boot"
-        ]
-      },
-      {
-        "target": "前景理论",
-        "ref_count": 4,
-        "sources_sample": [
-          "偏见",
-          "损失规避",
-          "禀赋效应",
-          "禀赋效应"
-        ]
-      },
-      {
-        "target": "MVP",
-        "ref_count": 4,
-        "sources_sample": [
-          "创业",
-          "创业",
-          "商业模式",
-          "商业模式"
-        ]
-      },
-      {
-        "target": "Tandem 语伴",
-        "ref_count": 4,
-        "sources_sample": [
-          "影子跟读",
-          "输出假说",
-          "输出假说",
-          "间隔重复"
-        ]
-      },
-      {
-        "target": "Privacy Sandbox",
+        "target": "Headless CMS",
         "ref_count": 3,
         "sources_sample": [
-          "Ad Exchange广告交易市场",
-          "DSP需求方平台",
-          "RTB实时竞价"
-        ]
-      },
-      {
-        "target": "Gemini",
-        "ref_count": 3,
-        "sources_sample": [
-          "AI Overviews",
-          "AI Overviews",
-          "MUM多任务统一模型"
-        ]
-      },
-      {
-        "target": "ROAS",
-        "ref_count": 3,
-        "sources_sample": [
-          "CPM",
-          "CPM",
-          "销售漏斗"
-        ]
-      },
-      {
-        "target": "Hinton",
-        "ref_count": 3,
-        "sources_sample": [
-          "DPO直接偏好优化",
-          "模型蒸馏",
-          "模型蒸馏"
-        ]
-      },
-      {
-        "target": "JavaScript",
-        "ref_count": 3,
-        "sources_sample": [
-          "Electron",
-          "Electron",
-          "Prototype"
-        ]
-      },
-      {
-        "target": "Local Pack",
-        "ref_count": 3,
-        "sources_sample": [
-          "Featured Snippet精选摘要",
-          "Schema.org结构化数据",
-          "内链优化"
-        ]
-      },
-      {
-        "target": "Google Business Profile",
-        "ref_count": 3,
-        "sources_sample": [
-          "Featured Snippet精选摘要",
-          "Local Pack本地包",
-          "Schema.org结构化数据"
-        ]
-      },
-      {
-        "target": "Astro",
-        "ref_count": 3,
-        "sources_sample": [
+          "Cloudflare Pages",
           "Jamstack",
-          "Jamstack",
-          "Nuxt"
+          "Netlify"
+        ]
+      },
+      {
+        "target": "敏捷开发",
+        "ref_count": 3,
+        "sources_sample": [
+          "MVP",
+          "产品管理",
+          "精益管理"
+        ]
+      },
+      {
+        "target": "群体思维",
+        "ref_count": 3,
+        "sources_sample": [
+          "Pre-mortem",
+          "Pre-mortem",
+          "Pre-mortem"
         ]
       },
       {
@@ -249,47 +59,195 @@
         ]
       },
       {
-        "target": "Fintech 监管沙盒",
-        "ref_count": 3,
-        "sources_sample": [
-          "可持续投资",
-          "央行数字货币",
-          "科斯定理"
-        ]
-      },
-      {
-        "target": "Pre-mortem",
-        "ref_count": 3,
-        "sources_sample": [
-          "多学科方法论",
-          "社会证明详解",
-          "过度优化偏差"
-        ]
-      },
-      {
-        "target": "范围经济",
-        "ref_count": 3,
-        "sources_sample": [
-          "平台经济",
-          "平台经济",
-          "网络效应"
-        ]
-      },
-      {
-        "target": "阿奎那",
-        "ref_count": 3,
-        "sources_sample": [
-          "奥卡姆",
-          "奥卡姆",
-          "奥卡姆"
-        ]
-      },
-      {
         "target": "wikilinks",
         "ref_count": 2,
         "sources_sample": [
           "WORKFLOW",
           "WORKFLOW"
+        ]
+      },
+      {
+        "target": "Phoenix框架",
+        "ref_count": 2,
+        "sources_sample": [
+          "Actor模型",
+          "Phoenix LiveView"
+        ]
+      },
+      {
+        "target": "ChatGPT Search",
+        "ref_count": 2,
+        "sources_sample": [
+          "AI Overviews",
+          "Schema markup"
+        ]
+      },
+      {
+        "target": "SvelteKit",
+        "ref_count": 2,
+        "sources_sample": [
+          "Astro",
+          "Nuxt"
+        ]
+      },
+      {
+        "target": "国际税收",
+        "ref_count": 2,
+        "sources_sample": [
+          "BEPS税基侵蚀",
+          "转让定价"
+        ]
+      },
+      {
+        "target": "GPT与LLM家族",
+        "ref_count": 2,
+        "sources_sample": [
+          "BERT语义搜索算法",
+          "MUM多任务统一模型"
+        ]
+      },
+      {
+        "target": "Meta Robots标签",
+        "ref_count": 2,
+        "sources_sample": [
+          "Canonical规范化标签",
+          "Robots.txt"
+        ]
+      },
+      {
+        "target": "移动端SEO",
+        "ref_count": 2,
+        "sources_sample": [
+          "Core Web Vitals",
+          "SERP特征"
+        ]
+      },
+      {
+        "target": "Page Experience",
+        "ref_count": 2,
+        "sources_sample": [
+          "Core Web Vitals优化",
+          "移动优先索引"
+        ]
+      },
+      {
+        "target": "CPS",
+        "ref_count": 2,
+        "sources_sample": [
+          "CPM",
+          "CPM"
+        ]
+      },
+      {
+        "target": "MRC",
+        "ref_count": 2,
+        "sources_sample": [
+          "CPM",
+          "CPM"
+        ]
+      },
+      {
+        "target": "品牌升降研究",
+        "ref_count": 2,
+        "sources_sample": [
+          "CPM",
+          "CPM"
+        ]
+      },
+      {
+        "target": "Google Analytics",
+        "ref_count": 2,
+        "sources_sample": [
+          "CRO",
+          "CRO"
+        ]
+      },
+      {
+        "target": "文化差异",
+        "ref_count": 2,
+        "sources_sample": [
+          "DSM-5诊断系统",
+          "归因理论"
+        ]
+      },
+      {
+        "target": "内容质量",
+        "ref_count": 2,
+        "sources_sample": [
+          "E-E-A-T操作化",
+          "Panda算法"
+        ]
+      },
+      {
+        "target": "Chromium",
+        "ref_count": 2,
+        "sources_sample": [
+          "Electron",
+          "Electron"
+        ]
+      },
+      {
+        "target": "Wails",
+        "ref_count": 2,
+        "sources_sample": [
+          "Electron",
+          "Electron"
+        ]
+      },
+      {
+        "target": "V8",
+        "ref_count": 2,
+        "sources_sample": [
+          "Electron",
+          "逃逸分析"
+        ]
+      },
+      {
+        "target": "Knowledge Panel",
+        "ref_count": 2,
+        "sources_sample": [
+          "Featured Snippet精选摘要",
+          "People Also Ask"
+        ]
+      },
+      {
+        "target": "Image Pack",
+        "ref_count": 2,
+        "sources_sample": [
+          "Featured Snippet精选摘要",
+          "People Also Ask"
+        ]
+      },
+      {
+        "target": "Reward Hacking",
+        "ref_count": 2,
+        "sources_sample": [
+          "Goodhart定律",
+          "Goodhart定律"
+        ]
+      },
+      {
+        "target": "GA4",
+        "ref_count": 2,
+        "sources_sample": [
+          "Google Search Console",
+          "归因模型"
+        ]
+      },
+      {
+        "target": "前端框架",
+        "ref_count": 2,
+        "sources_sample": [
+          "HTMX",
+          "Lighthouse性能审计"
+        ]
+      },
+      {
+        "target": "Let's Encrypt",
+        "ref_count": 2,
+        "sources_sample": [
+          "HTTPS与TLS握手",
+          "HTTPS与TLS握手"
         ]
       }
     ]
@@ -301,22 +259,22 @@
   "top_incoming": [
     {
       "stem": "微服务",
-      "incoming": 122,
+      "incoming": 125,
       "outgoing": 12
     },
     {
       "stem": "行为金融学",
-      "incoming": 107,
+      "incoming": 110,
       "outgoing": 5
     },
     {
       "stem": "认知偏差",
-      "incoming": 100,
+      "incoming": 108,
       "outgoing": 18
     },
     {
       "stem": "大语言模型",
-      "incoming": 99,
+      "incoming": 105,
       "outgoing": 26
     },
     {
@@ -326,8 +284,13 @@
     },
     {
       "stem": "企业价值评估",
-      "incoming": 89,
+      "incoming": 88,
       "outgoing": 9
+    },
+    {
+      "stem": "内容营销",
+      "incoming": 88,
+      "outgoing": 15
     },
     {
       "stem": "消费者行为",
@@ -335,9 +298,9 @@
       "outgoing": 19
     },
     {
-      "stem": "内容营销",
-      "incoming": 87,
-      "outgoing": 15
+      "stem": "第一性原理",
+      "incoming": 83,
+      "outgoing": 17
     },
     {
       "stem": "领导力",
@@ -350,29 +313,24 @@
       "outgoing": 14
     },
     {
-      "stem": "第一性原理",
-      "incoming": 77,
-      "outgoing": 17
-    },
-    {
       "stem": "确认偏差",
-      "incoming": 70,
+      "incoming": 77,
       "outgoing": 11
     },
     {
-      "stem": "变革管理",
-      "incoming": 68,
-      "outgoing": 14
-    },
-    {
-      "stem": "基本面分析",
-      "incoming": 68,
-      "outgoing": 6
-    },
-    {
       "stem": "行为经济学",
-      "incoming": 68,
+      "incoming": 70,
       "outgoing": 12
+    },
+    {
+      "stem": "战略管理",
+      "incoming": 69,
+      "outgoing": 29
+    },
+    {
+      "stem": "投资决策框架",
+      "incoming": 69,
+      "outgoing": 6
     }
   ]
 }
