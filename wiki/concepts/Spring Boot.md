@@ -141,4 +141,4 @@ Spring Boot 仍是企业开发主流,Quarkus 在 Serverless 场景兴起。
 ## 参考源
 
 - raw/计算机/
-- 相关:[[Spring框架思想]]、[[Java]]、[[微服务]]
+- 相关:[[Spring框架思想]]、[[Java JVM|Java]]、[[微服务]]

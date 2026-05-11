@@ -1,12 +1,12 @@
 {
-  "total_files": 1619,
-  "total_outgoing_links": 18568,
+  "total_files": 1641,
+  "total_outgoing_links": 18875,
   "broken_links": {
     "count": 854,
     "top30_by_refcount": [
       {
         "target": "CRM",
-        "ref_count": 21,
+        "ref_count": 20,
         "sources_sample": [
           "AI客服",
           "AI客服",
@@ -276,19 +276,20 @@
         ]
       },
       {
+        "target": "阿奎那",
+        "ref_count": 3,
+        "sources_sample": [
+          "奥卡姆",
+          "奥卡姆",
+          "奥卡姆"
+        ]
+      },
+      {
         "target": "wikilinks",
         "ref_count": 2,
         "sources_sample": [
           "WORKFLOW",
           "WORKFLOW"
-        ]
-      },
-      {
-        "target": "Phoenix框架",
-        "ref_count": 2,
-        "sources_sample": [
-          "Actor模型",
-          "Phoenix LiveView"
         ]
       }
     ]
@@ -300,7 +301,7 @@
   "top_incoming": [
     {
       "stem": "微服务",
-      "incoming": 121,
+      "incoming": 122,
       "outgoing": 12
     },
     {
@@ -320,7 +321,7 @@
     },
     {
       "stem": "组织文化",
-      "incoming": 90,
+      "incoming": 91,
       "outgoing": 15
     },
     {
@@ -330,17 +331,17 @@
     },
     {
       "stem": "消费者行为",
-      "incoming": 87,
+      "incoming": 88,
       "outgoing": 19
     },
     {
       "stem": "内容营销",
-      "incoming": 86,
+      "incoming": 87,
       "outgoing": 15
     },
     {
       "stem": "领导力",
-      "incoming": 81,
+      "incoming": 83,
       "outgoing": 12
     },
     {
@@ -350,8 +351,8 @@
     },
     {
       "stem": "第一性原理",
-      "incoming": 76,
-      "outgoing": 12
+      "incoming": 77,
+      "outgoing": 17
     },
     {
       "stem": "确认偏差",

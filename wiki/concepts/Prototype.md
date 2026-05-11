@@ -68,7 +68,7 @@ JS 自 ES6 引入 `class` 后表面接近类继承,但底层语义仍是原型,�
 
 ## 和其他概念的关系
 
-JavaScript 原型与 [[闭包]]、[[this 绑定]]、[[JavaScript Promise与async-await|Promise与异步]] 共同构成 [[JavaScript]] 的核心概念。理解原型链是理解 [[Vue]]、[[React]] 等框架内部机制的前提(组件实例继承、响应式实现常用 `Object.create`)。
+JavaScript 原型与 [[闭包]]、[[this 绑定]]、[[JavaScript Promise与async-await|Promise与异步]] 共同构成 [[JavaScript原型链|JavaScript]] 的核心概念。理解原型链是理解 [[Vue]]、[[React]] 等框架内部机制的前提(组件实例继承、响应式实现常用 `Object.create`)。
 
 设计模式中的原型模式与 [[设计模式]] 体系并列,与工厂方法、抽象工厂同属创建型模式。
 

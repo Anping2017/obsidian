@@ -14,7 +14,7 @@ summary: Jetpack Compose 是 Google 在 2021 年推出的 Android 现代声明�
 
 **Jetpack Compose** 是 Google 在 2021 年发布(Compose 1.0)的 Android 现代声明式 UI 框架。它基于 [[Kotlin]] 编译器插件,把"如何构建 UI"从命令式 View 体系改为**用普通函数声明 UI 结构,状态变化时自动重组**。
 
-它与 [[SwiftUI]]、[[React]]、[[Flutter]] 共同代表 2019-2025 声明式 UI 全行业共识。Compose 不仅是 Android,还有 Compose Multiplatform(支持 Desktop、Web、iOS),是 Kotlin 多平台战略关键。
+它与 [[SwiftUI与UIKit|SwiftUI]]、[[React]]、[[Flutter]] 共同代表 2019-2025 声明式 UI 全行业共识。Compose 不仅是 Android,还有 Compose Multiplatform(支持 Desktop、Web、iOS),是 Kotlin 多平台战略关键。
 
 ## 与传统 Android UI 对比
 
@@ -122,7 +122,7 @@ Text(
 )
 ```
 
-类似 [[SwiftUI]] 的 ViewModifier。顺序敏感(padding 在 background 前后效果不同)。
+类似 [[SwiftUI与UIKit|SwiftUI]] 的 ViewModifier。顺序敏感(padding 在 background 前后效果不同)。
 
 **列表**
 
@@ -195,7 +195,7 @@ Compose 不是普通 Kotlin DSL——它有专用编译器插件:
 
 ## 与 SwiftUI 对比
 
-| 维度 | Compose | [[SwiftUI]] |
+| 维度 | Compose | [[SwiftUI与UIKit|SwiftUI]] |
 |---|---|---|
 | 平台 | Android(+ KMP) | Apple |
 | 语言 | Kotlin | Swift |
@@ -307,7 +307,7 @@ Paparazzi、Roborazzi:截图比对回归。
 
 ## 和其他概念的关系
 
-Jetpack Compose 与 [[SwiftUI]]、[[React]]、[[Flutter]] 共同代表声明式 UI 框架全行业共识。它依赖 [[Kotlin]] 语言特性(Coroutines、Flow、Type System)实现强表达力。
+Jetpack Compose 与 [[SwiftUI与UIKit|SwiftUI]]、[[React]]、[[Flutter]] 共同代表声明式 UI 框架全行业共识。它依赖 [[Kotlin]] 语言特性(Coroutines、Flow、Type System)实现强表达力。
 
 它的 ViewModel + StateFlow 数据流与 [[Redux状态管理]]、[[Zustand状态管理]] 等同源,体现单向数据流的"事实上的共识"。在 [[微服务]] 时代,移动端 UI + 后端 API + [[GraphQL]] / [[RESTful API]] 构成现代应用全链路。
 

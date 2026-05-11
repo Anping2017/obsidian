@@ -241,7 +241,7 @@ NativeModules.MyCustomModule.doSomething()
 
 ## 和其他概念的关系
 
-React Native 是 [[React]] 思想在移动端的延伸,与 [[Flutter]]、[[SwiftUI]]、[[Jetpack Compose]] 共同构成移动 UI 框架四方。它把 Web 工程师无缝带入移动开发,体现"同一抽象跨平台复用"的工程价值。
+React Native 是 [[React]] 思想在移动端的延伸,与 [[Flutter]]、[[SwiftUI与UIKit|SwiftUI]]、[[Jetpack Compose]] 共同构成移动 UI 框架四方。它把 Web 工程师无缝带入移动开发,体现"同一抽象跨平台复用"的工程价值。
 
 它的"桥接原生组件"思路在 [[Tauri]](桥接 Web 引擎)中也有体现——都是"重用现有引擎"思路。Reanimated 库的 Worklet 概念与 [[WebAssembly]] 一脉相承——把性能敏感代码搬到独立运行时。
 

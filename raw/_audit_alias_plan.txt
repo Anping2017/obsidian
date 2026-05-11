@@ -1,0 +1,102 @@
+# Phase A: Auto-alias candidates
+
+Auto-alias possible: 32 broken targets
+Need to write fresh: 122 broken targets (no alias)
+
+## Alias plan (broken → existing file)
+
+- [[CRM]] (20x) → [[CRM客户关系管理|CRM]]
+- [[SwiftUI]] (10x) → [[SwiftUI与UIKit|SwiftUI]]
+- [[SEO]] (6x) → [[内容SEO|SEO]] (also: 国际SEO, 技术SEO)
+- [[MUM]] (5x) → [[MUM多任务统一模型|MUM]]
+- [[CPA]] (4x) → [[CCPA|CPA]]
+- [[品牌资产]] (4x) → [[品牌资产学派|品牌资产]] (also: Aaker品牌资产模型)
+- [[TypeScript]] (4x) → [[TypeScript类型系统|TypeScript]] (also: TypeScript泛型与条件类型)
+- [[Java]] (4x) → [[Java JVM|Java]] (also: Java垃圾回收, JavaScript原型链)
+- [[Gemini]] (3x) → [[Gemini系列模型|Gemini]]
+- [[Hinton]] (3x) → [[Geoffrey Hinton|Hinton]]
+- [[JavaScript]] (3x) → [[JavaScript原型链|JavaScript]] (also: JavaScript SEO, JavaScript事件循环)
+- [[Local Pack]] (3x) → [[Local Pack本地包|Local Pack]]
+- [[销售]] (3x) → [[连带销售|销售]] (also: 销售技巧, 销售漏斗)
+- [[广告]] (3x) → [[展示广告|广告]] (also: 搜索广告, 信息流广告)
+- [[阿奎那]] (3x) → [[托马斯·阿奎那|阿奎那]]
+- [[ROI]] (2x) → [[营销ROI|ROI]]
+- [[KPI体系]] (2x) → [[销售KPI体系|KPI体系]]
+- [[KOL]] (2x) → [[KOL营销|KOL]]
+- [[JVM]] (2x) → [[Java JVM|JVM]]
+- [[HumanEval]] (2x) → [[HumanEval基准|HumanEval]]
+- [[新零售]] (2x) → [[新零售融合|新零售]]
+- [[安全]] (2x) → [[安全边际|安全]] (also: Web安全, 户外安全与应急)
+- [[营销]] (2x) → [[再营销|营销]] (also: 公益营销, 关系营销)
+- [[创新]] (2x) → [[创新理论|创新]] (also: 金融创新, 颠覆式创新)
+- [[抖音算法]] (2x) → [[抖音算法分发|抖音算法]]
+- [[现金流]] (2x) → [[现金流量表|现金流]] (also: 自由现金流, 现金流折现模型)
+- [[文案公式]] (2x) → [[AIDA文案公式|文案公式]] (also: QUEST文案公式, PASTOR文案公式)
+- [[Apple生态]] (2x) → [[Apple生态系统|Apple生态]]
+- [[Go]] (2x) → [[Goodhart定律|Go]] (also: Google Ads, Google知识图谱)
+- [[推荐系统]] (2x) → [[个性化推荐系统|推荐系统]]
+- [[发展心理学]] (2x) → [[儿童发展心理学|发展心理学]]
+- [[存货]] (2x) → [[存货计价方法|存货]]
+
+## No alias — must write fresh (top 60)
+
+- 量化宽松(QE) (6x)
+- CPC (4x)
+- Google Search Console (4x)
+- 前景理论 (4x)
+- MVP (4x)
+- Tandem 语伴 (4x)
+- Privacy Sandbox (3x)
+- ROAS (3x)
+- Google Business Profile (3x)
+- Astro (3x)
+- wikilink (3x)
+- Fintech 监管沙盒 (3x)
+- Pre-mortem (3x)
+- 范围经济 (3x)
+- wikilinks (2x)
+- Phoenix框架 (2x)
+- Header Bidding (2x)
+- Generative Engine Optimization (2x)
+- ChatGPT Search (2x)
+- Apache Flink (2x)
+- 国际税收 (2x)
+- 预训练语言模型 (2x)
+- GPT与LLM家族 (2x)
+- Meta Robots标签 (2x)
+- 移动端SEO (2x)
+- Page Experience (2x)
+- CPS (2x)
+- MRC (2x)
+- 品牌升降研究 (2x)
+- Google Analytics (2x)
+- Service Mesh (2x)
+- 5G (2x)
+- 文化差异 (2x)
+- 内容质量 (2x)
+- Chromium (2x)
+- Wails (2x)
+- V8 (2x)
+- Knowledge Panel (2x)
+- Image Pack (2x)
+- Reward Hacking (2x)
+- 前端框架 (2x)
+- Let's Encrypt (2x)
+- LAMP (2x)
+- MACH架构 (2x)
+- Gatsby (2x)
+- Eleventy (2x)
+- Cloudflare Pages (2x)
+- Headless CMS (2x)
+- 事件驱动架构 (2x)
+- 数据湖 (2x)
+- Apache Kafka (2x)
+- Android (2x)
+- 气候 (2x)
+- 订阅经济 (2x)
+- Nitro (2x)
+- Vuex (2x)
+- POI (2x)
+- 微信生态 (2x)
+- 设计思维 (2x)
+- Function Calling (2x)

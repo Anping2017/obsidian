@@ -12,7 +12,7 @@ summary: AI Overviews(原 SGE,Search Generative Experience)是 Google 2023 年�
 
 ## 定义
 
-**AI Overviews**(原名 **SGE**, **Search Generative Experience**)是 Google 2023 年 5 月在 I/O 大会公布、2024 年 5 月正式上线美国市场、2024 年 8 月全面铺开的 **AI 生成搜索结果**。它在 SERP 顶部用 [[Gemini]] 大模型生成 **完整、合成、引用多源** 的答案,把 Google 从"链接列表"转变为"答案引擎"。
+**AI Overviews**(原名 **SGE**, **Search Generative Experience**)是 Google 2023 年 5 月在 I/O 大会公布、2024 年 5 月正式上线美国市场、2024 年 8 月全面铺开的 **AI 生成搜索结果**。它在 SERP 顶部用 [[Gemini系列模型|Gemini]] 大模型生成 **完整、合成、引用多源** 的答案,把 Google 从"链接列表"转变为"答案引擎"。
 
 它是 [[Google搜索工作原理]] 25 年史上的最大变革,可能与 1998 年 [[PageRank]]、2013 年 [[Hummingbird算法]]、2019 年 [[BERT语义搜索算法]] 并列为四大里程碑。
 
@@ -137,7 +137,7 @@ Google 内部如何选择 AI Overviews 引用源(基于公开线索 + 行业研�
 
 ## 与其他概念的关系
 
-- **核心母体**:[[Google搜索工作原理]] / [[Google算法演进史]] / [[Gemini]]
+- **核心母体**:[[Google搜索工作原理]] / [[Google算法演进史]] / [[Gemini系列模型|Gemini]]
 - **算法基础**:[[BERT语义搜索算法]] / [[MUM多任务统一模型]]
 - **战略响应**:[[E-E-A-T操作化]] / [[Topical Authority主题权威]] / [[零点击搜索]]
 - **跨域**:[[AI对营销与SEO的影响]] / [[AIGC营销内容]] / [[Generative Engine Optimization]]

@@ -150,7 +150,7 @@ DPO 引发一系列改进:
 - 直接应用于 [[大语言模型]] 训练
 - 与 [[Anthropic]] Constitutional AI 思想形成"数据 + 优化"组合
 - 衍生 ORPO、KTO、SimPO 等多个变体
-- [[Hinton]]、Bengio 等 deep learning 先驱传承的强化学习思想的简化路径
+- [[Geoffrey Hinton|Hinton]]、Bengio 等 deep learning 先驱传承的强化学习思想的简化路径
 
 ## 参考源
 

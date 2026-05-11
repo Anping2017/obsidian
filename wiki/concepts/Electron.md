@@ -12,7 +12,7 @@ summary: Electron 是 GitHub 2013 年发布的桌面应用框架,用 Chromium �
 
 ## 定义
 
-**Electron** 是由 GitHub 在 2013 年作为 Atom 编辑器底层引擎开源、2014 年独立成框架的跨平台桌面应用开发方案。它把 [[Chromium]](负责渲染 UI)与 [[Node.js]](负责系统访问)整合到同一进程模型中,开发者用 HTML / CSS / [[JavaScript]] / [[TypeScript]] 写应用,即可一次代码三端打包(Windows / macOS / Linux)。Electron 由 OpenJS Foundation 治理,是当代桌面 SaaS 客户端最主流的实现方式。
+**Electron** 是由 GitHub 在 2013 年作为 Atom 编辑器底层引擎开源、2014 年独立成框架的跨平台桌面应用开发方案。它把 [[Chromium]](负责渲染 UI)与 [[Node.js]](负责系统访问)整合到同一进程模型中,开发者用 HTML / CSS / [[JavaScript原型链|JavaScript]] / [[TypeScript类型系统|TypeScript]] 写应用,即可一次代码三端打包(Windows / macOS / Linux)。Electron 由 OpenJS Foundation 治理,是当代桌面 SaaS 客户端最主流的实现方式。
 
 ## 核心要点
 
@@ -82,7 +82,7 @@ Electron 采用多进程模型:
 
 - 底层栈:[[Chromium]]、[[Node.js]]、[[V8]]
 - 同类框架:[[Tauri]]、[[Wails]]、[[Flutter Desktop]]、[[NW.js]]、[[CEF]]
-- Web 技术:[[HTML]]、[[CSS]]、[[JavaScript]]、[[TypeScript]]
+- Web 技术:[[HTML]]、[[CSS]]、[[JavaScript原型链|JavaScript]]、[[TypeScript类型系统|TypeScript]]
 - 渲染范式:[[SPA]]、[[React]]、[[Vue]]、[[Svelte]] 都可作 Electron 前端
 - 打包工具:[[electron-builder]]、[[electron-forge]]
 - 关联实践:[[自动更新]]、[[应用签名]]、[[CSP]]、[[沙箱]]

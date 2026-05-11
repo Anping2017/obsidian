@@ -12,7 +12,7 @@ summary: Nuxt 是基于 Vue 的全栈 Meta 框架,提供 SSR、SSG、ISG、文�
 
 ## 定义
 
-**Nuxt** 是构建在 [[Vue]] 之上的全栈 Meta-Framework。它在 Vue 之上补足约定式路由、服务端渲染、静态生成、API Routes、自动导入、模块系统等"框架级"能力,使开发者用同一份代码同时输出 SPA、SSR、SSG、Edge 应用。Nuxt 3(2022 年 GA)切换到 Vue 3 + [[TypeScript]] + Vite + Nitro 服务端引擎,与 [[Next.js]] 在 [[React]] 生态中的地位等价。
+**Nuxt** 是构建在 [[Vue]] 之上的全栈 Meta-Framework。它在 Vue 之上补足约定式路由、服务端渲染、静态生成、API Routes、自动导入、模块系统等"框架级"能力,使开发者用同一份代码同时输出 SPA、SSR、SSG、Edge 应用。Nuxt 3(2022 年 GA)切换到 Vue 3 + [[TypeScript类型系统|TypeScript]] + Vite + Nitro 服务端引擎,与 [[Next.js]] 在 [[React]] 生态中的地位等价。
 
 ## 核心要点
 
@@ -86,7 +86,7 @@ Nuxt Modules 是高度可装配的扩展机制:`@nuxt/content`(Markdown CMS)、`
 
 ## 与其他概念的关系
 
-- 基础栈:[[Vue]]、[[TypeScript]]、[[Vite]]
+- 基础栈:[[Vue]]、[[TypeScript类型系统|TypeScript]]、[[Vite]]
 - 服务端引擎:[[Nitro]]
 - 同类对比:[[Next.js]]、[[Remix]]、[[SvelteKit]]、[[Astro]]
 - 状态管理:[[Pinia]] 取代 [[Vuex]]

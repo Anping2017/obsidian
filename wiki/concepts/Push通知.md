@@ -74,7 +74,7 @@ Push 通知(Push Notification)是 App 在用户设备未打开应用时,通过 A
 
 ## 和其他概念的关系
 
-Push 是 [[移动营销]] 与 [[全渠道营销]] 的核心一环,与 [[邮件序列设计]]、短信(SMS)、站内消息构成"立体触达矩阵"。其触发逻辑常由 [[营销自动化]] 平台(MoEngage、Braze、Leanplum、CleverTap)统一调度,与 [[CRM]] 数据打通做精细分发。
+Push 是 [[移动营销]] 与 [[全渠道营销]] 的核心一环,与 [[邮件序列设计]]、短信(SMS)、站内消息构成"立体触达矩阵"。其触发逻辑常由 [[营销自动化]] 平台(MoEngage、Braze、Leanplum、CleverTap)统一调度,与 [[CRM客户关系管理|CRM]] 数据打通做精细分发。
 
 Push CTR 直接影响 DAU、[[激活率]] 与 [[客户复购]]。在 [[AARRR模型]] 中,Push 是 Retention 的关键武器。它依赖 [[AB测试]] 优化标题与发送时机,效果记录进入 [[归因模型]] 分析。Web Push 与 [[搜索引擎优化]] 中的 [[Service Worker]] 同源——是 PWA 关键能力之一。
 

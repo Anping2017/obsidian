@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/计算机/开发学习/系统/Odoo/Odoo.md",
+                "file": "SCHEMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Odoo"
+              "title": "SCHEMA"
             }
           }
         ]
@@ -199,19 +199,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0ebecd269b099ad2",
   "lastOpenFiles": [
+    "wiki/concepts/SEO.md",
+    "wiki/concepts/预训练语言模型.md",
+    "raw/_audit_apply_aliases.py",
+    "raw/_audit_alias_plan.json",
+    "raw/_audit_alias_plan.txt",
+    "raw/_audit_find_aliases.py",
+    "raw/_audit_find_aliases.py.tmp.15988.1778486198288",
+    "wiki/schedule.md.tmp.16008.1778486173586",
+    "raw/_audit_priority.txt",
+    "raw/_audit_broken_priority.py",
+    "wiki/PROGRESS.md.tmp.16008.1778486137755",
+    "wiki/PROGRESS.md.tmp.16008.1778486119485",
+    "CLAUDE.md",
+    "raw/计算机/开发学习/系统/Odoo/Odoo.md",
     "wiki/INDEX.md",
     "wiki/entities/孔子.md",
     "wiki/concepts/Transformer架构.md",
-    "wiki/topics/东方哲学.md.tmp.18708.1778414466509",
-    "wiki/topics/东方哲学.md.tmp.18708.1778414460501",
-    "wiki/topics/东方哲学.md.tmp.18708.1778414456272",
-    "wiki/topics/东方哲学.md.tmp.18708.1778414452496",
     "wiki/entities/田边元.md",
-    "wiki/entities/田边元.md.tmp.18708.1778414438569",
     "wiki/entities/西田几多郎.md",
-    "wiki/entities/西田几多郎.md.tmp.18708.1778414421087",
     "wiki/entities/玄奘.md",
     "wiki/entities/龙树.md",
     "wiki/entities/释迦牟尼.md",
@@ -220,7 +228,6 @@
     "wiki/topics/经济学方法论.md",
     "wiki/entities/朱熹.md",
     "wiki/entities/荀子.md",
-    "wiki/entities/荀子.md.tmp.18708.1778414301752",
     "wiki/topics/经济学发展史.md",
     "wiki/entities/庄子.md",
     "wiki/entities/老子.md",
@@ -230,13 +237,6 @@
     "wiki/topics/现代管理学发展史.md",
     "wiki/topics/西方哲学史脉络.md",
     "wiki/entities/泰勒斯.md",
-    "wiki/topics/AI对营销与SEO的影响.md",
-    "wiki/topics/西方哲学史脉络.md.tmp.18708.1778413439703",
-    "wiki/topics/西方哲学史脉络.md.tmp.18708.1778413428813",
-    "wiki/topics/西方哲学史脉络.md.tmp.18708.1778413417571",
-    "wiki/entities/利科.md",
-    "wiki/entities/伽达默尔.md",
-    "wiki/entities/阿多诺.md",
     "Pasted image 20251118215025.png",
     "Pasted image 20251118215708.png",
     "图片/Pasted image 20250924135807 1.png",

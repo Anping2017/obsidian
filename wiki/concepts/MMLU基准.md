@@ -44,7 +44,7 @@ MMLU(Massive Multitask Language Understanding)是 Hendrycks 等人于 2020 年�
 - 与 [[HellaSwag]]:常识推理
 - 与 [[ARC]]:推理与多跳
 - 与 [[GSM8K]] / MATH:数学专精
-- 与 [[HumanEval]]:代码专精
+- 与 [[HumanEval基准|HumanEval]]:代码专精
 - 与 [[MT-Bench]]:开放对话评分
 
 ## 局限
@@ -59,7 +59,7 @@ MMLU(Massive Multitask Language Understanding)是 Hendrycks 等人于 2020 年�
 - 属于 [[AI模型评估基准]] 的核心成员
 - 训练时常被指控"为 MMLU 优化"造成 [[Goodhart定律]] 失效
 - 与 [[GPT系列模型]]、[[Claude系列模型]]、[[Llama系列模型]] 比较时必引用
-- 与 [[HumanEval]]、[[Chatbot Arena]] 形成评估三件套
+- 与 [[HumanEval基准|HumanEval]]、[[Chatbot Arena]] 形成评估三件套
 
 ## 参考源
 

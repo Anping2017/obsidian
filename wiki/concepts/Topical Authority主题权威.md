@@ -79,7 +79,7 @@ Topical Authority 的语义基础是 [[Google知识图谱]] 中的实体网络�
 
 - **理论母体**:[[E-E-A-T]] / [[Helpful Content Update]] / [[Google算法更新]]
 - **实现工具**:[[内容集群Topic Cluster]] / [[内链优化]] / [[关键词研究]] / [[搜索意图]]
-- **跨域**:[[Google知识图谱]] / [[语义搜索]] / [[BERT]] / [[MUM]]
+- **跨域**:[[Google知识图谱]] / [[语义搜索]] / [[BERT]] / [[MUM多任务统一模型|MUM]]
 - **AI 时代**:[[AI对营销与SEO的影响]] / 零点击搜索 / AI 引用偏好权威源
 
 ## 实践框架

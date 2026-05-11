@@ -251,7 +251,7 @@ Tauri 应用结构与浏览器扩展(content script + background)有相似:
 
 ## 和其他概念的关系
 
-Tauri 是 [[微服务]] 架构思想在桌面应用的体现——前端 / 后端分离,通过 IPC 协议通信。它与 [[Electron]]、[[Flutter]] Desktop、[[SwiftUI]] for macOS 共同构成桌面应用开发选项。
+Tauri 是 [[微服务]] 架构思想在桌面应用的体现——前端 / 后端分离,通过 IPC 协议通信。它与 [[Electron]]、[[Flutter]] Desktop、[[SwiftUI与UIKit|SwiftUI]] for macOS 共同构成桌面应用开发选项。
 
 它使用的 [[Rust所有权]] 系统让"桌面应用 + 系统调用"安全大幅提升,与 [[Web安全]] / [[OWASP Top 10]] 关注的桌面端安全问题(如恶意更新、命令注入)契合。
 

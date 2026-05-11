@@ -77,7 +77,7 @@ Featured Snippet(精选摘要 / 第 0 位)是 Google 在搜索结果页最顶部
 
 ## 和其他概念的关系
 
-Featured Snippet 是 [[SERP特征]] 中最重要的一种,与 [[People Also Ask]]、[[Knowledge Panel]]、[[Local Pack]]、[[Image Pack]]、[[Shopping Pack]] 共同构成现代 SERP 的多元化展示。它是 [[页面SEO]] 与 [[内容营销]] 协同的高 ROI 战术。
+Featured Snippet 是 [[SERP特征]] 中最重要的一种,与 [[People Also Ask]]、[[Knowledge Panel]]、[[Local Pack本地包|Local Pack]]、[[Image Pack]]、[[Shopping Pack]] 共同构成现代 SERP 的多元化展示。它是 [[页面SEO]] 与 [[内容营销]] 协同的高 ROI 战术。
 
 精选摘要排名依赖 [[E-E-A-T]] 信号 + [[Schema.org结构化数据]] + 清晰的页面结构。它与 [[语音搜索]] 答案高度耦合——Google Assistant、Alexa、Siri 大量从 Featured Snippet 朗读答案。在 [[AI对营销与SEO的影响]] 时代,Featured Snippet 是通往 AI Overview 引用的最可控通道。
 

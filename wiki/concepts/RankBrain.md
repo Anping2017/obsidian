@@ -14,7 +14,7 @@ summary: RankBrain 是 Google 2015 年公开的机器学习排名子系统,专�
 
 **RankBrain** 是 Google 2015 年 10 月通过 Bloomberg 报道公开的机器学习排名系统。Google 工程师 Greg Corrado 在采访中称其为"Google 排名的 200+ 信号中第三重要的信号"(仅次于内容相关性和反向链接)。它的核心使命是 **理解从未见过的查询**——每天约 15% 的 Google 搜索是历史从未出现过的新查询,RankBrain 让 Google 能合理处理它们。
 
-RankBrain 是 Google 算法 **从规则系统到机器学习** 的转折点,与 [[BERT语义搜索算法]]、[[MUM]] 共同构成 Google 现代语义搜索的基石。
+RankBrain 是 Google 算法 **从规则系统到机器学习** 的转折点,与 [[BERT语义搜索算法]]、[[MUM多任务统一模型|MUM]] 共同构成 Google 现代语义搜索的基石。
 
 ## 核心要点
 
@@ -82,7 +82,7 @@ MUM 在某些复杂查询(医疗、法律)替代 RankBrain,但 RankBrain 在简�
 
 ## 与其他概念的关系
 
-- **算法谱系**:[[Google算法更新]] / [[PageRank]] / [[BERT语义搜索算法]] / [[MUM]] / [[Helpful Content Update]]
+- **算法谱系**:[[Google算法更新]] / [[PageRank]] / [[BERT语义搜索算法]] / [[MUM多任务统一模型|MUM]] / [[Helpful Content Update]]
 - **技术基础**:Word Embedding / Word2Vec / 向量搜索
 - **SEO 影响**:[[搜索意图]] / [[长尾关键词]] / [[Topical Authority主题权威]] / [[Helpful Content Update]]
 - **跨域**:[[嵌入向量]] / [[语义搜索]] / [[知识图谱]] / [[向量数据库]]

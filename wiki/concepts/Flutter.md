@@ -273,7 +273,7 @@ melos 工具管理 monorepo:
 
 ## 和其他概念的关系
 
-Flutter 与 [[React Native]]、[[SwiftUI]]、[[Jetpack Compose]] 共同构成移动开发框架全景。它的"自绘渲染"思路与 [[Tauri]](Web 引擎渲染桌面)互补,代表跨平台 UI 的两种路径——自绘 vs 嵌入 Web。
+Flutter 与 [[React Native]]、[[SwiftUI与UIKit|SwiftUI]]、[[Jetpack Compose]] 共同构成移动开发框架全景。它的"自绘渲染"思路与 [[Tauri]](Web 引擎渲染桌面)互补,代表跨平台 UI 的两种路径——自绘 vs 嵌入 Web。
 
 Flutter 体现 [[设计原则SOLID]] 中的"单一职责" + 组合优于继承——一切是 Widget,通过组合而非继承构造 UI,与 [[React]] 哲学一致。
 

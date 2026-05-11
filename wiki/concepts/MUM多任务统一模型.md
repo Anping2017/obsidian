@@ -91,7 +91,7 @@ MUM 在合成时挑选 **可信权威源**——[[E-E-A-T]] 与 [[Topical Author
 - **算法谱系**:[[Google算法更新]] / [[PageRank]] / [[BERT语义搜索算法]] / [[RankBrain]] / [[MUM多任务统一模型]] / SGE
 - **技术基础**:[[Transformer架构]] / [[T5]] / [[预训练语言模型]] / [[多模态]]
 - **SEO 影响**:[[搜索意图]] / [[E-E-A-T]] / [[Topical Authority主题权威]] / [[Helpful Content Update]] / [[零点击搜索]]
-- **跨域**:[[GPT与LLM家族]] / [[Gemini]] / [[多模态AI]]
+- **跨域**:[[GPT与LLM家族]] / [[Gemini系列模型|Gemini]] / [[多模态AI]]
 
 ## 历史时间线
 

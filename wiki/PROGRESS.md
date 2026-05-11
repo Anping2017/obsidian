@@ -4,31 +4,32 @@ type: topic
 tags: [meta, progress, mature]
 sources: []
 created: 2026-05-05
-updated: 2026-05-10
-summary: vault 当前状态、未完成事项、下次维护计划。历史轮次详情见 CHANGELOG.md。
+updated: 2026-05-11
+summary: vault 当前状态 + 已进入维护模式。每周一自动跑增量任务,平时被动响应用户请求。历史轮次见 CHANGELOG.md。
 ---
 
 # Wiki 状态跟踪器
 
-> **最后更新**:2026-05-10
+> **状态**:✅ 已完成全量构建,**进入维护模式**
+> **最后更新**:2026-05-11
 > **历史日志**:见 [[CHANGELOG]]
 > **工作流**:见 [[WORKFLOW]]
+> **定时任务**:见 [[schedule]]
 
 ---
 
 ## 当前状态
 
-### 规模
+### 规模(2026-05-11)
 
 | 类别 | 数量 |
 |---|---|
-| **总 wiki** | **1545** |
-| concepts | 1401 |
-| topics | 50 |
-| entities | 94 |
-| INDEX.md | 2713 行 |
-| mature | 1431(92.6%) |
-| stub | 114(7.4%) |
+| **总内容 wiki** | **1636** |
+| concepts | 1464 |
+| topics | 52 |
+| entities | 120 |
+| 元文件 | 5(INDEX/PROGRESS/WORKFLOW/CHANGELOG/schedule) |
+| **vault 总计** | 1641 |
 
 ### 学科分布
 
@@ -59,30 +60,41 @@ summary: vault 当前状态、未完成事项、下次维护计划。历史轮�
 
 ---
 
-## 未完成事项
+## 维护模式说明
+
+用户决策(2026-05-11):**当前规模已饱和,进入被动维护**。具体:
+
+1. ✅ **不主动追加新 wiki**(除非用户明确要求或周维护增量)
+2. ✅ **每周一 09:00 NZ 自动触发**:scheduled task `trig_01V7TvrnMC5EUtVUhhqXP3a7` 跑 raw 增量
+3. ✅ **响应用户请求**:用户提具体改动(如"补 X 域 entity")时执行
+4. ⏸️ **暂不启动 output/ 层**
+5. ⏸️ **暂不批量升级 stub**
+
+## 维护事项(随时关注)
 
 ### P0(必做)
 
-- [x] **设置每周定时任务**:✅ Routine `trig_01V7TvrnMC5EUtVUhhqXP3a7`,每周日 21:00 UTC(周一 09:00 NZ 时间),详见 [[schedule]]
-- [ ] **首次 git commit**:1545 篇 wiki + 5 个 meta 文件(INDEX/PROGRESS/WORKFLOW/CHANGELOG/schedule)归档到 git
-- [ ] **GitHub 同步**:确认本地 vault 已 push 到 `https://github.com/Anping2017/obsidian`,否则定时任务跑空
+- [x] 设置每周定时任务 ✅
+- [ ] **GitHub 同步**:本地 vault 需定期 push 到 `https://github.com/Anping2017/obsidian`,否则定时任务读不到最新 raw
+- [ ] **git commit 1636 篇 wiki**:首次大归档
 
-### P1(应做)
+### P1(用户触发时做)
 
-- [ ] **会计学补强**:仅 45 篇,可加 20-30 篇(国际会计/政府会计/特殊行业会计)
-- [ ] **stub 升级**:114 个 stub 中,引用 ≥3 次的应升级为 mature(估计 30 个)
-- [ ] **scripts/ 工具脚本**:把反查逻辑固化为 `scan_orphans.py`、`audit_quality.py`
+- [ ] **stub 升级**(114+ 个):用户说"升级 stub"时,优先高引用次数的
+- [ ] **会计学 / 数学 / 计算机框架 细化补强**:用户说"补强 X"时
+- [ ] **output/ 层启动**:用户说"写综述 / 学习路径"时
 
-### P2(可做)
+### P2(自动维护范畴)
 
-- [ ] **output/ 层启动**:基于 wiki 写综述/学习路径(如《如何学金融》《AI 应用全景》)
-- [ ] **跨域桥接补强**:还有未连的对子(outdoor↔business、ios↔ai 等小众组合)
-- [ ] **生命/兴趣域扩展**:用户可能后续添加新的 raw 域(如健康、烹饪、艺术、旅行等)
+- [ ] **每周 raw 增量**:周一 09:00 NZ 自动跑(见 [[schedule]])
+- [ ] **每周后续 INDEX 同步**:由周维护任务自动维护
+- [ ] **PROGRESS.md updated 字段刷新**:由周维护任务自动维护
 
-### P3(等用户决定)
+### P3(可选未来扩展)
 
-- [ ] **CLAUDE.md 更新**:vault 根的 CLAUDE.md 仍只描述 raw/wiki/output 三层,需同步本工作流体系
-- [ ] **stub 全清理**:把 114 个 stub 全升级或合并到既有 mature
+- [ ] **scripts/ 反查工具脚本固化**(scan_orphans.py / audit_quality.py)
+- [ ] **新域扩展**:用户添加新 raw 域时触发
+- [ ] **CLAUDE.md 与 WORKFLOW 协同优化**
 
 ---
 

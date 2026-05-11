@@ -88,7 +88,7 @@ BERT 之后:理解关键是 "for someone"(代别人取药),返回相关法规要
 ## 与其他概念的关系
 
 - **NLP 母体**:[[BERT]](技术细节)/ [[Transformer架构]] / [[自注意力机制]] / [[预训练语言模型]]
-- **搜索算法谱系**:[[Google算法更新]] / [[PageRank]] / [[RankBrain]] / [[MUM]]
+- **搜索算法谱系**:[[Google算法更新]] / [[PageRank]] / [[RankBrain]] / [[MUM多任务统一模型|MUM]]
 - **SEO 影响**:[[搜索意图]] / [[长尾关键词]] / [[Topical Authority主题权威]] / [[Helpful Content Update]]
 - **跨域**:[[GPT与LLM家族]] / [[语义搜索]] / [[知识图谱]]
 

@@ -91,7 +91,7 @@ Schema.org 是 [[结构化数据]] 在网页生态的具体规范,与 OpenGraph�
 
 在 [[Google搜索工作原理]] 中,Schema 直接喂给 Google 的语义索引层,影响 [[搜索意图]] 匹配与 [[E-E-A-T]] 信号识别。它与 [[AI对营销与SEO的影响]] 中的 GEO 趋势深度关联——LLM-based 搜索引擎(SGE、Perplexity)依赖结构化数据形成可信引用。
 
-[[本地SEO]] 中的 LocalBusiness 标记是 [[Local Pack]] 排名的关键。[[电商SEO]] 中 Product + Review 标记直接影响 SERP CTR。Schema 也是 [[网站审计]] 的重要检查项——大型站点常因模板不当导致大规模 Schema 错误。
+[[本地SEO]] 中的 LocalBusiness 标记是 [[Local Pack本地包|Local Pack]] 排名的关键。[[电商SEO]] 中 Product + Review 标记直接影响 SERP CTR。Schema 也是 [[网站审计]] 的重要检查项——大型站点常因模板不当导致大规模 Schema 错误。
 
 ## 参考源
 

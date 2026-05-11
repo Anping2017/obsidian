@@ -1,0 +1,282 @@
+[
+  {
+    "target": "CRM",
+    "count": 20,
+    "replacement": "CRM客户关系管理",
+    "all_candidates": [
+      "CRM客户关系管理"
+    ]
+  },
+  {
+    "target": "SwiftUI",
+    "count": 10,
+    "replacement": "SwiftUI与UIKit",
+    "all_candidates": [
+      "SwiftUI与UIKit"
+    ]
+  },
+  {
+    "target": "SEO",
+    "count": 6,
+    "replacement": "内容SEO",
+    "all_candidates": [
+      "内容SEO",
+      "国际SEO",
+      "技术SEO"
+    ]
+  },
+  {
+    "target": "MUM",
+    "count": 5,
+    "replacement": "MUM多任务统一模型",
+    "all_candidates": [
+      "MUM多任务统一模型"
+    ]
+  },
+  {
+    "target": "CPA",
+    "count": 4,
+    "replacement": "CCPA",
+    "all_candidates": [
+      "CCPA"
+    ]
+  },
+  {
+    "target": "品牌资产",
+    "count": 4,
+    "replacement": "品牌资产学派",
+    "all_candidates": [
+      "品牌资产学派",
+      "Aaker品牌资产模型"
+    ]
+  },
+  {
+    "target": "TypeScript",
+    "count": 4,
+    "replacement": "TypeScript类型系统",
+    "all_candidates": [
+      "TypeScript类型系统",
+      "TypeScript泛型与条件类型"
+    ]
+  },
+  {
+    "target": "Java",
+    "count": 4,
+    "replacement": "Java JVM",
+    "all_candidates": [
+      "Java JVM",
+      "Java垃圾回收",
+      "JavaScript原型链"
+    ]
+  },
+  {
+    "target": "Gemini",
+    "count": 3,
+    "replacement": "Gemini系列模型",
+    "all_candidates": [
+      "Gemini系列模型"
+    ]
+  },
+  {
+    "target": "Hinton",
+    "count": 3,
+    "replacement": "Geoffrey Hinton",
+    "all_candidates": [
+      "Geoffrey Hinton"
+    ]
+  },
+  {
+    "target": "JavaScript",
+    "count": 3,
+    "replacement": "JavaScript原型链",
+    "all_candidates": [
+      "JavaScript原型链",
+      "JavaScript SEO",
+      "JavaScript事件循环"
+    ]
+  },
+  {
+    "target": "Local Pack",
+    "count": 3,
+    "replacement": "Local Pack本地包",
+    "all_candidates": [
+      "Local Pack本地包"
+    ]
+  },
+  {
+    "target": "销售",
+    "count": 3,
+    "replacement": "连带销售",
+    "all_candidates": [
+      "连带销售",
+      "销售技巧",
+      "销售漏斗"
+    ]
+  },
+  {
+    "target": "广告",
+    "count": 3,
+    "replacement": "展示广告",
+    "all_candidates": [
+      "展示广告",
+      "搜索广告",
+      "信息流广告"
+    ]
+  },
+  {
+    "target": "阿奎那",
+    "count": 3,
+    "replacement": "托马斯·阿奎那",
+    "all_candidates": [
+      "托马斯·阿奎那"
+    ]
+  },
+  {
+    "target": "ROI",
+    "count": 2,
+    "replacement": "营销ROI",
+    "all_candidates": [
+      "营销ROI"
+    ]
+  },
+  {
+    "target": "KPI体系",
+    "count": 2,
+    "replacement": "销售KPI体系",
+    "all_candidates": [
+      "销售KPI体系"
+    ]
+  },
+  {
+    "target": "KOL",
+    "count": 2,
+    "replacement": "KOL营销",
+    "all_candidates": [
+      "KOL营销"
+    ]
+  },
+  {
+    "target": "JVM",
+    "count": 2,
+    "replacement": "Java JVM",
+    "all_candidates": [
+      "Java JVM"
+    ]
+  },
+  {
+    "target": "HumanEval",
+    "count": 2,
+    "replacement": "HumanEval基准",
+    "all_candidates": [
+      "HumanEval基准"
+    ]
+  },
+  {
+    "target": "新零售",
+    "count": 2,
+    "replacement": "新零售融合",
+    "all_candidates": [
+      "新零售融合"
+    ]
+  },
+  {
+    "target": "安全",
+    "count": 2,
+    "replacement": "安全边际",
+    "all_candidates": [
+      "安全边际",
+      "Web安全",
+      "户外安全与应急"
+    ]
+  },
+  {
+    "target": "营销",
+    "count": 2,
+    "replacement": "再营销",
+    "all_candidates": [
+      "再营销",
+      "公益营销",
+      "关系营销"
+    ]
+  },
+  {
+    "target": "创新",
+    "count": 2,
+    "replacement": "创新理论",
+    "all_candidates": [
+      "创新理论",
+      "金融创新",
+      "颠覆式创新"
+    ]
+  },
+  {
+    "target": "抖音算法",
+    "count": 2,
+    "replacement": "抖音算法分发",
+    "all_candidates": [
+      "抖音算法分发"
+    ]
+  },
+  {
+    "target": "现金流",
+    "count": 2,
+    "replacement": "现金流量表",
+    "all_candidates": [
+      "现金流量表",
+      "自由现金流",
+      "现金流折现模型"
+    ]
+  },
+  {
+    "target": "文案公式",
+    "count": 2,
+    "replacement": "AIDA文案公式",
+    "all_candidates": [
+      "AIDA文案公式",
+      "QUEST文案公式",
+      "PASTOR文案公式"
+    ]
+  },
+  {
+    "target": "Apple生态",
+    "count": 2,
+    "replacement": "Apple生态系统",
+    "all_candidates": [
+      "Apple生态系统"
+    ]
+  },
+  {
+    "target": "Go",
+    "count": 2,
+    "replacement": "Goodhart定律",
+    "all_candidates": [
+      "Goodhart定律",
+      "Google Ads",
+      "Google知识图谱"
+    ]
+  },
+  {
+    "target": "推荐系统",
+    "count": 2,
+    "replacement": "个性化推荐系统",
+    "all_candidates": [
+      "个性化推荐系统"
+    ]
+  },
+  {
+    "target": "发展心理学",
+    "count": 2,
+    "replacement": "儿童发展心理学",
+    "all_candidates": [
+      "儿童发展心理学"
+    ]
+  },
+  {
+    "target": "存货",
+    "count": 2,
+    "replacement": "存货计价方法",
+    "all_candidates": [
+      "存货计价方法"
+    ]
+  }
+]

@@ -12,7 +12,7 @@ summary: Kotlin 是 JetBrains 2011 年开源的 JVM 兼容静态类型语言,201
 
 ## 定义
 
-**Kotlin** 是由 JetBrains 设计、2011 年发布、2016 年 1.0 GA 的开源静态类型编程语言。它默认面向 JVM,完全互操作 [[Java]] 生态;同时通过 Kotlin/JS、Kotlin/Native、Kotlin Multiplatform 输出 JavaScript、原生二进制、跨平台共享代码。2017 年 Google I/O 宣布 Kotlin 为 [[Android]] 官方支持语言,2019 年改为"Kotlin First",成为新项目首选。Kotlin 由 Kotlin 基金会(JetBrains + Google 共同治理)维护。
+**Kotlin** 是由 JetBrains 设计、2011 年发布、2016 年 1.0 GA 的开源静态类型编程语言。它默认面向 JVM,完全互操作 [[Java JVM|Java]] 生态;同时通过 Kotlin/JS、Kotlin/Native、Kotlin Multiplatform 输出 JavaScript、原生二进制、跨平台共享代码。2017 年 Google I/O 宣布 Kotlin 为 [[Android]] 官方支持语言,2019 年改为"Kotlin First",成为新项目首选。Kotlin 由 Kotlin 基金会(JetBrains + Google 共同治理)维护。
 
 ## 核心要点
 
@@ -72,12 +72,12 @@ summary: Kotlin 是 JetBrains 2011 年开源的 JVM 兼容静态类型语言,201
 
 ## 与其他概念的关系
 
-- 基础平台:[[JVM]]、[[Java]]
-- 移动端:[[Android]]、[[Jetpack Compose]] vs [[SwiftUI]]
+- 基础平台:[[Java JVM|JVM]]、[[Java JVM|Java]]
+- 移动端:[[Android]]、[[Jetpack Compose]] vs [[SwiftUI与UIKit|SwiftUI]]
 - 跨平台:[[Kotlin Multiplatform]]、[[Flutter]]、[[React Native]]
 - 服务端:[[Spring Boot]]、[[Ktor]]、[[微服务]]
 - 编程范式:[[函数式编程]]、[[协程]]、[[响应式编程]]
-- 同类对比:[[Scala]]、[[Java]]、[[Swift]]
+- 同类对比:[[Scala]]、[[Java JVM|Java]]、[[Swift]]
 - 工具链:[[Gradle]]、[[IntelliJ IDEA]]
 
 ## 参考源
