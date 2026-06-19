@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output/心智模型导航.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "心智模型导航"
+              "title": "新标签页"
             }
           }
         ]
@@ -201,16 +197,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "output/AI营销未来-第一性原理分析.md",
+    "output/手机行业营销AI核心能力.md",
+    "raw/计算机/开发学习/系统/Odoo/Odoo.md",
     "output/心智模型导航.md",
+    "output/AI营销未来-第一性原理分析.md",
     "wiki/entities/阿德勒.md",
     "wiki/concepts/激励.md",
     "wiki/concepts/激励偏差.md",
     "wiki/concepts/生态系统.md",
     "wiki/concepts/红皇后效应.md",
-    "raw/计算机/开发学习/系统/Odoo/Odoo.md",
     "output/decisions/2026-05-NZ露营博主AI一人公司变现.md",
-    "output/手机行业营销AI核心能力.md",
     "learning/sessions/2026-W19-D-camping-ai-one-person.md",
     "learning/sessions/2026-W19-D-camping-ai-one-person.md.tmp.17312.1778491946036",
     "output/decisions/2026-05-NZ露营博主AI一人公司变现.md.tmp.17312.1778491923420",
