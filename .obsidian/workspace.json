@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/计算机/开发学习/系统/Odoo/Odoo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Odoo"
             }
           }
         ]
@@ -197,8 +201,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "output/手机行业营销AI核心能力.md",
     "raw/计算机/开发学习/系统/Odoo/Odoo.md",
+    "output/手机行业营销AI核心能力.md",
     "output/心智模型导航.md",
     "output/AI营销未来-第一性原理分析.md",
     "wiki/entities/阿德勒.md",
