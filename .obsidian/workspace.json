@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/计算机/开发学习/系统/Odoo/Odoo.md",
+                "file": "output/AI营销未来-第一性原理分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Odoo"
+              "title": "AI营销未来-第一性原理分析"
             }
           }
         ]
@@ -201,6 +201,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "learning/sessions/2026-W19-B-2026-digital-marketing-framework.md",
+    "learning/sessions/2026-W19-B-2026-digital-marketing-framework.md.tmp.23508.3653c895b9e0",
+    "output/2026数字营销完整框架.md",
+    "output/2026数字营销完整框架.md.tmp.23508.68f989d009e0",
+    "output/手机行业垂直AI核心能力.md",
     "raw/计算机/开发学习/系统/Odoo/Odoo.md",
     "output/手机行业营销AI核心能力.md",
     "output/心智模型导航.md",
@@ -214,7 +219,6 @@
     "learning/sessions/2026-W19-D-camping-ai-one-person.md",
     "learning/sessions/2026-W19-D-camping-ai-one-person.md.tmp.17312.1778491946036",
     "output/decisions/2026-05-NZ露营博主AI一人公司变现.md.tmp.17312.1778491923420",
-    "output/手机行业垂直AI核心能力.md",
     "output/decisions/2026-05-NZ全市场AI营销公司未来分析.md",
     "learning/sessions/2026-W19-D-mobile-marketing-ai-capabilities.md",
     "learning/sessions/2026-W19-D-mobile-marketing-ai-capabilities.md.tmp.17312.1778489482602",
@@ -227,16 +231,12 @@
     "learning/sessions/2026-W19-D-handset-marketing-startup-NZ-rewrite.md",
     "learning/sessions/2026-W19-D-handset-marketing-startup-NZ-rewrite.md.tmp.17312.1778487792843",
     "learning/PLAYBOOK.md.tmp.17312.1778487770243",
-    "output/decisions/2026-05-AI手机营销公司切入分析.md.tmp.17312.1778487764886",
-    "output/decisions/2026-05-AI手机营销公司切入分析.md.tmp.17312.1778487753007",
     "learning/sessions/2026-W19-D-handset-marketing-startup.md",
     "learning/sessions/2026-W19-F-ai-marketing-companies.md",
     "SCHEMA.md",
     "wiki/concepts/向量召回.md",
     "wiki/concepts/竞争战略.md",
     "wiki/concepts/Cloudflare Pages.md",
-    "wiki/concepts/反垄断.md",
-    "wiki/concepts/决策科学.md",
     "Pasted image 20251118215025.png",
     "Pasted image 20251118215708.png",
     "图片/Pasted image 20250924135807 1.png",
