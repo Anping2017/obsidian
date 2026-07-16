@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "output/2026数字营销完整框架.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026数字营销完整框架"
             }
           }
         ]
@@ -197,6 +201,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "learning/sessions/2026-W29-C-demand-analysis-toolkit.md",
+    "learning/sessions/2026-W29-C-demand-analysis-toolkit.md.tmp.21792.b7367afd82bc",
+    "output/需求分析三件套详解(JTBD+VPC+Kano).md",
+    "output/2026三大短视频平台算法精确说明.md",
+    "output/2026数字营销完整框架.md",
     "output/AI营销未来-第一性原理分析.md",
     "learning/sessions/2026-W29-C-messaging-framework.md",
     "learning/sessions/2026-W29-C-messaging-framework.md.tmp.23508.0e9346b3ff39",
@@ -212,12 +221,9 @@
     "output/完播率心理机制精确说明.md.tmp.23508.31dcf5727f81",
     "learning/sessions/2026-W29-C-short-video-algorithms.md",
     "learning/sessions/2026-W29-C-short-video-algorithms.md.tmp.23508.ca5d9c686989",
-    "output/2026三大短视频平台算法精确说明.md",
     "output/2026三大短视频平台算法精确说明.md.tmp.23508.ed3bfed4b6fa",
     "learning/sessions/2026-W19-B-2026-digital-marketing-framework.md",
     "learning/sessions/2026-W19-B-2026-digital-marketing-framework.md.tmp.23508.3653c895b9e0",
-    "output/2026数字营销完整框架.md",
-    "output/2026数字营销完整框架.md.tmp.23508.68f989d009e0",
     "output/手机行业垂直AI核心能力.md",
     "raw/计算机/开发学习/系统/Odoo/Odoo.md",
     "output/手机行业营销AI核心能力.md",
@@ -231,8 +237,6 @@
     "learning/sessions/2026-W19-D-camping-ai-one-person.md",
     "output/decisions/2026-05-NZ全市场AI营销公司未来分析.md",
     "learning/sessions/2026-W19-D-mobile-marketing-ai-capabilities.md",
-    "learning/sessions/2026-W19-D-mobile-vertical-ai-capabilities.md",
-    "output/decisions/2026-05-AI手机营销公司切入分析.md",
     "Pasted image 20251118215025.png",
     "Pasted image 20251118215708.png",
     "图片/Pasted image 20250924135807 1.png",
