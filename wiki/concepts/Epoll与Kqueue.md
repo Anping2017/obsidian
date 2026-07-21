@@ -40,7 +40,7 @@ summary: epoll 和 kqueue 分别是 Linux 和 BSD/macOS 提供的高效事件通
 
 ## 关系
 
-- 是 [[I/O模型]] 中"多路复用"派的具体实现。
+- 是 [[I_O模型]] 中"多路复用"派的具体实现。
 - 支撑 [[JavaScript事件循环]]、[[Python协程]]、[[Go goroutine与channel]] 在 Linux 上的事件驱动后端。
 - 与 [[操作系统]] 内核子系统紧密耦合——网络协议栈通过 socket 文件描述符接入。
 - [[零拷贝]] 与 epoll 配合,把"事件就绪 + 系统调用直传"组合成最优数据通路。

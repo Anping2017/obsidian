@@ -59,7 +59,7 @@ const data = await fsp.readFile('a.txt');
 
 ### 6. 典型用途
 
-- **Web 后端**:[[Express]]、Koa、Fastify、NestJS、Hono
+- **Web 后端**:[[Express框架|Express]]、Koa、Fastify、NestJS、Hono
 - **API 网关**:[[API网关模式]]
 - **实时服务**:[[WebSocket]] / [[SSE]] / 聊天
 - **构建工具**:[[Webpack]]、[[Vite]]、esbuild、Rollup
@@ -106,7 +106,7 @@ Bun 与 Deno 对 Node 形成挑战,但 Node 仍是企业默认。
 - 引擎:V8(Chrome 同款)
 - 模块:[[JS模块系统]] CJS + ESM
 - 异步:[[事件循环]]、[[Promise与异步]] / async-await
-- 框架:[[Express]]、[[NestJS]]、Koa、Fastify、Hono
+- 框架:[[Express框架|Express]]、[[NestJS]]、Koa、Fastify、Hono
 - 应用:[[Next.js]]、[[Webpack]]、[[Vite]]、[[Electron]]
 - 对比:Deno、Bun、Edge Runtimes
 

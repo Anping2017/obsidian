@@ -12,7 +12,7 @@ summary: Phoenix LiveView 是 Elixir 生态的全栈反应式框架,通过持久
 
 ## 定义
 
-**Phoenix LiveView** 是 Elixir 语言 [[Phoenix框架]] 的核心特性,2019 年由 Chris McCord 主导推出。它颠覆"前端写 React/Vue,后端写 API"的主流范式——所有状态在服务器,通过持久 [[WebSocket]] 把 DOM 差异(diff)推送给浏览器,客户端只需极少 JS 即可实现实时、交互、复杂的 UI。
+**Phoenix LiveView** 是 Elixir 语言 [[Phoenix LiveView]] 的核心特性,2019 年由 Chris McCord 主导推出。它颠覆"前端写 React/Vue,后端写 API"的主流范式——所有状态在服务器,通过持久 [[WebSocket]] 把 DOM 差异(diff)推送给浏览器,客户端只需极少 JS 即可实现实时、交互、复杂的 UI。
 
 LiveView 是"HTML over the Wire"思潮的旗手,与 Rails Hotwire、Laravel Livewire 同一脉络,但因 Elixir/BEAM 虚拟机的天然并发能力(单机数百万连接),性能与延迟优势显著。
 

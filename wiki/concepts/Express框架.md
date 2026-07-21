@@ -12,7 +12,7 @@ summary: Express 是 TJ Holowaychuk 2010 年创建的极简 Node.js Web 框架,�
 
 ## 定义
 
-**Express.js** 是 TJ Holowaychuk 2010 年开源、目前由 OpenJS 基金会托管的 [[Node.js]] Web 框架。它的设计哲学是**最小核心 + 中间件组合**:框架本身只提供路由、请求/响应封装,其他功能(身份验证、日志、解析、压缩)通过中间件拼接。Express 是 Node 生态最广泛的 Web 框架,数百万项目的基础。
+**Express.js** 是 TJ Holowaychuk 2010 年开源、目前由 OpenJS 基金会托管的 [[Node.js]] Web 框架。它的设计哲学是**最小核心 + 中间件组合**:框架本身只提供路由、请求/响应封装,其他功能(身份验证、日志、解析、压缩)通过中间件拼接。Express 是 Node 生态最广泛的 Web 框架,数百万项目的基础,npm 周下载量超 3000 万,是 MEAN / MERN 全栈技术栈中的 "E"。
 
 ## 核心要点
 

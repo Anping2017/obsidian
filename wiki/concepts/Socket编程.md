@@ -48,7 +48,7 @@ summary: Socket 是网络通信的端点抽象,通过 BSD Socket API(socket/bind
 
 ## 关系
 
-- 是 [[I/O模型]] 与 [[Epoll与Kqueue]] 操作的具体对象。
+- 是 [[I_O模型]] 与 [[Epoll与Kqueue]] 操作的具体对象。
 - 通过 Socket API 实现 [[HTTP协议]]、gRPC、MQTT 等高层协议。
 - [[操作系统]] 内核网络协议栈是 Socket 的实现基础;TCP/UDP/IP 在内核态。
 - [[内核态与用户态]] 切换在每个 send/recv 都发生,因此 [[零拷贝]]、io_uring 优化收益明显。

@@ -108,6 +108,8 @@ GROUP BY user_id, TUMBLE(order_time, INTERVAL '1' HOUR);
 
 ## 与其他概念的关系
 
+- 与 Kafka 的组合见 [[Kafka Streams与Flink]]
+
 - 与 [[Apache Kafka]] 深度配合:Kafka 提供事件日志,Flink 做计算
 - 是 [[Kappa架构]] 与 [[Lambda架构]] 中流通路的主力引擎
 - 与 [[Apache Spark]] Streaming 互为参照:真流 vs 微批,各占场景

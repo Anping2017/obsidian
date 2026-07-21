@@ -1,0 +1,39 @@
+# Round 2 Dedup Report
+
+Format: [name] exists? | size(bytes) | refcount
+
+## 品牌资产  vs  品牌权益
+  - "品牌资产": 6039 bytes, 11 refs
+  - "品牌权益": 5637 bytes, 56 refs
+
+## 检索增强生成  vs  RAG
+  - "检索增强生成": 4662 bytes, 10 refs
+  - "RAG": 3274 bytes, 66 refs
+
+## 多模态学习  vs  多模态AI
+  - "多模态学习": 5125 bytes, 6 refs
+  - "多模态AI": 4497 bytes, 14 refs
+
+## AI Agent  vs  AI Agent框架
+  - "AI Agent": 3096 bytes, 49 refs
+  - "AI Agent框架": 6574 bytes, 17 refs
+
+## Express  vs  Express框架
+  - "Express": 3622 bytes, 5 refs
+  - "Express框架": 3541 bytes, 9 refs
+
+## 关系营销  vs  关系营销学派
+  - "关系营销": 4375 bytes, 6 refs
+  - "关系营销学派": 5730 bytes, 8 refs
+
+## 私域流量  vs  私域流量运营
+  - "私域流量": 2972 bytes, 16 refs
+  - "私域流量运营": 4481 bytes, 75 refs
+
+## 手机店  vs  手机店运营
+  - "手机店": 3660 bytes, 4 refs
+  - "手机店运营": 3831 bytes, 14 refs
+
+## 投资决策  vs  投资决策框架
+  - "投资决策": 4380 bytes, 11 refs
+  - "投资决策框架": 2463 bytes, 83 refs

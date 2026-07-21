@@ -12,7 +12,7 @@ summary: BFF 是为特定前端(Web、iOS、Android)定制专属后端聚合层�
 
 ## 定义
 
-**BFF(Backend for Frontend)** 是一种由 Sam Newman 在 SoundCloud 实践后总结的架构模式,字面意为"前端专属后端"。在客户端与下游 [[微服务]] / 数据源之间插入一层薄的聚合服务,**每种前端**(Web、iOS App、Android App、智能电视、Watch 等)对应**一个**专属 BFF。BFF 负责按该端的视图模型聚合、裁剪、改写下游 API,把多端差异化逻辑从前端搬到后端、从公共网关搬到端专属层。
+**BFF(Backend for Frontend)** 是一种源自 SoundCloud 团队工程实践、由 Sam Newman 于 2015 年撰文《Backends For Frontends》总结并推广的架构模式,字面意为"前端专属后端"。在客户端与下游 [[微服务]] / 数据源之间插入一层薄的聚合服务,**每种前端**(Web、iOS App、Android App、智能电视、Watch 等)对应**一个**专属 BFF。BFF 负责按该端的视图模型聚合、裁剪、改写下游 API,把多端差异化逻辑从前端搬到后端、从公共网关搬到端专属层。
 
 ## 核心要点
 
@@ -52,7 +52,7 @@ BFF 让每个前端拥有"贴身定制"的 API 形状与发版节奏。
 ## 典型应用
 
 - **Netflix**:为 Apple TV、Roku、PS、iOS、Web 各端做端专属 Edge 服务,后演化为 [[GraphQL]] Federation
-- **SoundCloud**:Sam Newman 最早提出 BFF 命名场景
+- **SoundCloud**:BFF 模式的发源地,团队实践并命名该模式(Sam Newman 撰文推广)
 - **Spotify、Atlassian、ThoughtWorks**:将 BFF 列入官方架构指南
 
 ## 局限与陷阱

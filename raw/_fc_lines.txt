@@ -1,0 +1,99 @@
+KEY: '2010 年开源'
+  Apache Kafka.md:15: **Apache Kafka** 是 LinkedIn 2010 年开源、现为 Apache 顶级项目的**分布式发布/订阅消息系统与流处理平台**。其根本创新是把消息抽象为**"分布式、可持久化、可重放的提交日志(Commit Log)"**——而非传统消息队列那种"投递即消失"的语义。
+  Express框架.md:15: **Express.js** 是 TJ Holowaychuk 2010 年开源、目前由 OpenJS 基金会托管的 [[Node.js]] Web 框架。它的设计哲学是**最小核心 + 中间件组合**:框架本身只提供路由、请求/响应封装,其他功能(身份验证、日志、解析、压缩)通过中间件拼接。Express 是 Node 生态最广泛的 Web 框架,数百万项目的基础,npm 周下载量超 3000 万,是 MEAN / MERN 全栈技术栈中的 "E"。
+  批处理.md:38:   - 2009 年伯克利诞生,2010 年开源
+
+KEY: '官方文档站'
+  Astro.md:63: - **官方文档站**:Astro 自己的文档、React 文档(部分)、Vercel 文档
+
+KEY: 'SoundCloud 实践后总结'
+  BFF.md:15: **BFF(Backend for Frontend)** 是一种由 Sam Newman 在 SoundCloud 实践后总结的架构模式,字面意为"前端专属后端"。在客户端与下游 [[微服务]] / 数据源之间插入一层薄的聚合服务,**每种前端**(Web、iOS App、Android App、智能电视、Watch 等)对应**一个**专属 BFF。BFF 负责按该端的视图模型聚合、裁剪、改写下游 API,把多端差异化逻辑从前端搬到后端、从公共网关搬到端专属层。
+
+KEY: '最早提出 BFF'
+  BFF.md:55: - **SoundCloud**:Sam Newman 最早提出 BFF 命名场景
+
+KEY: '16 岁以下需父母'
+  CCPA.md:64: - **儿童同意**:13—16 岁需 opt-in 同意,16 岁以下需父母同意,违反加重处罚。
+
+KEY: 'CPM × 点击率'
+  CPM.md:55: CPM × 点击率(CTR)= CPC × 1000
+
+KEY: '100 GB 流量'
+  Cloudflare Pages.md:35: - **免费版**:无限请求、500 次/月构建、并发 1 个、100 GB 流量(其实免费层做完整生产站够用)
+
+KEY: '2023 后'
+  AI客服.md:15: AI 客服(AI Customer Service / Conversational AI)指使用大语言模型(LLM)+ 检索增强(RAG)+ 业务系统集成构建的自动化对话客服系统。它能 7×24 小时响应用户咨询,处理 70-90% 的标准化问题(产品咨询、订单查询、退换货、常见故障、政策解读),只把复杂 / 情绪 / 高价值案例转人工。它是 2023 后 [[CRM客户关系管理|CRM]] 与 [[营销自动化]] 演进的核心方向,也是 [[AI×营销]] 落地最快、ROI 最直接的领域之一。
+  CDP客户数据平台.md:49: - **Composable CDP**:基于现有数据仓库(Snowflake、BigQuery)构建,只做激活层(Hightouch、Census 是这类的代表)。这是 2023 后的新趋势。
+  Cloudflare Pages.md:28: Pages 早期是纯静态,2023 后**整合 Functions**(基于 Workers Runtime):
+
+KEY: '25,000 文件'
+  Cloudflare Pages.md:49: - 部署总大小 ≤ 25,000 文件
+
+KEY: '华盛顿大学'
+  Generative Engine Optimization.md:19: > 术语未定:行业还在使用 GEO、AEO(Answer Engine Optimization)、SXO、LLM SEO、Conversational SEO 等多种说法,语义高度重叠。GEO 是 2023 年普林斯顿/华盛顿大学的 Aggarwal 等人在论文 *GEO: Generative Engine Optimization* 中提出后逐渐主流化的术语。
+  诺斯.md:15: 道格拉斯·塞西尔·诺斯(Douglass Cecil North,1920-2015),美国经济学家、经济史学家。圣路易斯华盛顿大学、斯坦福大学、剑桥任教。1993 年与 Robert Fogel 共同获诺贝尔经济学奖,获奖词:"重新构建经济与制度变迁理论,创立新经济史"。
+
+KEY: '2016 年'
+  INDEX.md:207: | [[Fintech监管沙盒]] | 概念 | 监管沙盒是允许金融科技公司在受控环境下测试创新产品的监管框架,FCA 2016 年首创,降低创新与监管的紧张关系。 |
+  INDEX.md:884: | [[PageRank]] | 概念 | PageRank 是 Larry Page 与 Sergey Brin 1996 年提出的网页重要性算法,通过把网页与链接建模为图、迭代计算每页的"投票权重",成为 Google 的搜索排名基石;虽然 2016 年公开 Toolbar PR 已停,但 PageRank 内核仍是现代排名信号之一。 |
+  INDEX.md:945: | [[新零售融合]] | 概念 | 新零售融合是阿里 2016 年提出的"线上线下数据互通的零售新形态"概念在 2020-2025 年的实操演进,核心是全域获客、全渠道履约、全周期客户运营、全场景数据互通四维一体的实体零售数字化升级。 |
+
+KEY: 'Jay Kreps'
+  Apache Kafka.md:110: - Jay Kreps, *The Log: What every software engineer should know about real-time data's unifying abstraction*
+  Kappa架构.md:8: summary: Kappa 架构是 Jay Kreps 提出的数据架构,用单一流处理管道同时承担实时与批处理需求,以替代 Lambda 架构的双管道复杂度。
+  Kappa架构.md:15: **Kappa 架构**由 LinkedIn 和 Confluent 创始人 Jay Kreps 在 2014 年提出,核心主张是:**用一条流处理管道同时满足实时分析和历史回放需求**,以替代 Lambda 架构中"批 + 流"双管道带来的代码重复、维护负担与一致性难题。
+
+KEY: '提出的概念'
+  INDEX.md:1891: | [[自我效能]] | 概念 | 自我效能是班杜拉提出的概念,指个人对自己能否成功完成特定任务的信念,影响选择、努力、坚持,是教育、组织、健康、临床的核心心理变量。 |
+  BEPS税基侵蚀.md:15: BEPS(Base Erosion and Profit Shifting,税基侵蚀和利润转移)是 OECD 提出的概念,描述跨国企业利用国际税收规则的差异与漏洞,将应税利润转移至低税或零税地区的现象。这导致各国税基受侵蚀,公平税负受到挑战。
+  Lollapalooza效应.md:15: **Lollapalooza 效应**(Lollapalooza Effect)是 [[芒格]] 在 1995 年哈佛法学院演讲《人类误判心理学》中提出的概念:**当多种心理偏差、经济力量或行为驱动因素**同时朝同一方向作用时,会产生**远超单一因素相加**的极端结果**。这是芒格 [[多元思维模型]] 的关键应用——理解为什么有些情况会失控,有些公司会成功。
+
+KEY: '欧盟 CMA'
+  Privacy Sandbox.md:77: - 欧盟 CMA 对 Privacy Sandbox 立案审查,担心 Google 滥用浏览器位置巩固广告优势
+
+KEY: 'TCP 三次握手 1.5'
+  QUIC.md:30: 相比 TCP+TLS 的 3-RTT(TCP 三次握手 1.5 RTT + TLS 1.3 握手 1 RTT),QUIC 显著降低首字节延迟。
+
+KEY: 'FFIEC'
+  SSRF.md:41: - **Capital One(2019)**:WAF 配置不当 + SSRF 拿到 IAM 角色,泄漏 1 亿+ 用户数据,FFIEC 罚款 8000 万美元
+
+KEY: 'DOJ v Meta'
+  反垄断.md:76: - **DOJ v Meta (2024–)**:Instagram、WhatsApp 收购回溯审查
+
+KEY: '微信支付(2014'
+  微信生态.md:47: #### 5. 微信支付(2014)
+
+KEY: '微信支付（2014'
+  <NOT FOUND>
+
+KEY: 'NTFS/exFAT 不区分'
+  文件名.md:32: | **大小写** | NTFS/exFAT 不区分,APFS/ext4 区分 |
+
+KEY: '1976 年首飞'
+  沉没成本.md:50: 英法政府明知协和号客机商业上不可行,仍因已投入 20 年研发继续推进至 1976 年首飞,2003 年退役 → 损失数十亿英镑。
+
+KEY: '两张电影票'
+  沉没成本.md:32: > 给受试者两张电影票:一张原价 $20,一张打折 $10。看完前一张后才发现两场冲突,不能都看。哪张更可能不去?
+
+KEY: 'Rosenthal 1971'
+  皮格马利翁效应.md:31: Rosenthal 1971 总结的"四因素模型":
+
+KEY: '百亿营收'
+  私域流量.md:51: - **完美日记**:小完子人设 + 福利社群,撑起百亿营收增长曲线
+
+KEY: '字典实验'
+  谈判.md:75: - **谈判心理实验**:最后通牒博弈、囚徒困境、Ariely 等的字典实验
+
+KEY: '《心经》《金刚经》'
+  玄奘.md:20: - **翻译佛经 75 部 1335 卷**:质量与数量均冠绝中国译经史。译笔信达雅兼备,《心经》《金刚经》等流传至今的版本多出其手
+
+KEY: '忏悔道哲学'
+  INDEX.md:1723: | [[田边元]] | 实体 | 田边元(1885-1962)是日本京都学派第二代核心,以种的逻辑、忏悔道哲学探索社会、绝对他者与战后伦理责任。 |
+  田边元.md:8: summary: 田边元(1885-1962)是日本京都学派第二代核心,以"种的逻辑""忏悔道哲学"探索社会、绝对他者与战后伦理责任。
+  田边元.md:15: **田边元**(Tanabe Hajime,1885-1962)是日本东京人,京都学派核心成员,[[西田几多郎]] 之后最重要的日本哲学家。早年是数学家,后转哲学,师从西田并继任京都帝国大学哲学教授。代表作《种的逻辑》(1937)、《忏悔道哲学》(1945)。战时立场曾被批评(参与"近代的超克"讨论),战后以《忏悔道》深度反省自身与日本的责任,成为战后日本伦理哲学的重要起点。
+
+KEY: '田中美知太郎'
+  西田几多郎.md:24: - **影响**:开创京都学派([[田边元]]、西谷启治、田中美知太郎、上田闲照等);近代日本哲学的源头;现象学、海德格尔哲学进入日本的桥梁;近年欧美研究激增
+
+KEY: '把龙树思想系统译入'
+  龙树.md:29: - [[玄奘]]:把龙树思想系统译入中国

@@ -25,14 +25,14 @@ summary: Cloudflare Pages 是 Cloudflare 推出的 Git 集成 Jamstack 平台,�
 
 ### 与 Workers 的关系
 
-Pages 早期是纯静态,2023 后**整合 Functions**(基于 Workers Runtime):
+Pages 早期是纯静态,2021 年起**整合 Functions**(基于 Workers Runtime,2021 年 11 月 beta、2022 年 GA):
 - 在仓库根 `/functions/` 写 TS/JS 函数,自动变成 API 路由
 - 支持 Pages 与 Workers 互调,可做 SSR、ISR、API、表单处理
 - 与 D1(SQLite)、R2(对象存储)、KV、Durable Objects、Queues 等 Cloudflare 全家桶集成
 
 ### 定价模型
 
-- **免费版**:无限请求、500 次/月构建、并发 1 个、100 GB 流量(其实免费层做完整生产站够用)
+- **免费版**:无限请求、500 次/月构建、并发 1 个、无限带宽(不限流量)(其实免费层做完整生产站够用)
 - **Pro+**:更多构建并发、更高构建分钟数、企业级 SLA
 - 与 Vercel(免费层带宽 100GB,商业用途禁止)对比,Cloudflare Pages 商业免费极其友好
 
@@ -46,7 +46,7 @@ Pages 早期是纯静态,2023 后**整合 Functions**(基于 Workers Runtime):
 ### 限制
 
 - 单个文件 ≤ 25 MB
-- 部署总大小 ≤ 25,000 文件
+- 部署总大小 ≤ 20,000 文件(免费版;付费版 100,000)
 - Functions 冷启动 < 5ms(基于 Workers 的 V8 isolate)
 - 函数运行时上限 CPU 30s
 

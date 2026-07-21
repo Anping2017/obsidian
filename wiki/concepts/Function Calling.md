@@ -76,7 +76,7 @@ Anthropic 2024 年提出的开放协议,把 Function Calling 标准化为客户�
 - **编程助手**:Claude Code、Cursor、GitHub Copilot —— 调用 shell、文件读写、git
 - **企业搜索**:连接 Notion、Slack、Confluence 检索内部知识
 - **办公自动化**:发邮件、建日程、改 Sheet、生成 PPT
-- **检索增强**:与 [[检索增强生成]] 结合,先调检索工具再生成答案
+- **检索增强**:与 [[RAG|检索增强生成]] 结合,先调检索工具再生成答案
 
 ## 局限与挑战
 
@@ -92,7 +92,7 @@ Anthropic 2024 年提出的开放协议,把 Function Calling 标准化为客户�
 ## 与其他概念的关系
 
 - 基座是 [[大语言模型]] 与 [[预训练语言模型]] 的指令跟随能力
-- 与 [[检索增强生成]] 互补 —— RAG 是被动检索,Function Calling 是主动调用
+- 与 [[RAG|检索增强生成]] 互补 —— RAG 是被动检索,Function Calling 是主动调用
 - 通过 [[Embedding]] 实现工具描述的语义召回(工具过多时)
 - 是构建 AI Agent 的基本机制,扩展为 [[多模态AI]] 中的图像 / 音频工具
 - 主流模型 [[Gemini系列模型]] 与 Claude、GPT 都原生支持

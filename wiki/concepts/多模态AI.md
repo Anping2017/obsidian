@@ -86,6 +86,8 @@ summary: 多模态 AI 在统一架构内联合处理文本、图像、音频、�
 
 ## 与其他概念的关系
 
+- 训练范式详见 [[多模态学习]](本页侧重应用形态,后者侧重学习方法)
+
 - 是 [[大语言模型]] 的演化方向之一
 - [[Transformer架构|Transformer]] 是统一架构基础
 - [[CLIP]]、[[Vision Transformer]]、[[Sora视频生成]]、[[Stable Diffusion]]、[[Whisper语音识别]]、[[视觉语言模型]] 是核心组件

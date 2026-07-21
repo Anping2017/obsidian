@@ -1,0 +1,3 @@
+126	entities/西田几多郎.md	exists=True
+127	entities/贝克莱.md	exists=True
+128	entities/赫拉克利特.md	exists=True

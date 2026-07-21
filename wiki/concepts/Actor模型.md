@@ -61,7 +61,7 @@ Actor 形成层级父子关系。子 Actor 出错时,父 Actor 决定:
 - Ruby 风格语法
 - 完整 Erlang 互操作
 - 现代工具链(mix、Hex)
-- [[Phoenix框架]] 与 [[Phoenix LiveView]]
+- [[Phoenix LiveView]] 与 [[Phoenix LiveView]]
 
 WhatsApp、Discord、Pinterest、Bleacher Report 等大量用 Erlang/Elixir。WhatsApp 50 名工程师支撑 9 亿用户的传奇就建立在 BEAM 之上。
 

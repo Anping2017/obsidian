@@ -38,7 +38,7 @@ summary: SSRF 是攻击者诱使服务器代为发起任意请求的漏洞,利�
 
 ### 3. 代表案例
 
-- **Capital One(2019)**:WAF 配置不当 + SSRF 拿到 IAM 角色,泄漏 1 亿+ 用户数据,FFIEC 罚款 8000 万美元
+- **Capital One(2019)**:WAF 配置不当 + SSRF 拿到 IAM 角色,泄漏 1 亿+ 用户数据,OCC 罚款 8000 万美元(2020 年 8 月)
 - **GitLab、Slack、Shopify** 等多次曝出 SSRF 高危漏洞
 - **MS Exchange ProxyLogon、ProxyShell** 链路含 SSRF 步骤
 

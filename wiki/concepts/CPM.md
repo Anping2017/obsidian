@@ -52,7 +52,7 @@ CPM 因平台、地域、行业差异极大:
 ### 4. 与转化指标关系
 
 ```
-CPM × 点击率(CTR)= CPC × 1000
+CPM = CPC × 点击率(CTR)× 1000
 eCPM = CPC × CTR × 1000 = CPA × CVR × CTR × 1000
 ```
 

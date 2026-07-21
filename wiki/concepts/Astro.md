@@ -60,7 +60,7 @@ Astro 2.0 引入的**类型安全内容层**:Markdown / MDX / JSON 等内容用 
 
 ## 典型应用
 
-- **官方文档站**:Astro 自己的文档、React 文档(部分)、Vercel 文档
+- **官方文档站**:Astro 自己的文档、Cloudflare Docs(基于 Astro 的 Starlight 文档框架)
 - **公司营销站**:大量 SaaS 产品落地页
 - **博客 / Newsletter**:个人技术博客主流选项之一
 - **电商商品展示**:配合 SSR / 边缘渲染做商品页

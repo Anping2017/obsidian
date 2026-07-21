@@ -5,14 +5,14 @@ tags: [frontend, mature]
 sources: []
 created: 2026-05-10
 updated: 2026-05-10
-summary: Jamstack 是 Netlify 2016 年提出的现代 Web 架构范式,以 JavaScript+APIs+Markup 为核心,预渲染 HTML 静态托管 + API 动态能力,与传统 LAMP 单体相对,后演化为更通用的"composable web"。
+summary: Jamstack 是 Netlify 2015 年提出的现代 Web 架构范式,以 JavaScript+APIs+Markup 为核心,预渲染 HTML 静态托管 + API 动态能力,与传统 LAMP 单体相对,后演化为更通用的"composable web"。
 ---
 
 # Jamstack JavaScript APIs Markup
 
 ## 定义
 
-**Jamstack** 是 [[Netlify]] 创始人 Mathias Biilmann 在 2016 年提出的现代 Web 架构范式,首字母 **J**avaScript + **A**PIs + **M**arkup。其核心主张:
+**Jamstack** 是 [[Netlify]] 创始人 Mathias Biilmann 在 2015 年提出的现代 Web 架构范式,首字母 **J**avaScript + **A**PIs + **M**arkup。其核心主张:
 
 - 预先生成 / 边缘缓存的**静态 Markup** 作为基础层
 - 在浏览器中用 **JavaScript** 进行交互增强

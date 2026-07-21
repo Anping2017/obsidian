@@ -40,7 +40,7 @@ summary: Python 协程通过 async/await 在单线程内协作式调度大量并
 - 是 [[并发与并行]] 在 Python 中"协作式并发"的实现,绕过 [[Python GIL]] 限制 I/O 任务。
 - 与 [[Python生成器]] 同根——asyncio 在 Python 3.5 之前用 yield-based coroutine。
 - 与 [[JavaScript Promise与async-await]] 概念高度相似——都是 await + 事件循环。
-- [[I/O模型]]:asyncio 底层是多路复用,看似阻塞实为非阻塞 + 事件驱动。
+- [[I_O模型]]:asyncio 底层是多路复用,看似阻塞实为非阻塞 + 事件驱动。
 - [[Python上下文管理器]] 的 async 版本(`__aenter__/__aexit__`)是协程资源管理基础。
 - 与 [[Go goroutine与channel]] 对比:goroutine 用户态调度但语法更像同步;协程显式 await,边界清晰。
 

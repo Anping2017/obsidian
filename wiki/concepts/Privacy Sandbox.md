@@ -74,7 +74,7 @@ summary: Privacy Sandbox 是 Google 主导的浏览器级隐私保护与广告�
 
 ### 监管与反垄断博弈
 
-- 欧盟 CMA 对 Privacy Sandbox 立案审查,担心 Google 滥用浏览器位置巩固广告优势
+- 英国 CMA(竞争与市场管理局)对 Privacy Sandbox 立案审查,担心 Google 滥用浏览器位置巩固广告优势
 - Google 承诺"不在 Privacy Sandbox 之外使用替代标识符",并接受 CMA 监督
 - IAB Tech Lab、Ad Tech 行业普遍认为 Privacy Sandbox 还不能完全替代第三方 Cookie
 

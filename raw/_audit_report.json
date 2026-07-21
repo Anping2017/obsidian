@@ -1,16 +1,17 @@
 {
-  "total_files": 1682,
-  "total_outgoing_links": 19362,
+  "total_files": 1686,
+  "total_outgoing_links": 19456,
   "broken_links": {
-    "count": 812,
+    "count": 806,
     "top30_by_refcount": [
       {
-        "target": "Headless CMS",
-        "ref_count": 3,
+        "target": "CLAUDE",
+        "ref_count": 4,
         "sources_sample": [
-          "Cloudflare Pages",
-          "Jamstack",
-          "Netlify"
+          "中文名",
+          "中文名",
+          "中文名",
+          "文件名"
         ]
       },
       {
@@ -20,24 +21,6 @@
           "MVP",
           "产品管理",
           "精益管理"
-        ]
-      },
-      {
-        "target": "群体思维",
-        "ref_count": 3,
-        "sources_sample": [
-          "Pre-mortem",
-          "Pre-mortem",
-          "Pre-mortem"
-        ]
-      },
-      {
-        "target": "wikilink",
-        "ref_count": 3,
-        "sources_sample": [
-          "中文名",
-          "文件名",
-          "文件名"
         ]
       },
       {
@@ -59,35 +42,11 @@
         ]
       },
       {
-        "target": "wikilinks",
+        "target": "wikilink",
         "ref_count": 2,
         "sources_sample": [
           "WORKFLOW",
           "WORKFLOW"
-        ]
-      },
-      {
-        "target": "Phoenix框架",
-        "ref_count": 2,
-        "sources_sample": [
-          "Actor模型",
-          "Phoenix LiveView"
-        ]
-      },
-      {
-        "target": "ChatGPT Search",
-        "ref_count": 2,
-        "sources_sample": [
-          "AI Overviews",
-          "Schema markup"
-        ]
-      },
-      {
-        "target": "SvelteKit",
-        "ref_count": 2,
-        "sources_sample": [
-          "Astro",
-          "Nuxt"
         ]
       },
       {
@@ -96,22 +55,6 @@
         "sources_sample": [
           "BEPS税基侵蚀",
           "转让定价"
-        ]
-      },
-      {
-        "target": "GPT与LLM家族",
-        "ref_count": 2,
-        "sources_sample": [
-          "BERT语义搜索算法",
-          "MUM多任务统一模型"
-        ]
-      },
-      {
-        "target": "Meta Robots标签",
-        "ref_count": 2,
-        "sources_sample": [
-          "Canonical规范化标签",
-          "Robots.txt"
         ]
       },
       {
@@ -235,6 +178,14 @@
         ]
       },
       {
+        "target": "Vercel 与 Netlify",
+        "ref_count": 2,
+        "sources_sample": [
+          "Headless CMS",
+          "SvelteKit"
+        ]
+      },
+      {
         "target": "前端框架",
         "ref_count": 2,
         "sources_sample": [
@@ -248,6 +199,54 @@
         "sources_sample": [
           "HTTPS与TLS握手",
           "HTTPS与TLS握手"
+        ]
+      },
+      {
+        "target": "LAMP",
+        "ref_count": 2,
+        "sources_sample": [
+          "Jamstack",
+          "Jamstack"
+        ]
+      },
+      {
+        "target": "MACH架构",
+        "ref_count": 2,
+        "sources_sample": [
+          "Jamstack",
+          "Jamstack"
+        ]
+      },
+      {
+        "target": "Gatsby",
+        "ref_count": 2,
+        "sources_sample": [
+          "Jamstack",
+          "Jamstack"
+        ]
+      },
+      {
+        "target": "Eleventy",
+        "ref_count": 2,
+        "sources_sample": [
+          "Jamstack",
+          "Jamstack"
+        ]
+      },
+      {
+        "target": "Android",
+        "ref_count": 2,
+        "sources_sample": [
+          "Kotlin",
+          "Kotlin"
+        ]
+      },
+      {
+        "target": "气候",
+        "ref_count": 2,
+        "sources_sample": [
+          "Lollapalooza效应",
+          "临界点"
         ]
       }
     ]
@@ -330,7 +329,7 @@
     {
       "stem": "投资决策框架",
       "incoming": 69,
-      "outgoing": 6
+      "outgoing": 7
     }
   ]
 }

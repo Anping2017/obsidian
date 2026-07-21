@@ -12,7 +12,7 @@ summary: Apache Kafka 是分布式发布订阅消息系统与流处理平台,以
 
 ## 定义
 
-**Apache Kafka** 是 LinkedIn 2010 年开源、现为 Apache 顶级项目的**分布式发布/订阅消息系统与流处理平台**。其根本创新是把消息抽象为**"分布式、可持久化、可重放的提交日志(Commit Log)"**——而非传统消息队列那种"投递即消失"的语义。
+**Apache Kafka** 是 LinkedIn 2010 年开发、2011 年开源、现为 Apache 顶级项目的**分布式发布/订阅消息系统与流处理平台**。其根本创新是把消息抽象为**"分布式、可持久化、可重放的提交日志(Commit Log)"**——而非传统消息队列那种"投递即消失"的语义。
 
 Kafka 一身兼任四种角色:
 
@@ -92,6 +92,8 @@ Kafka 历史依赖 ZooKeeper 管理元数据,运维复杂。2022 年 KRaft 模�
 - **替代选项**:Pulsar(分层存储)、Redpanda(无 JVM)、NATS JetStream
 
 ## 与其他概念的关系
+
+- 与流处理引擎的配合见 [[Kafka Streams与Flink]]
 
 - 是 [[消息队列]] 与 [[流处理]] 的事实标准
 - [[Kappa架构]] 与 [[Lambda架构]] 都以 Kafka 为核心事件日志

@@ -16,7 +16,7 @@ summary: GEO(生成式引擎优化)是面向 ChatGPT、Perplexity、Google AI Ov
 
 GEO 不取代 [[SEO]],而是在 SEO 之上加一层"AI 答案优化"。当用户的查询不再止于 10 条蓝链而是直接读到一段 AI 生成的综合回答时,品牌的可见度战场从"排名第几"变成"是否在答案里、以什么角色出现"。
 
-> 术语未定:行业还在使用 GEO、AEO(Answer Engine Optimization)、SXO、LLM SEO、Conversational SEO 等多种说法,语义高度重叠。GEO 是 2023 年普林斯顿/华盛顿大学的 Aggarwal 等人在论文 *GEO: Generative Engine Optimization* 中提出后逐渐主流化的术语。
+> 术语未定:行业还在使用 GEO、AEO(Answer Engine Optimization)、SXO、LLM SEO、Conversational SEO 等多种说法,语义高度重叠。GEO 是 2023 年普林斯顿大学等机构(普林斯顿、佐治亚理工、Allen AI、IIT Delhi)的 Aggarwal 等人在论文 *GEO: Generative Engine Optimization* 中提出后逐渐主流化的术语。
 
 ## 核心要点
 
